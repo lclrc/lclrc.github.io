@@ -15,6 +15,23 @@ Description: Natively allow you to adjust Auto-Lock interval in Low Power Mode.
 Name: NoLowPowerMode30SecAutoLock
 Author: Brend0n <brendonjkding@126.com>
 
+Package: com.brend0n.nopassafterrespringsafe
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/com.brend0n.nopassafterrespringsafe_0.0.2_iphoneos-arm64.deb
+Size: 2842
+MD5sum: 2429a9a50a57afa6dbff0f25904d9c90
+SHA1: fd25fc95fc57cd07fe4147d7b4ec9b352f236e11
+SHA256: 504c650f3354bce1dda384b7d8346f4204621d2742fa1827eb47b14d7d253f28
+SHA512: 2409e2556e143d0c8a11fa9b77df01a34ab6ae6debee2e80a6bb3a95efe8a5589049f882244e2aec902e6626317903e93f4a2202ea0de34d3fab72a45471f4b1
+Description: Disables passcode after a respring. This version does NOT modify system file. It's safe to use.
+Name: NoPassAfterRespring (Safe)
+Author: Brend0n <brendonjkding@126.com>
+
 Package: com.tomaszpoliszuk.keyboardcontroller
 Architecture: iphoneos-arm64
 Version: 1.2.1
