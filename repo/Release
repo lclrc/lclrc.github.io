@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm64
+Codename: squidforce
+Components: main
+Date: Tue, 18 Apr 2023 05:47:52 +0000
+Description: 自用源
+Label: tweaks
+Origin: https://github.com/lclrc
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 46942525db72b3a01d40831ceab2036e              687 Packages
+ 8b63a9d777a70a043912c68dbf930639              544 Packages.bz2
+ e7082812d475c085f4b26505ca6d3661              488 Packages.gz
+ 3a994c075f274561aadfd18f38cee828              568 Packages.xz
+ 0bc91eb76f59258d6d193c6c6de45954              484 Packages.zst
+ 66faa98750e8edaf11a144036c5c30c6              203 Release
+SHA1:
+ 5efb0e52eecc0d7f3c978abfeef6f8b67c4646b6              687 Packages
+ 35e638318986e47eec2e96b840f4c9853c5b9c39              544 Packages.bz2
+ 46f5734c4c5bc78a988a13e24c9e20d2ae2f4d54              488 Packages.gz
+ cd0f29c65e4bf19be2ca1295f15ffddb8ce55d3a              568 Packages.xz
+ 72257afaa3adf0b22f5b72d6bf9195cfe28b75da              484 Packages.zst
+ 79c83501f9c5618055ae3867409ebbae6c2d3e0a              203 Release
+SHA256:
+ 36758ccfaa776b7a4acfbd847f8a575d3187ffd174ca556150d40128e09720f7              687 Packages
+ 674679597a3358b1cc51f2cf90aee27e07862836c1368badde1ef25642e6cf01              544 Packages.bz2
+ 923e68cc7bc862152555fdb50539f8ada6062c5ded4bbd3d9b26859b28d53956              488 Packages.gz
+ 5ae6cffb9419a14ab9a0620a0231c69e4da10085f23e39170b60120805460b6e              568 Packages.xz
+ 8ed5a95a0b61853462493884ecdc9427bbafa65b79cd896ef05b7fe76d1505f1              484 Packages.zst
+ 38a7588ae71ee1221dea557192a49b83893ebc54cf4d6f0b8d55c04afafee946              203 Release
+SHA512:
+ ccf348516b50f2ce4863151b7b22510579bd197bc436ad71090d55cc3479895fc7aac7c35a8daf4f9bab980d74ab9e8729531d98a24001d5ad18d542a340b517              687 Packages
+ 1f40496e71a838c8cfc12ab00727010b66f1536902724d1edb2baea38d6bd0a8ccff572a2562d516c33e3bd1294a8af3f9fce5d93dea6c3899e1b16e05a4a99c              544 Packages.bz2
+ 0f148253ce4dfd51e50e49c9d6c564e25de91988dc8cb47e0f3adce2ccdd796be05e9663208a32c971532dade8e606c4c92f4bea8ef9bb77cfc78e99c2ec1cfa              488 Packages.gz
+ 2a4cb49fe012aaaa4dc7c0fbb23f3c457943ba27738130d330f7a56231e0a8f6d328a7212a6f50b21b3005b86d440641e2cc987d1179dbd98afa920ec42f67b7              568 Packages.xz
+ 177d4fdf5d26aed958db4304f6159852c5e814ed0c9584934b39f2efafbd270d8652fd0933bd54cbfb3dd8e3b6824d0d8b9cd46c95197b256f6b206d8f036daf              484 Packages.zst
+ 032f24558ff2543f4a52be688fe754d3fbbfc4174fb109a9670e2e359ef62005967ca8d82fe014af399c0b38f89baab11d5846bc79141d0c08e233039cf5ce76              203 Release

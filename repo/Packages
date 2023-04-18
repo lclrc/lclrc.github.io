@@ -1,0 +1,17 @@
+Package: jp.soh.freepip
+Architecture: iphoneos-arm64
+Version: 0.0.3-1+debug
+Section: Tweaks
+Maintainer: Soh Satoh
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/jp.soh.freepip_0.0.3-1+debug_iphoneos-arm64.deb
+Size: 7658
+MD5sum: c5b13b257a6d5a93f4c77f95e4c6af38
+SHA1: 2b757184ed2b298dfca4840e613975703f0ab30c
+SHA256: 7ba3e04edb4fe44dc6a9441a05a3760858b737422f0f55d2ea76e8ee1b4ffa6c
+SHA512: 28da0e09722bd4f628066b390e9a8d3a16b1be02dce97841c90732a774e6678a126b4c3a0e07b5874f89567d341934dc9ad7f245b6f74b66ad6beeb60234fe34
+Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly.
+Name: FreePIP
+Author: Soh Satoh
+

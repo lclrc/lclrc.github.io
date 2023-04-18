@@ -20,14 +20,14 @@ elif [[ "$(uname)" == Darwin ]] && [[ "$(uname -p)" == i386 ]]; then # macOS usa
     if test ! "$(which brew)"; then
         /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
     fi
-    brew list --verbose wget || brew install wget
-    brew list --verbose xz || brew install xz
-    brew list --verbose zstd || brew install zstd
-    clear
+    # brew list --verbose wget || brew install wget
+    # brew list --verbose xz || brew install xz
+    # brew list --verbose zstd || brew install zstd
+    # clear
     
-    echo "apt-ftparchive compiled by @Diatrus"
-    wget -q -nc https://apt.procurs.us/apt-ftparchive # assuming Homebrew is already installed, download apt-ftparchive via wget
-    sudo chmod 751 ./apt-ftparchive # could change this to be pointed in documentation, but people don't like to read what needs READING. i'll think about it later.
+    # echo "apt-ftparchive compiled by @Diatrus"
+    # wget -q -nc https://apt.procurs.us/apt-ftparchive # assuming Homebrew is already installed, download apt-ftparchive via wget
+    # sudo chmod 751 ./apt-ftparchive # could change this to be pointed in documentation, but people don't like to read what needs READING. i'll think about it later.
     
     rm {Packages{,.xz,.gz,.bz2,.zst},Release{,.gpg}} 2> /dev/null
     
