@@ -38,6 +38,10 @@ elif [[ "$(uname)" == Darwin ]] && [[ "$(uname -p)" == i386 ]]; then # macOS usa
     bzip2 -c9 Packages > Packages.bz2
     
     ./apt-ftparchive release -c ./assets/repo/repo.conf . > Release
+
+    git add debians Packages Packages.xz Packages.gz Packages.bz2 Packages.zst Release depictions
+    git commit -m "update packages"
+    git push
     
     echo "Repository Updated, thanks for using repo.me!"
 elif [[ "$(uname -r)" == *Microsoft ]]; then # WSL 1 usage
@@ -52,10 +56,6 @@ elif [[ "$(uname -r)" == *Microsoft ]]; then # WSL 1 usage
     bzip2 -c9 Packages > Packages.bz2
     
     apt-ftparchive release -c ./assets/repo/repo.conf . > Release
-
-    git add debians Packages Packages.xz Packages.gz Packages.bz2 Packages.zst Release depictions
-    git commit -m "update packages"
-    git push
     
     echo "Repository Updated, thanks for using repo.me!"
 elif [[ "$(uname -r)" == *microsoft-standard ]]; then # WSL 2 usage
