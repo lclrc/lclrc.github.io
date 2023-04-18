@@ -29,12 +29,12 @@ Maintainer: Soh Satoh
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/jp.soh.freepip_0.0.3_iphoneos-arm64.deb
-Size: 6042
-MD5sum: 8a09212eb592bf88f9652b87b452626d
-SHA1: b8bc18c1d00c880f531b504a1a30fcba8ceb63c3
-SHA256: 988264204ddea2bf770ca2459c76af04cde4bd07a996c19c9fe2ff4d71157df3
-SHA512: 24446c7c09a3b80e196b7f7c286da0f10fc635b541b11bd970ce08f0c85add390dae39e12761d7dd57c1782afcd0d52ec5f5d22295cd03e1a5b4f87b957c7388
-Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly.
+Size: 6076
+MD5sum: 6d026d202573ab896d48d5ffa39ffcd6
+SHA1: 7d4f6b625d14df988869c151bda17eba8a90401d
+SHA256: b2d0f0184dbd19a0aae52c7dc8fb525b3d2e7b815ed822a9e833618e6e3a01f6
+SHA512: dcea2a9ebb726ad8d9f5ecc85c8ce1bcec0a59c4e9c3273cae5b41cce849ad5e55746527a3539f58409893c92bf4c56692a7625d1a461602bc5ba7278926fa26
+Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly. Long Press PIP window to enable freepip mode.
 Name: FreePIP
 Author: Soh Satoh
 
