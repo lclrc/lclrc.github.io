@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://raw.githubusercontent.com/lclrc/repo/master/assets/Banners/RepoHeader.png",
+        "title": "FreePIP",
+        "package": "jp.soh.freepip",
+        "hideShadow": false
+    }
+  ]
+}
