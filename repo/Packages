@@ -55,3 +55,23 @@ Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Pict
 Name: FreePIP
 Author: Soh Satoh
 
+Package: xyz.skitty.ersatz
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Skitty
+Installed-Size: 392
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/xyz.skitty.ersatz_1.0_iphoneos-arm64.deb
+Size: 33876
+MD5sum: 04bd66b4d2b5f7652872c58d6295bda7
+SHA1: 72b918a0e1fbcfa680172465c28969f6f117faea
+SHA256: edfd18c449ea52825fc17c159d582b14061321ef7ab7f52632c7a7b2a7f67c6d
+SHA512: 736f3ef2af9885950c4c0aad942b099b34da71a1fe283196305288b2c75c50e330d3cad56ddd2277568e97dd2b8086d19eb551249e517c971539fd3dd8f865a1
+Description: Replace any text, system-wide!
+Name: Ersatz
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.ersatz.png
+Depiction: https://skitty.xyz/repo/depictions/?p=xyz.skitty.ersatz
+SileoDepiction: https://skitty.xyz/repo/depictions/?s=xyz.skitty.ersatz
+Author: Skitty
+
