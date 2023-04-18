@@ -6,16 +6,14 @@ Maintainer: Brend0n <brendonjkding@126.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debians/com.brend0n.nolowpowermode30secautolock_0.0.1_iphoneos-arm64.deb
-Size: 3984
-MD5sum: 19693144c92b10fb280ad8d964fe0072
-SHA1: 817724f577df4b5b56fd924fe9928adec41298d3
-SHA256: 9b44476d7623e2f82862aab4314bcae02bc7857b63018ac9f6b8ed180827db21
-SHA512: 07dfca54aadb118d8db32b89c1350d186ac18a66ef4a3cf42f7cfd5463dcf890ad20d4888c3075713704956d51a5362910b49778a72e6a4cc620199bb584a612
+Size: 3930
+MD5sum: 0737d123137e77beaadb59d8ef2bd375
+SHA1: d857563e0630de12026b28d75eec588bb880f328
+SHA256: 1965b0d59a711405b95892f889c11a2097f09084d2cfbb96708ab5170b23c473
+SHA512: b9f393900921face9c58f28bb67b7b52b18a4b8317da6856af9ba082039ae937691faeb7d792b8af3bb801b67a95b902091419a66d388aa7d60038d280eac6c8
 Description: Natively allow you to adjust Auto-Lock interval in Low Power Mode.
 Name: NoLowPowerMode30SecAutoLock
 Author: Brend0n <brendonjkding@126.com>
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.nolowpowermode30secautolock
-SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.nolowpowermode30secautolock/depiction.json
 
 Package: com.tomaszpoliszuk.keyboardcontroller
 Architecture: iphoneos-arm64
