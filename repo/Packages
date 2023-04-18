@@ -19,17 +19,18 @@ Package: com.brend0n.nopassafterrespringsafe
 Architecture: iphoneos-arm64
 Version: 0.0.2
 Section: Tweaks
-Maintainer: Brend0n <brendonjkding@126.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debians/com.brend0n.nopassafterrespringsafe_0.0.2_iphoneos-arm64.deb
-Size: 2842
-MD5sum: 2429a9a50a57afa6dbff0f25904d9c90
-SHA1: fd25fc95fc57cd07fe4147d7b4ec9b352f236e11
-SHA256: 504c650f3354bce1dda384b7d8346f4204621d2742fa1827eb47b14d7d253f28
-SHA512: 2409e2556e143d0c8a11fa9b77df01a34ab6ae6debee2e80a6bb3a95efe8a5589049f882244e2aec902e6626317903e93f4a2202ea0de34d3fab72a45471f4b1
+Size: 2976
+MD5sum: 10b349a7d4f8f05830ff30bc56a3f8f8
+SHA1: b3713e1c59a902f080a017ac269f6a2d8db7bed4
+SHA256: 09899b9ecdcb0d6f93a935e8ce5a1f5fd893a2bc5ba82aabf4f548649cb5af89
+SHA512: 5eda2499308ce78ba575f4abbcd7041107545c707540da54b4d358a939be65aaa0c689ca480be9f8cfefef5c329f1dcfb56b738c359e09b91640184f8b20ffbc
 Description: Disables passcode after a respring. This version does NOT modify system file. It's safe to use.
 Name: NoPassAfterRespring (Safe)
+在注销前是解锁状态的情况下，注销后自动跳过人脸或指纹识别到桌面。
+Maintainer: Brend0n <brendonjkding@126.com>
 Author: Brend0n <brendonjkding@126.com>
 
 Package: com.tomaszpoliszuk.keyboardcontroller
@@ -40,13 +41,13 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 460
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
 Filename: ./debians/com.tomaszpoliszuk.keyboardcontroller_1.2.1_iphoneos-arm64.deb
-Size: 70804
-MD5sum: e8a94c005c6f8fd1eec72e992afc9145
-SHA1: b084d47f79b3972778e8930abe84078e5c18d733
-SHA256: 19507aef04c16137052d07dd5e1c49337fb53f1ba71cc4299471b0990f9e4291
-SHA512: ec71628c098b5c327090f25d133d97b1bb0ff85cc652df12a2ac86850cbf971f099b05e526aacb4e122bcf43059e931e16652818cab15c1c7f50e00ceccfa520
+Size: 70678
+MD5sum: 05ef15d97cb6dae5ffd78559d3ec1dff
+SHA1: 7bf4a637a58871156558cf9037b546358a783c7d
+SHA256: a2eb87be50d41f25aa6310d4f6049567025159f5b7ca167b9c290b5b34a0b19c
+SHA512: 47667a87969cfc21f5c56f83aad4c3c1ef1b81ae447821230d5c2571d465b93c5de6f79fb4454e623d0a64081686d470ef8290fff24d10518f281f3027c3f8cb
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
-Description: Control your Keyboard
+Description: Control your Keyboard. 对键盘做一些自定义调整。
 Tag: purpose::extension
 Name: Keyboard Controller
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
