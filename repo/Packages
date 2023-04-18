@@ -1,3 +1,26 @@
+Package: com.tomaszpoliszuk.keyboardcontroller
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 460
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: ./debians/com.tomaszpoliszuk.keyboardcontroller_1.2.1_iphoneos-arm64.deb
+Size: 70804
+MD5sum: e8a94c005c6f8fd1eec72e992afc9145
+SHA1: b084d47f79b3972778e8930abe84078e5c18d733
+SHA256: 19507aef04c16137052d07dd5e1c49337fb53f1ba71cc4299471b0990f9e4291
+SHA512: ec71628c098b5c327090f25d133d97b1bb0ff85cc652df12a2ac86850cbf971f099b05e526aacb4e122bcf43059e931e16652818cab15c1c7f50e00ceccfa520
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
+Description: Control your Keyboard
+Tag: purpose::extension
+Name: Keyboard Controller
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
+Author: Tomasz Poliszuk
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
+Icon: file:///Library/PreferenceBundles/KeyboardControllerPreferences.bundle/icons/KeyboardController@3x.png
+
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64
 Version: 0.0.3
