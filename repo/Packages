@@ -19,18 +19,17 @@ Package: com.brend0n.nopassafterrespringsafe
 Architecture: iphoneos-arm64
 Version: 0.0.2
 Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debians/com.brend0n.nopassafterrespringsafe_0.0.2_iphoneos-arm64.deb
 Size: 2976
-MD5sum: 10b349a7d4f8f05830ff30bc56a3f8f8
-SHA1: b3713e1c59a902f080a017ac269f6a2d8db7bed4
-SHA256: 09899b9ecdcb0d6f93a935e8ce5a1f5fd893a2bc5ba82aabf4f548649cb5af89
-SHA512: 5eda2499308ce78ba575f4abbcd7041107545c707540da54b4d358a939be65aaa0c689ca480be9f8cfefef5c329f1dcfb56b738c359e09b91640184f8b20ffbc
-Description: Disables passcode after a respring. This version does NOT modify system file. It's safe to use.
+MD5sum: 3ee0a5f0fee875338405825673ec82d5
+SHA1: 4c6b4edd4e53e638e8927c56a225cb6863ed8bb5
+SHA256: eeb01d1bca90dfc7b631d91c960529d571b2c855779d1d435cecd61c3ee75d28
+SHA512: e1046e2de209705d80dda449f6d57c0533aa38a83a32045e5174f20f5290d93b4d9558917fdde01f111647b7d2bccf5e9bf7eb6f37bdeed7f9302b8451c9cb50
+Description: Disables passcode after a respring. This version does NOT modify system file. It's safe to use. 在注销前是解锁状态的情况下，注销后自动跳过人脸或指纹识别到桌面。
 Name: NoPassAfterRespring (Safe)
-在注销前是解锁状态的情况下，注销后自动跳过人脸或指纹识别到桌面。
-Maintainer: Brend0n <brendonjkding@126.com>
 Author: Brend0n <brendonjkding@126.com>
 
 Package: com.tomaszpoliszuk.keyboardcontroller
@@ -60,18 +59,17 @@ Package: com.wilsonthewolf.timejump
 Architecture: iphoneos-arm64
 Version: 0.0.2
 Section: Tweaks
+Maintainer: WilsontheWolf
 Installed-Size: 352
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Filename: ./debians/com.wilsonthewolf.timejump_0.0.2_iphoneos-arm64.deb
-Size: 10926
-MD5sum: 5965c9a77ccb2d7badb48e550a42a885
-SHA1: 9e1955b16848f61560375e76e99d5eb369aee58c
-SHA256: 8b4f9027cbcd316e390ac7e6f96d6c514d29301c93e0efb5683685c6d899a6a7
-SHA512: 862fbd54febc3d83eaaa0faf380e4de230ebea538d6c93404da6a7a9f31ba01c85d664394d273e304b9189e4d066fa7a24e06444ce31749cb756bd6470bb5964
-Description: Set's your lockscreen clock ahead by a few minutes(customizable). This helps keep you on time. 设
+Size: 10934
+MD5sum: 7d38730c847f55a399a701d770febe0a
+SHA1: 9a330e969d6ed9a0b536d8f4bfe721d972b3fcb2
+SHA256: d94b70c641e8398333f8899377b1053c805b456ec7f90c38dfddd6544335b0d2
+SHA512: 90df6354dbbcfb2c786409bc741de00842b21774504e11b8f1cd5cdf3ab4c8dd8e2f2339b9278b7a76969304d7ef22600468ffe9188ffbffcf8d82d1d4d12b90
+Description: Set's your lockscreen clock ahead by a few minutes(customizable). This helps keep you on time. 设置锁屏时间比实际时间快几分钟，能有助于你平时能做到更守时（希望能）
 Name: TimeJump
-置锁屏时间比实际时间快几分钟，能有助于你平时能做到更守时（希望能）
-Maintainer: WilsontheWolf
 Author: WilsontheWolf
 Icon: file:///Library/PreferenceBundles/TimeJumpPrefs.bundle/Icon@3x.png
 
