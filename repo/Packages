@@ -6,12 +6,12 @@ Maintainer: Brend0n <brendonjkding@126.com>
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debians/com.brend0n.nolowpowermode30secautolock_0.0.1_iphoneos-arm64.deb
-Size: 3930
-MD5sum: 0737d123137e77beaadb59d8ef2bd375
-SHA1: d857563e0630de12026b28d75eec588bb880f328
-SHA256: 1965b0d59a711405b95892f889c11a2097f09084d2cfbb96708ab5170b23c473
-SHA512: b9f393900921face9c58f28bb67b7b52b18a4b8317da6856af9ba082039ae937691faeb7d792b8af3bb801b67a95b902091419a66d388aa7d60038d280eac6c8
-Description: Natively allow you to adjust Auto-Lock interval in Low Power Mode.
+Size: 4026
+MD5sum: 763b4eff57add614e8c4d4cecc373d08
+SHA1: 6dbbcf12a34c8c8c5462c718b51691a91e83afde
+SHA256: 6826a993d198b9e7c58904a2665d3c92ecd0e82e4df9c62bb619d1b841f9ab56
+SHA512: dc37bf65efbc24ea0dfe87d2f483df4e3bbc0487bf43b3765c26e30fab57e7c0ec98d5152c6779fdc9fc1993a4f3c1550c1cfb99047c88311f31ed1481f2adc8
+Description: Natively allow you to adjust Auto-Lock interval in Low Power Mode. 在低电量模式下也可以调整自动锁屏时间！
 Name: NoLowPowerMode30SecAutoLock
 Author: Brend0n <brendonjkding@126.com>
 
@@ -59,17 +59,18 @@ Package: com.wilsonthewolf.timejump
 Architecture: iphoneos-arm64
 Version: 0.0.2
 Section: Tweaks
-Maintainer: WilsontheWolf
 Installed-Size: 352
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Filename: ./debians/com.wilsonthewolf.timejump_0.0.2_iphoneos-arm64.deb
-Size: 10796
-MD5sum: 4e16f45708beec7634fe21290f4e069d
-SHA1: d7dfb64d8b7c66bcbb158745cfdbb7a394f6cf26
-SHA256: 6dfef057c01ad019fc24af8ed405c556639a90de6c57bc9b06d9b15ddd69b3f2
-SHA512: 42d5e8c59f559073c760db2b1943fc4905fa400f9036078bf9bcfa319e4254eabbb6b5af511c105a196facfa4c4a876e9172e959e39fb7e5380cb25b54d55c3d
-Description: Set's your lockscreen clock ahead by a few minutes(customizable). This helps keep you on time.
+Size: 10926
+MD5sum: 5965c9a77ccb2d7badb48e550a42a885
+SHA1: 9e1955b16848f61560375e76e99d5eb369aee58c
+SHA256: 8b4f9027cbcd316e390ac7e6f96d6c514d29301c93e0efb5683685c6d899a6a7
+SHA512: 862fbd54febc3d83eaaa0faf380e4de230ebea538d6c93404da6a7a9f31ba01c85d664394d273e304b9189e4d066fa7a24e06444ce31749cb756bd6470bb5964
+Description: Set's your lockscreen clock ahead by a few minutes(customizable). This helps keep you on time. 设
 Name: TimeJump
+置锁屏时间比实际时间快几分钟，能有助于你平时能做到更守时（希望能）
+Maintainer: WilsontheWolf
 Author: WilsontheWolf
 Icon: file:///Library/PreferenceBundles/TimeJumpPrefs.bundle/Icon@3x.png
 
