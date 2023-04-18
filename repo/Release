@@ -1,10 +1,10 @@
-Architectures: iphoneos-arm64
+Origin: lclrc's rootless repo
+Label: lclrc's rootless repo
+Architectures: iphoneos-arm iphoneos-arm64
 Codename: squidforce
 Components: main
 Date: Tue, 18 Apr 2023 08:23:25 +0000
 Description: Just for fun!
-Label: lclrc's rootless repo
-Origin: lclrc's rootless repo
 Suite: stable
 Version: 1.0
 MD5Sum:
