@@ -55,6 +55,25 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: tomaszpoliszuk
 Icon: file:///Library/PreferenceBundles/KeyboardControllerPreferences.bundle/icons/KeyboardController@3x.png
 
+Package: com.udevs.compactbatteryavocado
+Architecture: iphoneos-arm64
+Version: 2.0.6
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 492
+Depends: mobilesubstrate (>= 0.9.5000), firmware(>=14.0)
+Filename: ./debians/com.udevs.compactbatteryavocado_2.0.6_iphoneos-arm64.deb
+Size: 136138
+MD5sum: 5264251dde4c36cbd83536fcc0757554
+SHA1: 97804061949c6132af02912775802206c274768c
+SHA256: 1203e6a0b77e2b9b3a658ed178cdc1ad2b9dc702e24629d9ab1dc061c8da3126
+SHA512: c4e131a32786e1b6d6f4d84d25112ef3bcd4f5947e2c19a7ea0a3ba2dec74f877edb4c2d6492ee233349cd762e204359e6694325b44258a05e8bac6e38af9851
+Description: 在2x2的小组件上显示电量百分比。Show battery percentage on 2x2 battery widget.
+Name: 电池小组件显示百分比
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.compactbatteryavocado/icon/icon.png
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.compactbatteryavocado
+
 Package: com.udevs.vpnindicator
 Architecture: iphoneos-arm64
 Version: 1.1.6
