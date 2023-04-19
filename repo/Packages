@@ -32,6 +32,23 @@ Description: Disables passcode after a respring. This version does NOT modify sy
 Name: NoPassAfterRespring (Safe)
 Author: Brend0n <brendonjkding@126.com>
 
+Package: com.fiore.calculatorhistory
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Donato Fiore, lclrc
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debians/com.fiore.calculatorhistory_1.1.2_iphoneos-arm64.deb
+Size: 15834
+MD5sum: c6513733ead8e7d905c87148eb878700
+SHA1: 11d98d5feaea66343102a7806a7c1437bc4b807c
+SHA256: 461c888ba043f34f5ac657766d5964fea5d14909f14509113df24fa1ae157239
+SHA512: ec71527ba0dbaae4639a71e83b8cb39c3db3904a5630041a74807188607537111e043b036f16fc46e58e78de80ae76c561cf4594823c2f9221bacea987804be2
+Description: 让自带计算器可以查看历史计算过程和结果。
+Name: 计算器添加历史按钮
+Author: Donato Fiore
+
 Package: com.tomaszpoliszuk.keyboardcontroller
 Architecture: iphoneos-arm64
 Version: 1.2.1
