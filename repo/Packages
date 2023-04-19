@@ -49,6 +49,23 @@ Description: 让自带计算器可以查看历史计算过程和结果。
 Name: 计算器添加历史按钮
 Author: Donato Fiore
 
+Package: com.lns.pogr
+Architecture: iphoneos-arm64
+Version: 0.2.2
+Section: Tweaks
+Maintainer: Ruphane
+Installed-Size: 320
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.lns.pogr_0.2.2_iphoneos-arm64.deb
+Size: 12712
+MD5sum: f915f26e22af680cc337a208053f896b
+SHA1: eeb36de545a52b835ff30fb116ed9fb7383b068d
+SHA256: 69ba66cef208aa9658835cdd2dcccad5a6965aae84884b0ab339ac880c0489d3
+SHA512: 41809a079aa6d1b2c5f19501f137c830d20eb9f5a4691021910c1762f782eeb3d706246975bdab7422aa2a79becb1c15744321bc9ed5560c059ee8d84a5c1d58
+Description: Treat AirPods Pro 2 correctly
+Name: PodsGrant
+Author: Ruphane
+
 Package: com.tomaszpoliszuk.keyboardcontroller
 Architecture: iphoneos-arm64
 Version: 1.2.1
