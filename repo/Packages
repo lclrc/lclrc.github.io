@@ -55,6 +55,24 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: tomaszpoliszuk
 Icon: file:///Library/PreferenceBundles/KeyboardControllerPreferences.bundle/icons/KeyboardController@3x.png
 
+Package: com.udevs.vpnindicator
+Architecture: iphoneos-arm64
+Version: 1.1.6
+Section: Tweaks
+Maintainer: udevs, squidforce
+Installed-Size: 420
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Filename: ./debians/com.udevs.vpnindicator_1.1.6_iphoneos-arm64.deb
+Size: 63010
+MD5sum: 571cacff074966ac37ffc7c00ac1c4d4
+SHA1: 51d4a92d39e56e4337746b4eb219b4d5b3792133
+SHA256: fa2ee7006da7e824cc336f1e4c1c586c23b4e6a91060d993e543ac420d03c398
+SHA512: dce4f94288706b43018415f356b533dc067d06fa2d203ec4e3631fce7c7cf1e49fdf61c8906fb76507517dcd15d4e7e1a7f1d6ebe875cde7eadb0da3ac5991be
+Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝数据图标显示VPN状态。修复支持rootless
+Name: VPNIndicator
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+
 Package: com.wilsonthewolf.timejump
 Architecture: iphoneos-arm64
 Version: 0.0.2
