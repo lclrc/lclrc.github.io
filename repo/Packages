@@ -49,6 +49,23 @@ Description: 让自带计算器可以查看历史计算过程和结果。
 Name: 计算器添加历史按钮
 Author: Donato Fiore
 
+Package: com.lclrc.cccalc
+Architecture: iphoneos-arm64
+Version: 2.1.0
+Maintainer: gilesgc & paisseon & lclrc
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debians/com.lclrc.cccalc_2.1.0_iphoneos-arm64.deb
+Size: 72872
+MD5sum: aaa758b27345284c2149107e1311c07e
+SHA1: 13ea508f2feb5581ddb25a99025378453a7e9a2f
+SHA256: 46eb19098e36ec662b43b5b0a1d5113c85e5e8f432edfb537a1d471406c3c192
+SHA512: d9d05bb2fb6d723a33f32ff97c857f48640c2ffc0fa37d5c9404096f150a12f6fb80c168023ec0c5f9e7acf9233259a7a4e7dee48ad292d3ffbb723377735995
+Description: 把控制中心的计算器变成真正的计算器，而不仅仅是复制上一个计算结果。
+Name: CCCalc
+Author: gilesgc & paisseon & lclrc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+
 Package: com.lns.pogr
 Architecture: iphoneos-arm64
 Version: 0.2.2
