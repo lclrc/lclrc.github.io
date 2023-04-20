@@ -70,15 +70,15 @@ Package: com.lclrc.mdaus.latchkey
 Architecture: iphoneos-arm64
 Version: 2.3
 Section: Tweaks
-Maintainer: Maxwell Dausch, lclrc
+Maintainer: Maxwell Dausch & lclrc
 Installed-Size: 13476
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debians/com.lclrc.mdaus.latchkey_2.3_iphoneos-arm64.deb
-Size: 6450350
-MD5sum: f68c8358e06c4c5a1408374b24bc897b
-SHA1: 81381b8d8ca88b7696e49aaa4610bfe2a80b21ce
-SHA256: 4fff0ddc5cf75257fc1b8927de09eaabe5f782fd413b49c34f52edff755ed98d
-SHA512: 5341802e9a3711b5f3b0b301f7bb4190116274716fe8386a9ef21f8f4b2115277e6d44dc7e79eed171e1704e6348529b5a63815f7f6282f1ff6ec3e16d42bae5
+Size: 6450386
+MD5sum: 2660d653ff8022c1db29f0d55af1cd2a
+SHA1: cb9947513006db267ba88385a8bddb3e185726d7
+SHA256: 38406188325cbf023c6cea659febfb1efab7c07d416e6d5563a87bb779155ec6
+SHA512: d2dd26ba4319aa6a62d1ea96b5e54bbff8b147b6b24891daa47b2006e9e5b99e772ba9120eb8ca35ee761cdf8560f0d73c5ec66a1b53b6f58de303d5ed14f533
 Description: 自定义锁头图标和位置。适配rootless。Move and theme the Face-ID lock glyph
 Name: 锁头自定义 Latchkey
 Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
