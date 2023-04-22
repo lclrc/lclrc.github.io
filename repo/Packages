@@ -102,6 +102,23 @@ Name: 锁头自定义 Latchkey
 Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
 Author: Maxwell Dausch <max.dausch@gmail.com>
 
+Package: com.lclrc.recordanywhere
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Muirey03 & lclrc
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/com.lclrc.recordanywhere_1.1.0_iphoneos-arm64.deb
+Size: 4484
+MD5sum: 961117816b55319fb135641c10755bc4
+SHA1: 485aacebcb9e9cf0cf2551e54c8591bef76d028d
+SHA256: 3cbd9f39fc8e34f449e7ccc0365f445dd9b9935368e8ba85b87a131652ec0c81
+SHA512: bcdbb693554ed65321d9c85c2a33aef2a37a4306a2e2e4da88453322a5dccc6ff57ab61f0247f11cbfe5c751dc21c0bf171c5c8ca7969348a9ad0376c853300e
+Description: 使手机在锁屏状态也可以继续录屏。修复支持Dopamine，感谢原作者提供的思路。
+Name: 锁屏录屏RecordAnywhere
+Author: Muirey03 & lclrc
+
 Package: com.lns.pogr
 Architecture: iphoneos-arm64
 Version: 0.2.2
