@@ -165,6 +165,28 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: tomaszpoliszuk
 Icon: file:///Library/PreferenceBundles/KeyboardControllerPreferences.bundle/icons/KeyboardController@3x.png
 
+Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 168
+Depends: firmware (>= 14.1), mobilesubstrate
+Filename: ./debians/com.tomaszpoliszuk.lockscreenbatterymagsafe_1.0.4_iphoneos-arm64.deb
+Size: 5312
+MD5sum: 64265b858a4bb96d29aef6e198190f57
+SHA1: aae8b5a1664b240ac5f10b94a9c4c56cdcb43503
+SHA256: b7d9b148ecddfae8e1cc0019f3150d016cc34315260c9851f9d48d4ac2fbc854
+SHA512: 09dc74bf58f25140bec95396c7fa0985d3f5b49f50222c158e6a864278b198bdf1699c17c28a1183eabbb4ee17953b3ccdf821784b5bcef2c36d15ff0be0241f
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
+Description: 将设备连接到电源时，在锁定屏幕上启用原生MagSafe充电动画。Enable new native MagSafe charging view on lockscreen when connecting device to power source
+Tag: purpose::extension
+Name: 启用MagSafe充电动画
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockscreenbatterymagsafeDp
+Author: Tomasz Poliszuk
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
+
 Package: com.udevs.compactbatteryavocado
 Architecture: iphoneos-arm64
 Version: 2.0.6
