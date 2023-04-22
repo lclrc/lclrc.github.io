@@ -49,6 +49,23 @@ Description: 让自带计算器可以查看历史计算过程和结果。
 Name: 计算器添加历史按钮
 Author: Donato Fiore
 
+Package: com.hoangdus.lowpowersleep
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Hoangdus
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debians/com.hoangdus.lowpowersleep_0.0.1_iphoneos-arm64.deb
+Size: 23054
+MD5sum: 5a441627888c90248507880b79619d07
+SHA1: 084dbf595eed5ef33dc110f2818dcf7649aa3d25
+SHA256: 0acb801878ffa7cb928225ae77c5299d595bdd78ba3c5a0b8098f936932ed696
+SHA512: 7d984e214a6b026a1061fb8dac4580c223572d19e3598b65fbd9d7bf8974cc52b18f0ace7f27d746a661b88e147c64e293a2dadedde081b765e26a5f8dc7659e
+Description: 锁屏时自动打开低电量模式
+Name: 锁屏自动低电量
+Author: Hoangdus
+
 Package: com.lclrc.cccalc
 Architecture: iphoneos-arm64
 Version: 2.1.0
