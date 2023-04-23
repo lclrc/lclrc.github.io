@@ -188,6 +188,27 @@ Description: Treat AirPods Pro 2 correctly
 Name: PodsGrant
 Author: Ruphane
 
+Package: com.miro.swipeselection
+Architecture: iphoneos-arm64
+Version: 1.0~beta9
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 420
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
+Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro, com.yourepo.restiveconch.swipeselectionfix
+Filename: ./debians/com.miro.swipeselection_1.0~beta9_iphoneos-arm64.deb
+Size: 38590
+MD5sum: a9c6b1cac29fddb773bd583e33863d8d
+SHA1: 3b7aecd1aa6614c59f8ccdd135ddc7ab078dce6a
+SHA256: 2ff9967e3f119691e2b0afe478628834a3a00b5c351dd1a9a4cda89631f6d031
+SHA512: a8cf5b9cad6b5b1dda3a416088c0f528cd2158d4ccb8f8911012678fff8b6d9230e571c043229c4076e4d54abd1772965cbebdf876eb643e34bfe162bc60a451
+Description: 默认启用，插件设置修改不生效。Select text and move the cursor using gestures on the keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: SwipeSelection
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.swipeselection
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/SwipeSelectionPrefs.bundle/Header.png
+
 Package: com.tomaszpoliszuk.dockcontroller
 Architecture: iphoneos-arm64
 Version: 1.6.2
