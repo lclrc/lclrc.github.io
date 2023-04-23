@@ -276,6 +276,24 @@ Name: TimeJump
 Author: WilsontheWolf
 Icon: file:///Library/PreferenceBundles/TimeJumpPrefs.bundle/Icon@3x.png
 
+Package: dev.traurige.eneko
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.eneko
+Filename: ./debians/dev.traurige.eneko_1.2_iphoneos-arm64.deb
+Size: 28708
+MD5sum: 6b4d2fbadf57d404202db9564abf539d
+SHA1: 860ce677169d42e0a8dc325b1e699177101f4e5e
+SHA256: 8cde5cf2696ad074523c669bb0655d68e637a07d15fe2ad6bede87d1f749f13f
+SHA512: c4e55cfe7478b66fe0d882902e75874082b6ed8bbe35b6b1b0b1b3a2f7a34e255e5655e166a5b996242f716268ca7b66a58d72e8b569559d25239222d3e4ebb1
+Description: 用视频做锁定屏幕和主屏幕的墙纸。Video wallpapers for iOS
+Name: 视频墙纸 Eneko
+Author: Traurige <hello@traurige.dev>
+
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64
 Version: 0.0.3
