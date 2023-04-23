@@ -66,23 +66,6 @@ Description: 锁屏时自动打开低电量模式
 Name: 锁屏自动低电量
 Author: Hoangdus
 
-Package: com.hoangdus.speedster
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: Hoangdus
-Installed-Size: 404
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/com.hoangdus.speedster_1.0.0_iphoneos-arm64.deb
-Size: 37694
-MD5sum: 8d9b243db3ab5b9caed865af092deda5
-SHA1: 60dbb29109d07e8689672d2dbe02067184e8d89c
-SHA256: 3633ad940f8f3f9c7349f5467f85d828a8522b94eddc778be98d6d87b9194167
-SHA512: 4a54ee091eca74c3476c5be50ecb97f98a767b31bd391647707048792f375927e8bbc292cc1ad4b4c08e4135dc1529c8adc2e10007bc22e29f4900520e5a21db
-Description: 加速系统的一些动画效果
-Name: 系统动画加速
-Author: Hoangdus
-
 Package: com.lclrc.cccalc
 Architecture: iphoneos-arm64
 Version: 2.1.0
