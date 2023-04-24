@@ -188,6 +188,23 @@ Description: Treat AirPods Pro 2 correctly
 Name: PodsGrant
 Author: Ruphane
 
+Package: com.lns.pogr
+Architecture: iphoneos-arm64
+Version: 0.2.3
+Section: Tweaks
+Maintainer: Ruphane
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.lns.pogr_0.2.3_iphoneos-arm64.deb
+Size: 12046
+MD5sum: 1c4cd0dfdd69f717008cae2a6295b728
+SHA1: bcfc5355ee158f82393431021ed6959b4c3aa217
+SHA256: 6e91b93dddb885546bbfaa19aba5efcbe7b5444284bc92db25246be783b5bb7d
+SHA512: b5319872bcf0fc86b47e8b1260c95cb0c829fa9a419816c1bd088645cfc5de27eef4637b9aac6a51329e964ac2205761c43ff68931198f5a84b2483e6f7b4595
+Description: Treat AirPods Pro 2 correctly
+Name: PodsGrant
+Author: Ruphane
+
 Package: com.miro.swipeselection
 Architecture: iphoneos-arm64
 Version: 1.0~beta9
