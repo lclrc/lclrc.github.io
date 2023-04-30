@@ -363,6 +363,23 @@ Description: 用视频做锁定屏幕和主屏幕的墙纸。Video wallpapers fo
 Name: 视频墙纸 Eneko
 Author: Traurige <hello@traurige.dev>
 
+Package: dev.traurige.kayoko
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: Lessica & lclrc
+Installed-Size: 996
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debians/dev.traurige.kayoko_1.2_iphoneos-arm64.deb
+Size: 115610
+MD5sum: 37ff37d188b1670350e806b7874e19d4
+SHA1: 364860e55a8a221926e2aafd5f1cfa018be77134
+SHA256: 13aaf375b07be99dccec7e0e57c7bf836aa882f1947277ffbb3f74ae1a9ec474
+SHA512: 5f7d32cc98b5b074e08c403ca92ff7739d3dc8a0d34392fb69b926ce6dd4dec16526bc1a9735dc48c50ac7469f0109d578a0aaebdb5adb698d2b6a5b863349f0
+Description: 自编译纯自用，改为默认使用听写键唤出。因个人适配问题修改设置在大部分应用中无效，请耐心等待原作者适配，用此版本出现问题请不要跟原作者反馈，另外请不要搬运此"残缺"版本..
+Name: 剪贴板 Kayoko
+Author: Traurige <hello@traurige.dev>
+
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64
 Version: 0.0.3
