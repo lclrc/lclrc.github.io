@@ -222,29 +222,6 @@ Description: Treat AirPods Pro 2 correctly
 Name: PodsGrant
 Author: Ruphane
 
-Package: com.tomaszpoliszuk.dockcontroller
-Architecture: iphoneos-arm64
-Version: 1.6.2
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 436
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debians/com.tomaszpoliszuk.dockcontroller_1.6.2_iphoneos-arm64.deb
-Size: 60376
-MD5sum: 27ea2c5016da50254d60df1a135b9d52
-SHA1: 02cd16de16d6442af4722f913fc02e63fd185848
-SHA256: df7b01831f59a0703a2a13af0a143ffa7d0909107ffe8f05c2314293351e2f5b
-SHA512: 6a41863b5536a8adebb27faf6b3bed233517fb52145d6fc9d80436d047b96606d699daeb25e4951dfff97274c8a58bb7568fc1a166572d00dc23410404684fd6
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockcontrollerDp
-Description: Control Your Dock
-Tag: purpose::extension
-Name: Dock Controller
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockcontrollerDp
-Author: Tomasz Poliszuk
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: tomaszpoliszuk
-Icon: file:///Library/PreferenceBundles/DockControllerSettings.bundle/icons/DockController@3x.png
-
 Package: com.tomaszpoliszuk.keyboardcontroller
 Architecture: iphoneos-arm64
 Version: 1.2.1
