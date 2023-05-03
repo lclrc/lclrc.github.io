@@ -222,28 +222,28 @@ Description: Treat AirPods Pro 2 correctly
 Name: PodsGrant
 Author: Ruphane
 
-Package: com.tomaszpoliszuk.keyboardcontroller
+Package: com.tomaszpoliszuk.dockcontroller
 Architecture: iphoneos-arm64
-Version: 1.2.1
+Version: 1.6.2-1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 460
-Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
-Filename: ./debians/com.tomaszpoliszuk.keyboardcontroller_1.2.1_iphoneos-arm64.deb
-Size: 70678
-MD5sum: 05ef15d97cb6dae5ffd78559d3ec1dff
-SHA1: 7bf4a637a58871156558cf9037b546358a783c7d
-SHA256: a2eb87be50d41f25aa6310d4f6049567025159f5b7ca167b9c290b5b34a0b19c
-SHA512: 47667a87969cfc21f5c56f83aad4c3c1ef1b81ae447821230d5c2571d465b93c5de6f79fb4454e623d0a64081686d470ef8290fff24d10518f281f3027c3f8cb
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
-Description: Control your Keyboard. 对键盘做一些自定义调整。
+Installed-Size: 436
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debians/com.tomaszpoliszuk.dockcontroller_1.6.2-1_iphoneos-arm64.deb
+Size: 60518
+MD5sum: ad8a228ae115e67c4e3e648c81de2227
+SHA1: fc3f7495524d7ee20ac4f03adcd450d3350383f0
+SHA256: dbb606fdd47508492d13dac43a4fc4a1fc8e07b7dc4ad97fa409b885fd87ca29
+SHA512: a2990bca38d45c6386ae57634c157f9bf40f57efc1eb501a4849d5947d19e59feeeeb14b1b3e4e5db9a31411e234911cc2f4bc92e9e00e1ed3c612b9642ecea5
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockcontrollerDp
+Description: Control Your Dock
 Tag: purpose::extension
-Name: Keyboard Controller
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
+Name: Dock Controller
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockcontrollerDp
 Author: Tomasz Poliszuk
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: tomaszpoliszuk
-Icon: file:///Library/PreferenceBundles/KeyboardControllerPreferences.bundle/icons/KeyboardController@3x.png
+Icon: file:///var/jb/Library/PreferenceBundles/DockControllerSettings.bundle/icons/DockController@3x.png
 
 Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
 Architecture: iphoneos-arm64
