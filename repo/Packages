@@ -222,6 +222,23 @@ Description: Treat AirPods Pro 2 correctly
 Name: PodsGrant
 Author: Ruphane
 
+Package: com.mtac.ampere
+Architecture: iphoneos-arm64
+Version: 1.0.9
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 536
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debians/com.mtac.ampere_1.0.9_iphoneos-arm64.deb
+Size: 87796
+MD5sum: e974fa3f25acdb5c83d996fff60295b8
+SHA1: 390cb11ec7cfce7e64ad8fb4461c37ed62905dc9
+SHA256: 8964f1dfa457f27b470c8da1c4ecd88aecad2c34c8f26f8a727b63c68ee5aeb2
+SHA512: d456abee49a2c7d865de473122eaf6b89b406b6fc4a34e25cd8f66950a5a51696e59b0481849e8e59a41d67387787185a9ab373a80684466c14bdaa2839c11ba
+Description: iOS 16 Style Battery Indicator(仅为编译自用)
+Name: Ampere
+Author: MTAC
+
 Package: com.p2kdev.screenshotactions
 Architecture: iphoneos-arm64
 Version: 1.2
