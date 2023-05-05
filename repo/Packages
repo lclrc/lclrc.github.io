@@ -222,6 +222,24 @@ Description: Treat AirPods Pro 2 correctly
 Name: PodsGrant
 Author: Ruphane
 
+Package: com.p2kdev.screenshotactions
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 180
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debians/com.p2kdev.screenshotactions_1.2_iphoneos-arm64.deb
+Size: 18968
+MD5sum: c3ba78eab772e3959c606611bc604f37
+SHA1: 6ace988698d9d2ab408f3ccd0ae0dff408820175
+SHA256: b72ea7202953a20abc37ad93d568107574234c661e9541197612e22689654c51
+SHA512: 9584101eac7259bad2e5b9c484b14b3c982ec2ba15cce76b865875c6d9f9c74aca2dec39ff70a058bddbc508fc186ebae91d9b04ff46c37b13fbda3005a5b540
+Description: Add Quick Actions to the screenshot preview!
+Name: ScreenshotActions
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/ScreenshotActions/icon.png
+
 Package: com.tomaszpoliszuk.dockcontroller
 Architecture: iphoneos-arm64
 Version: 1.6.2-1
