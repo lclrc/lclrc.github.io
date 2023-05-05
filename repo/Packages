@@ -123,14 +123,14 @@ Architecture: iphoneos-arm64
 Version: 3.0.1-1
 Section: Tweaks
 Maintainer: Johnzaro <johnzrgnns@gmail.com>
-Installed-Size: 872
+Installed-Size: 876
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.opa334.altlist, firmware (>= 12)
 Filename: ./debians/com.johnzaro.networkspeed13_3.0.1-1_iphoneos-arm64.deb
-Size: 477834
-MD5sum: 0a30b8913be0573dccbb706b03bd96b4
-SHA1: 32b29b8f7d089fabfdb487862831403b0bf08dc8
-SHA256: 9ace0c22d78f416a2553335d62d639a99b0b6f2a7b892a41cc6be7ac48f04746
-SHA512: 9a3a3e4a7a859c7da77319de5ae28bfb009d70d161c6c34dd2c5a4976ffb132c450f4a413bf418582c05fd6c755c7474d668505c55ad2e4625f4db73447f45d7
+Size: 477862
+MD5sum: c475a14fefd8e014b4d140f4a663c352
+SHA1: ebf3140556a8c1352174b6f5b6015e105cfd7b19
+SHA256: 5dab7238d35c88335fe0718fd16cc7d612d73576213c0553dc2c33ed14f0bd7d
+SHA512: b095e5357f4ed5415221600c2f290fd880f2501febb59542d7242e74f3b93c98904d80b32ac115b8a58051450a91326a01e0165f8c0b1058907bfb299ec5de32
 Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。3.0.1-1更新：添加注销按钮；
 Name: 状态栏网速 NetworkSpeed
 Author: Johnzaro <johnzrgnns@gmail.com>
