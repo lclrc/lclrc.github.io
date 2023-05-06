@@ -417,12 +417,12 @@ Maintainer: Lessica & lclrc
 Installed-Size: 996
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debians/dev.traurige.kayoko_1.2_iphoneos-arm64.deb
-Size: 115510
-MD5sum: 905f04c0e5636ae7d84afd8801bae57d
-SHA1: 97201b7f4c696a7012bea26d518a902db401a1eb
-SHA256: f8bfafb1a64884daad0bc9aad4415e63e82a14610f71f284c47040605e8ce01f
-SHA512: acdbdfd70202d50bcfd35885667b22ba12bad243269325779b30b42dce05031c83ade8c5ec05886460b02dacb52f2020a0df64a99e74a92d666af2841a29a121
-Description: 自编译纯自用，改为默认使用听写键唤出。因个人适配问题修改设置在大部分应用中无效，请耐心等待原作者适配，用此版本出现问题请不要跟原作者反馈，另外请不要搬运此"残缺"版本..
+Size: 115376
+MD5sum: 31730daea7510928302f5a2230d6a203
+SHA1: 7dd102fd02651dba972132d773f157bb173344b7
+SHA256: e8c4efcf909c8d6d1ea41fc8bb6f15e047e59e945c4b0d91c74892486e8f4e08
+SHA512: 62138eaae97179ab6b932c2b46f303dcb4a41ee15fec0ef715fa9459561e068ad78870939d51dcabfd2433c03cc4c2cc41f532ebb80a907510f3b6288eb22eea
+Description: 自编译纯自用。适配多巴胺，此版本修改设置可以生效，用此版本出现问题请不要跟原作者反馈
 Name: 剪贴板 Kayoko
 Author: Traurige <hello@traurige.dev>
 
