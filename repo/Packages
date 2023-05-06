@@ -417,11 +417,11 @@ Maintainer: Lessica & lclrc
 Installed-Size: 996
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debians/dev.traurige.kayoko_1.2_iphoneos-arm64.deb
-Size: 115336
-MD5sum: f1d028895606ef9a6aad79282d88d6a0
-SHA1: cea6d29c07c96829fa89bb2f9af7a6b3e22a9274
-SHA256: a9b478c1abe4c33dd7a7c11ba57e6599df2d3dad409fa62e99ae455fbbac3218
-SHA512: 6d7fc6b062728c82f22c7ac7cc715e9033f98b15f33de682fa60d141c4ef3ef8492ac83a8d57730ee2b573710eb8435ee066c7dd96d4e4166af65d6176715c5f
+Size: 115510
+MD5sum: 905f04c0e5636ae7d84afd8801bae57d
+SHA1: 97201b7f4c696a7012bea26d518a902db401a1eb
+SHA256: f8bfafb1a64884daad0bc9aad4415e63e82a14610f71f284c47040605e8ce01f
+SHA512: acdbdfd70202d50bcfd35885667b22ba12bad243269325779b30b42dce05031c83ade8c5ec05886460b02dacb52f2020a0df64a99e74a92d666af2841a29a121
 Description: 自编译纯自用，改为默认使用听写键唤出。因个人适配问题修改设置在大部分应用中无效，请耐心等待原作者适配，用此版本出现问题请不要跟原作者反馈，另外请不要搬运此"残缺"版本..
 Name: 剪贴板 Kayoko
 Author: Traurige <hello@traurige.dev>
