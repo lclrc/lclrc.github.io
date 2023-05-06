@@ -143,12 +143,12 @@ Maintainer: Johnzaro <johnzrgnns@gmail.com>
 Installed-Size: 876
 Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.opa334.altlist, firmware (>= 12)
 Filename: ./debians/com.johnzaro.networkspeed13_3.0.1-2_iphoneos-arm64.deb
-Size: 480704
-MD5sum: 8cf2c756ed2988b888c5d6f8ce0fffa9
-SHA1: 12fc098ce2465813f7de6b906372a44b918b5062
-SHA256: 71e39bc592a034484f7ea8d3e6fac9a6af7afd9c90ea7fcb0ec0ac15b0cb82b5
-SHA512: b73d1ed2fe722cec0a22da23be752cb3d3d9de8950cf9a3dcca254b43fcb91d81e12be6eccb1e902eaf05547f8b4f75b2ba9bc023305513cfe52101ee4b17cec
-Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。3.0.1-1更新：添加注销按钮；3.0.1-2更新：修改设置后即时生效;
+Size: 480690
+MD5sum: 576b7be956c142a564e260e85de35c8d
+SHA1: 6f6050400f507d5816b1d8599a80bc8109cb4e11
+SHA256: ec7c046bb1efd1fe500462f04def5f4b46f4c2266a2187cbf46c2b331f5ab37e
+SHA512: c09eb21fcdb66234c84d96e0d641b868d196e560538f0ec4b08928f127d50a574a4cf2bb40381aac23d72914f349e30c68c4f497ec6781065fbee63cf8240011
+Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。3.0.1-1更新：添加注销按钮；3.0.1-2更新：修改设置后即时生效(详情看插件设置内说明);
 Name: 状态栏网速 NetworkSpeed
 Author: Johnzaro <johnzrgnns@gmail.com>
 
