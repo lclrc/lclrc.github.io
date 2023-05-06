@@ -411,6 +411,23 @@ Author: Traurige <hello@traurige.dev>
 
 Package: dev.traurige.kayoko
 Architecture: iphoneos-arm64
+Version: 1.2-1
+Section: Tweaks
+Maintainer: Lessica & lclrc
+Installed-Size: 996
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debians/dev.traurige.kayoko_1.2-1_iphoneos-arm64.deb
+Size: 115234
+MD5sum: efc1b829821266183b9ff2137ca79b32
+SHA1: cb1eb34bc0857e714204f0ac99251b6b27b6346c
+SHA256: cb6cbd074432b0be094cfd1af23baf6c91c49d716ce8047c8ecca09bd010b22b
+SHA512: 839d23c30baf4f63e12638ff38992634df32995e0f28306325ee066df9c01a8c5a50bb92957c3b2e2e8009bbf6678ebbfba1673acbe01ddeec54e9ec1dde9668
+Description: 自编译纯自用。适配多巴胺，此版本修改设置可以生效，用此版本出现问题请不要跟原作者反馈
+Name: 剪贴板 Kayoko
+Author: Traurige <hello@traurige.dev>
+
+Package: dev.traurige.kayoko
+Architecture: iphoneos-arm64
 Version: 1.2
 Section: Tweaks
 Maintainer: Lessica & lclrc
