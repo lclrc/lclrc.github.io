@@ -171,6 +171,24 @@ Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.p
 
 Package: com.lclrc.mdaus.latchkey
 Architecture: iphoneos-arm64
+Version: 2.3.1-1
+Section: Tweaks
+Maintainer: Maxwell Dausch & lclrc
+Installed-Size: 13476
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debians/com.lclrc.mdaus.latchkey_2.3.1-1_iphoneos-arm64.deb
+Size: 6450620
+MD5sum: 2a9dd1e720f406620774d8cb5d4be895
+SHA1: cbee7439f4375e8c438c8bff28b3ee3bc1408571
+SHA256: 683d427f2b2e572ebf9511312aab09ea2579ed3e4d75a34672378ea9ed9ca9c2
+SHA512: 6bc6cdf14c91e0b7b616174bfd8d192da695f053a3b6d73d4dd190cdb098e21d772315f533d005a3c0df191e18d5a2d497c1c173b9a6783b499ddca62fe8cf08
+Description: 自定义锁头图标和位置。适配多巴胺，增加汉化，需要libcolorpicker依赖(p2kdev源里有)。Move and theme the Face-ID lock glyph
+Name: 锁头自定义 Latchkey
+Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
+Author: Maxwell Dausch <max.dausch@gmail.com>
+
+Package: com.lclrc.mdaus.latchkey
+Architecture: iphoneos-arm64
 Version: 2.3.1
 Section: Tweaks
 Maintainer: Maxwell Dausch & lclrc
