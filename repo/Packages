@@ -52,23 +52,6 @@ Icon: file:///Library/PreferenceBundles/SearchAutoFocusPreferences.bundle/Icon@5
 
 Package: com.fiore.calculatorhistory
 Architecture: iphoneos-arm64
-Version: 1.1.2
-Section: Tweaks
-Maintainer: Donato Fiore, lclrc
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
-Filename: ./debians/com.fiore.calculatorhistory_1.1.2_iphoneos-arm64.deb
-Size: 15834
-MD5sum: c6513733ead8e7d905c87148eb878700
-SHA1: 11d98d5feaea66343102a7806a7c1437bc4b807c
-SHA256: 461c888ba043f34f5ac657766d5964fea5d14909f14509113df24fa1ae157239
-SHA512: ec71527ba0dbaae4639a71e83b8cb39c3db3904a5630041a74807188607537111e043b036f16fc46e58e78de80ae76c561cf4594823c2f9221bacea987804be2
-Description: 让自带计算器可以查看历史计算过程和结果。
-Name: 计算器添加历史按钮
-Author: Donato Fiore
-
-Package: com.fiore.calculatorhistory
-Architecture: iphoneos-arm64
 Version: 1.1.3
 Section: Tweaks
 Maintainer: Donato Fiore, lclrc
@@ -222,24 +205,6 @@ Name: 锁头自定义 Latchkey
 Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
 Author: Maxwell Dausch <max.dausch@gmail.com>
 
-Package: com.lclrc.mdaus.latchkey
-Architecture: iphoneos-arm64
-Version: 2.3
-Section: Tweaks
-Maintainer: Maxwell Dausch & lclrc
-Installed-Size: 13476
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debians/com.lclrc.mdaus.latchkey_2.3_iphoneos-arm64.deb
-Size: 6450386
-MD5sum: 2660d653ff8022c1db29f0d55af1cd2a
-SHA1: cb9947513006db267ba88385a8bddb3e185726d7
-SHA256: 38406188325cbf023c6cea659febfb1efab7c07d416e6d5563a87bb779155ec6
-SHA512: d2dd26ba4319aa6a62d1ea96b5e54bbff8b147b6b24891daa47b2006e9e5b99e772ba9120eb8ca35ee761cdf8560f0d73c5ec66a1b53b6f58de303d5ed14f533
-Description: 自定义锁头图标和位置。适配rootless。Move and theme the Face-ID lock glyph
-Name: 锁头自定义 Latchkey
-Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
-Author: Maxwell Dausch <max.dausch@gmail.com>
-
 Package: com.lclrc.recordanywhere
 Architecture: iphoneos-arm64
 Version: 1.1.0
@@ -290,6 +255,27 @@ SHA512: b5319872bcf0fc86b47e8b1260c95cb0c829fa9a419816c1bd088645cfc5de27eef4637b
 Description: Treat AirPods Pro 2 correctly
 Name: PodsGrant
 Author: Ruphane
+
+Package: com.miro.swipeselection
+Architecture: iphoneos-arm64
+Version: 1.0~beta9-1
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 420
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
+Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro, com.yourepo.restiveconch.swipeselectionfix
+Filename: ./debians/com.miro.swipeselection_1.0~beta9-1_iphoneos-arm64.deb
+Size: 38822
+MD5sum: e0854cd5cf4ee0c976bf94a2e6bae743
+SHA1: d4ffe834ae751ca45ff79310093259c293291b72
+SHA256: d7cf36a14f5627cfea1e086cd980113282bc27acf59076ddf541127eb86a9703
+SHA512: 245396ce7cd2e05568f2b3927cb89c0ea734587e75053f39d8facbea9d810e4a31ac93336d54ad80613e8085abfe5c90d931dd29a7df386f4af4cff2dec930f2
+Description: 自带输入法扩展，编译自用，适配多巴胺。用此版本出现问题请不要跟原作者反馈，耐心等待原作者适配。Select text and move the cursor using gestures on the keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: 键盘滑动选择 SwipeSelection
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.swipeselection
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/SwipeSelectionPrefs.bundle/Header.png
 
 Package: com.mtac.ampere
 Architecture: iphoneos-arm64
@@ -498,23 +484,6 @@ SHA1: e4395494b22400141336e4c5ed2336959fe7cb72
 SHA256: 17d804f72438ac0dcc2734bd62298852a3e7626f7288943bd2d814e12dbef31e
 SHA512: 9289aec52f20bf421283ecc07632839605346660f89214c4f88cc4fc2dfa0465cecbcd9bc4b60898d6df8090408c5890ccf3256e55de58372b5e7f196acb31a0
 Description: 自编译纯自用。适配多巴胺，此版本修改设置可以生效，用此版本出现问题请不要跟原作者反馈。1.2-1更新：适配多巴胺；1.2-2更新：修复窗口高度设置；
-Name: 剪贴板 Kayoko
-Author: Traurige <hello@traurige.dev>
-
-Package: dev.traurige.kayoko
-Architecture: iphoneos-arm64
-Version: 1.2
-Section: Tweaks
-Maintainer: Lessica & lclrc
-Installed-Size: 996
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debians/dev.traurige.kayoko_1.2_iphoneos-arm64.deb
-Size: 115376
-MD5sum: 31730daea7510928302f5a2230d6a203
-SHA1: 7dd102fd02651dba972132d773f157bb173344b7
-SHA256: e8c4efcf909c8d6d1ea41fc8bb6f15e047e59e945c4b0d91c74892486e8f4e08
-SHA512: 62138eaae97179ab6b932c2b46f303dcb4a41ee15fec0ef715fa9459561e068ad78870939d51dcabfd2433c03cc4c2cc41f532ebb80a907510f3b6288eb22eea
-Description: 自编译纯自用。适配多巴胺，此版本修改设置可以生效，用此版本出现问题请不要跟原作者反馈
 Name: 剪贴板 Kayoko
 Author: Traurige <hello@traurige.dev>
 
