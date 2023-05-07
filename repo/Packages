@@ -277,6 +277,27 @@ Depiction: https://miro92.com/repo/depictions/?p=com.miro.swipeselection
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/PreferenceBundles/SwipeSelectionPrefs.bundle/Header.png
 
+Package: com.miro.swipeselection
+Architecture: iphoneos-arm64
+Version: 1.0~beta9
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 420
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
+Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro, com.yourepo.restiveconch.swipeselectionfix
+Filename: ./debians/com.miro.swipeselection_1.0~beta9_iphoneos-arm64.deb
+Size: 38826
+MD5sum: c3dc6272737d10accc40a8e319b5db2c
+SHA1: 8b37a2e39f5543e8b0083e0fa634699dcb133a50
+SHA256: 23404cae8c84e16543bd8256cb7a6291781074071b35fbd980094672e30e3498
+SHA512: 54640b254290f901239286148b498da88ee97a05dbec641d67491717e2517ecb921fff81d1619134cbf6334ec58797b16e0c005d447f6b1af5980d1fb281571c
+Description: 自带输入法扩展，编译自用，适配多巴胺。用此版本出现问题请不要跟原作者反馈，耐心等待原作者适配。Select text and move the cursor using gestures on the keyboard.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: 键盘滑动选择 SwipeSelection
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.swipeselection
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/SwipeSelectionPrefs.bundle/Header.png
+
 Package: com.mtac.ampere
 Architecture: iphoneos-arm64
 Version: 1.0.9
