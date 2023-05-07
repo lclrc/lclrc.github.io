@@ -349,6 +349,29 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: tomaszpoliszuk
 Icon: file:///var/jb/Library/PreferenceBundles/DockControllerSettings.bundle/icons/DockController@3x.png
 
+Package: com.tomaszpoliszuk.keyboardcontroller
+Architecture: iphoneos-arm64
+Version: 1.2.1-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 460
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: ./debians/com.tomaszpoliszuk.keyboardcontroller_1.2.1-1_iphoneos-arm64.deb
+Size: 71158
+MD5sum: 845bf17e416635816ff87fa599c6634b
+SHA1: 44e060a1b8b863459a2f87f7f842071ca7351ba2
+SHA256: cebe75de7c03db1351c9d1fce6633dbc18dab2251c23a27d82c4ff7bd8bef806
+SHA512: 7db895c0870cf1ada9b447bee8dda0f693a205d20b74fddde44cf9f1bdf91b38aa317a20e1b205eccffe44ccfcda34c1fee509ed1809a3eb491a137ec0d1eefa
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
+Description: Control your Keyboard. 对键盘做一些自定义调整, 适配多巴胺。
+Tag: purpose::extension
+Name: Keyboard Controller
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyboardcontrollerDp
+Author: Tomasz Poliszuk
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tomaszpoliszuk
+Icon: file:///Library/PreferenceBundles/KeyboardControllerPreferences.bundle/icons/KeyboardController@3x.png
+
 Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
 Architecture: iphoneos-arm64
 Version: 1.0.4
