@@ -510,6 +510,23 @@ Author: Traurige <hello@traurige.dev>
 
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64
+Version: 0.0.3-1
+Section: Tweaks
+Maintainer: Soh Satoh
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/jp.soh.freepip_0.0.3-1_iphoneos-arm64.deb
+Size: 6436
+MD5sum: b3ebc197d00de4d0efa18d44fb5ffeda
+SHA1: 261894f30792c470d74d7c23a52fa118a28f229b
+SHA256: b01e09e9ede05356513270940df126c77fcf3149a47b7061127e72a19b2729e8
+SHA512: f9a70bc76c708cf6447f139f4f636b40e3852dc6f3f0fd0a6db0815507409ef12d4c4152525db9ba471004b52a7364b85174bf6f992c4fceb237f7e6bc7316d3
+Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly. Long Press PIP window to enable freepip mode. 解锁画中画的限制，可以放在任意位置和调整到任意大小。长按画中画窗口进入 FreePIP 模式进行调整。v0.0.3-1更新：改为默认是正常模式，略微美化FreePIP模式。
+Name: FreePIP
+Author: Soh Satoh
+
+Package: jp.soh.freepip
+Architecture: iphoneos-arm64
 Version: 0.0.3
 Section: Tweaks
 Maintainer: Soh Satoh
