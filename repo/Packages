@@ -188,6 +188,23 @@ Author: Johnzaro <johnzrgnns@gmail.com>
 
 Package: com.johnzaro.networkspeed13
 Architecture: iphoneos-arm64
+Version: 3.0.1-6
+Section: Tweaks
+Maintainer: Johnzaro <johnzrgnns@gmail.com>
+Installed-Size: 876
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.opa334.altlist, firmware (>= 12)
+Filename: ./debians/com.johnzaro.networkspeed13_3.0.1-6_iphoneos-arm64.deb
+Size: 482708
+MD5sum: 5a2f6f92c04aa4b2a40e9ba0717510c3
+SHA1: b525eaa4b0666e249372d747478fd2b3819a6903
+SHA256: 214418a61959eb648f5606c1ad737b412b5db8560f63a4063f0e7cba1bf16921
+SHA512: f0353afa581e152b61af6d87c5554d3b8f498dab08790c4fa77cb5c11623315d1f16cfa408129c57f69aba2ef7c4249494a3b402bab2bd8aab89b29a1fc001b5
+Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。3.0.1-1更新：添加注销按钮；3.0.1-2更新：修改设置后即时生效(详情看插件设置内说明); 3.0.1-3: 添加单击开关VPN选项；3.0.1-4: 添加左滑右滑截图；3.0.1-5:修复重置设置无效；3.0.1-6: 修复颜色设置(哇神坑，libcolorpicker搞成这样我理解不能)
+Name: 状态栏网速 NetworkSpeed
+Author: Johnzaro <johnzrgnns@gmail.com>
+
+Package: com.johnzaro.networkspeed13
+Architecture: iphoneos-arm64
 Version: 3.0.1
 Section: Tweaks
 Maintainer: Johnzaro <johnzrgnns@gmail.com>
