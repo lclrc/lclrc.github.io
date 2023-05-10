@@ -103,58 +103,6 @@ Author: Hoangdus
 
 Package: com.johnzaro.networkspeed13
 Architecture: iphoneos-arm64
-Version: 3.0.1-7
-Section: Tweaks
-Maintainer: Johnzaro <johnzrgnns@gmail.com>
-Installed-Size: 880
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.opa334.altlist, firmware (>= 12)
-Filename: ./debians/com.johnzaro.networkspeed13_3.0.1-7_iphoneos-arm64.deb
-Size: 483184
-MD5sum: 4b1c6dca302e22916101695eea767350
-SHA1: 93bdb961640f6e2210245bd427320d854ea42d1e
-SHA256: 91b136f3405936724c383985b295487521818b256a343e8f25f855b32284cc02
-SHA512: ec297e64337de063422b8f273763119db08a3999fa661868fc44705b24286fb5f0e04284fafd0f556f305bb4b49b2784a7863592bdd07f0e12def17317d3610f
-Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。3.0.1-1更新：添加注销按钮；3.0.1-2更新：修改设置后即时生效(详情看插件设置内说明); 3.0.1-3: 添加单击开关VPN选项；3.0.1-4: 添加左滑右滑截图；3.0.1-5:修复重置设置无效；3.0.1-6: 修复颜色设置(哇神坑，libcolorpicker搞成这样我理解不能); 3.0.1-7: 左右滑添加自定义动作
-Name: 状态栏网速 NetworkSpeed
-Author: Johnzaro <johnzrgnns@gmail.com>
-
-Package: com.johnzaro.networkspeed13
-Architecture: iphoneos-arm64
-Version: 3.0.1-8
-Section: Tweaks
-Maintainer: Johnzaro <johnzrgnns@gmail.com>
-Installed-Size: 880
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.opa334.altlist, firmware (>= 12)
-Filename: ./debians/com.johnzaro.networkspeed13_3.0.1-8_iphoneos-arm64.deb
-Size: 482840
-MD5sum: fd1f58f62a68f5a83bc24fef4c1d0a1e
-SHA1: ea3f1fb98898bf3d22bdd160e503465bf5795865
-SHA256: 58ecba70c8bda6870ec390aa711500f31e5061b9d189d9976ad5148bce59ad55
-SHA512: 7b0bf5f9fc6bf90ad5f070784b98124db4e6ff2a26e0db9dbd879773643312f08a9e93bf2308e784ddbdb04455aedb403bd4f6f454d37824d0672e8cb52e28dd
-Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。3.0.1-1更新：添加注销按钮；3.0.1-2更新：修改设置后即时生效(详情看插件设置内说明); 3.0.1-3: 添加单击开关VPN选项；3.0.1-4: 添加左滑右滑截图；3.0.1-5:修复重置设置无效；3.0.1-6: 修复颜色设置(哇神坑，libcolorpicker搞成这样我理解不能); 3.0.1-7: 左右滑添加自定义动作;
-Name: 悬浮网速 NetworkSpeed
-3.0.1-8: 控制中心；
-Author: Johnzaro <johnzrgnns@gmail.com>
-
-Package: com.johnzaro.networkspeed13
-Architecture: iphoneos-arm64
-Version: 3.0.1
-Section: Tweaks
-Maintainer: Johnzaro <johnzrgnns@gmail.com>
-Installed-Size: 872
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.opa334.altlist, firmware (>= 12)
-Filename: ./debians/com.johnzaro.networkspeed13_3.0.1_iphoneos-arm64.deb
-Size: 477818
-MD5sum: 93a69ef92ac2d0025b10a2316a2f04f2
-SHA1: 8ac2bdbff943892a918cfb23a48e5fa53444c214
-SHA256: 8a17ecee40f5d9a26d9ce6e7fe3fa9b15bc43f9d3ffa95d8a04d8da65f5e4169
-SHA512: 4f5934a3ef87c8c160e28f1e36210da9eb03e728925117782cdbbca3531b74977d1137499924eb9976be759eee687e598eab6859c0c2ef6a2f472e5b37a8d669
-Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。
-Name: 状态栏网速 NetworkSpeed
-Author: Johnzaro <johnzrgnns@gmail.com>
-
-Package: com.johnzaro.networkspeed13
-Architecture: iphoneos-arm64
 Version: 3.0.2
 Section: Tweaks
 Maintainer: Johnzaro <johnzrgnns@gmail.com>
