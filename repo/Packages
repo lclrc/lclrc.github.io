@@ -543,6 +543,26 @@ Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Pict
 Name: FreePIP
 Author: Soh Satoh
 
+Package: org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm64
+Version: 1.6.9
+Section: System
+Maintainer: Bailey Seymour
+Installed-Size: 392
+Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
+Depends: firmware (>= 6.0)
+Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
+Filename: ./debians/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
+Size: 70930
+MD5sum: e00983f2e7bf87f5e0bc221c23787c5d
+SHA1: 6099739e676227e1a5761bda8e510f8da49ffff8
+SHA256: d906e6eb451e134b7c263d528264d700873dffa0c82744e5e699fe912373ebea
+SHA512: 3521e223b4c003e5fef626188009795878c2d3b7760a1b732ac213dca33a7517dbf543224e406031878e9a078c741350f324cc7ebf3b0e5560dc61856283402c
+Description: An awesome library of some sort!!
+Tag: role::developer
+Name: libcolorpicker
+Author: Bailey Seymour
+
 Package: xyz.skitty.ersatz
 Architecture: iphoneos-arm64
 Version: 1.0
