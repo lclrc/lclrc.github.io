@@ -170,6 +170,23 @@ Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依
 Name: 悬浮网速 NetworkSpeed
 Author: Johnzaro <johnzrgnns@gmail.com>
 
+Package: com.johnzaro.networkspeed13
+Architecture: iphoneos-arm64
+Version: 3.0.3
+Section: Tweaks
+Maintainer: Johnzaro
+Installed-Size: 880
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.opa334.altlist, firmware (>= 12)
+Filename: ./debians/com.johnzaro.networkspeed13_3.0.3_iphoneos-arm64.deb
+Size: 481596
+MD5sum: 3538563b9b6d9984b5b1dce0780dc24a
+SHA1: 50e23714db777ed957d9ebb0036e37b5c9cac391
+SHA256: bcbe44f87e24cfe690640ff63ec514b10474353c73740c89565a70311fa0eade
+SHA512: 10ddabe64755c03633b6d83e8c59823709f310377c04d2607b2f7e51877e6ec63dcf09c9a2719e0025f102fdb70bbaf2e35da22c40206a9e077084388b516d42
+Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。3.0.1-1更新：添加注销按钮；3.0.1-2更新：修改设置后即时生效(详情看插件设置内说明); 3.0.1-3: 添加单击开关VPN选项；3.0.1-4: 添加左滑右滑截图；3.0.1-5:修复重置设置无效；3.0.1-6: 修复颜色设置(哇神坑，libcolorpicker搞成这样我理解不能); 3.0.1-7: 左右滑添加自定义动作; 3.0.2: real即时生效; 3.0.3: 完善自适应颜色
+Name: 悬浮网速 NetworkSpeed
+Author: Johnzaro
+
 Package: com.lclrc.cccalc
 Architecture: iphoneos-arm64
 Version: 2.1.0
