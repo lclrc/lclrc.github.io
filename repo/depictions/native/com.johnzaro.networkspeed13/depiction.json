@@ -29,7 +29,7 @@
 				},
 				{
 					"title": "版本",
-					"text": "3.0.3",
+					"text": "3.0.4",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -44,7 +44,7 @@
 				},
 				{
 					"title": "更新时间",
-					"text": "2023/5/10",
+					"text": "2023/5/11",
 					"class": "DepictionTableTextView"
 				},
 				{
