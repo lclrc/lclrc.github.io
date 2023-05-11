@@ -39,7 +39,7 @@
 				},
 				{
 					"title": "依赖",
-					"text": "libcolorpicker\naltlist",
+					"text": "libcolorpicker",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -78,7 +78,6 @@
 				},
 				{
 					"markdown": "\t\n\u2023 去掉自定义背景颜色开关, 打开背景颜色后默认使用自定义颜色",
-					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
@@ -93,7 +92,6 @@
 				},
 				{
 					"markdown": "\t\n\u2023 完善自适应颜色",
-					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
@@ -104,34 +102,32 @@
 				{
 					"title": "3.0.2",
 					"useBoldText": true,
-					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
 					"markdown": "\t\n\u2023 real即时生效",
-					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},{
 					"title": "3.0.1-7",
 					"useBoldText": true,
-					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
 					"markdown": "\t\n\u2023 左右滑添加自定义动作",
-					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},{
 					"title": "3.0.1-4",
 					"useBoldText": true,
-					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
 					"markdown": "\t\n\u2023 添加单击和左右滑动作",
-					"useSpacing": false,
 					"useBottomMargin": true,
 					"class": "DepictionMarkdownView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
 				}
 			],
 			"class": "DepictionStackView"
