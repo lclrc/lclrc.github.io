@@ -11,6 +11,16 @@
 					"markdown": "## 悬浮窗显示网速\n去掉Cephei依赖, 替换sparkcolor和sparklist依赖."
 				},
 				{
+					"class": "DepictionScreenshotsView",
+					"itemCornerRadius": 14,
+					"screenshots": [
+						{"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/networkspeed/1.jpeg",
+						"accessibilityText": "1.jpeg"
+						}
+					],
+					"itemSize": "{824,874}"
+				},
+				{
 					"class": "DepictionSeparatorView"
 				},
 				{
