@@ -14,26 +14,21 @@
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"title": "Latest Version",
+					"title": "最近更新",
 					"class": "DepictionHeaderView"
 				},
 				{
-					"title": "Version",
+					"title": "版本",
 					"text": "1.1.3",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Released",
+					"title": "更新时间",
 					"text": "2023/4/26",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Price",
-					"text": "0",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Developer",
+					"title": "开发者",
 					"text": "Soh Satoh & lclrc",
 					"class": "DepictionTableTextView"
 				},
