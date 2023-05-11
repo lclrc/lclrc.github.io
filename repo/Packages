@@ -50,6 +50,25 @@ Name: SearchAutoFocus
 Author: Dimitar Nestorov
 Icon: file:///Library/PreferenceBundles/SearchAutoFocusPreferences.bundle/Icon@512h.png
 
+Package: com.dimitarnestorov.searchautofocus
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Dimitar Nestorov
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debians/com.dimitarnestorov.searchautofocus_1.0.2_iphoneos-arm64.deb
+Size: 104444
+MD5sum: 93c0824a4e4f92eec647b9689e76d29c
+SHA1: 0992e571093cd25ff38842e29fb6ff040bf3544b
+SHA256: b5ef41501ceec91994210c16e0915b2a47d150c53ac7e89dab646018b5c4f781
+SHA512: 37f82941d2453dcc809abf5067c9f9129639e336e94d059d2b0c267833208478455d8aa9a1c8211dfdcbe3fe886a0b05b74cd801a614e0130274deba7291657c
+Description: Automatically focus search inputs
+Name: SearchAutoFocus
+Author: Dimitar Nestorov
+Icon: file:///var/jb/Library/PreferenceBundles/SearchAutoFocusPreferences.bundle/Icon@512h.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.dimitarnestorov.searchautofocus/depiction.json
+
 Package: com.fiore.calculatorhistory
 Architecture: iphoneos-arm64
 Version: 1.1.3

@@ -10,7 +10,7 @@
 					"class": "DepictionScreenshotsView",
 					"itemCornerRadius": 14,
 					"screenshots": [
-						{"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/networkspeed/1.png",
+						{"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/searchautofocus/promo.png",
 						"accessibilityText": "1.png"
 						}
 					],
@@ -18,7 +18,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "去掉Cephei依赖, 替换sparkcolor和sparklist依赖"
+					"markdown": "适配Dopamine, 设置可生效.\n对于Appstore这种底栏有搜索的应用可以在点击搜索标签后自动弹出键盘(部分应用需要点击两次或长按, 如Twitter等)"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -29,7 +29,7 @@
 				},
 				{
 					"title": "版本",
-					"text": "3.0.4",
+					"text": "1.0.2",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"title": "依赖",
-					"text": "libcolorpicker",
+					"text": "altlist",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -49,7 +49,7 @@
 				},
 				{
 					"title": "开发者",
-					"text": "Johnzaro & lclrc",
+					"text": "Dimitar & lclrc",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -72,14 +72,14 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "3.0.4",
+					"title": "1.0.2",
 					"useBoldText": true,
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2023 去掉自定义背景颜色开关, 打开背景颜色后默认使用自定义颜色",
+					"markdown": "\t\n\u2023 适配Dopamine, 设置可生效",
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
@@ -92,58 +92,21 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"title": "3.0.3",
+					"title": "1.0.1",
 					"useBoldText": true,
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2023 完善自适应颜色",
+					"markdown": "\t\n\u2023 适配Fugu15Max, 设置不生效",
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/10</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/4/19</small>",
 					"useRawFormat": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "3.0.2",
-					"useBoldText": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2023 real即时生效",
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},{
-					"title": "3.0.1-7",
-					"useBoldText": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2023 左右滑添加自定义动作",
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},{
-					"title": "3.0.1-4",
-					"useBoldText": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2023 添加单击和左右滑动作",
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
