@@ -29,7 +29,7 @@
 				},
 				{
 					"title": "依赖",
-					"text": "PreferenceLoader, libcolorpicker, altlist",
+					"text": "PreferenceLoader\nlibcolorpicker\naltlist",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -61,6 +61,22 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "3.0.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2023 去掉自定义背景颜色开关, 打开背景颜色后默认使用自定义颜色",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/11</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "3.0.3",
 					"useBoldText": true,
