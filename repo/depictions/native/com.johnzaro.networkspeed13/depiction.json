@@ -7,10 +7,6 @@
 			"tabname": "Details",
 			"views": [
 				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## 悬浮窗显示网速\n去掉Cephei依赖, 替换sparkcolor和sparklist依赖."
-				},
-				{
 					"class": "DepictionScreenshotsView",
 					"itemCornerRadius": 14,
 					"screenshots": [
@@ -18,7 +14,11 @@
 						"accessibilityText": "1.png"
 						}
 					],
-					"itemSize": "{824,874}"
+					"itemSize": "{410,430}"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "去掉Cephei依赖, 替换sparkcolor和sparklist依赖"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -39,7 +39,7 @@
 				},
 				{
 					"title": "依赖",
-					"text": "PreferenceLoader\nlibcolorpicker\naltlist",
+					"text": "libcolorpicker\naltlist",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -74,7 +74,6 @@
 				{
 					"title": "3.0.4",
 					"useBoldText": true,
-					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
@@ -90,7 +89,6 @@
 				{
 					"title": "3.0.3",
 					"useBoldText": true,
-					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
@@ -132,6 +130,7 @@
 				{
 					"markdown": "\t\n\u2023 添加单击和左右滑动作",
 					"useSpacing": false,
+					"useBottomMargin": true,
 					"class": "DepictionMarkdownView"
 				}
 			],
