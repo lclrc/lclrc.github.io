@@ -14,8 +14,8 @@
 					"class": "DepictionScreenshotsView",
 					"itemCornerRadius": 14,
 					"screenshots": [
-						{"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/networkspeed/1.jpeg",
-						"accessibilityText": "1.jpeg"
+						{"url": "https://lclrc.github.io/repo/assets/repo/screenshots/networkspeed/1.png",
+						"accessibilityText": "1.png"
 						}
 					],
 					"itemSize": "{824,874}"

@@ -511,6 +511,23 @@ Description: 自编译纯自用。适配多巴胺，此版本修改设置可以�
 Name: 剪贴板 Kayoko
 Author: Traurige <hello@traurige.dev>
 
+Package: dev.traurige.kayoko
+Architecture: iphoneos-arm64
+Version: 1.2-3
+Section: Tweaks
+Maintainer: Lessica & lclrc
+Installed-Size: 992
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debians/dev.traurige.kayoko_1.2-3_iphoneos-arm64.deb
+Size: 115242
+MD5sum: 8d827c0e575b164c2ff3240127b0519c
+SHA1: 7ff259fd152ca4dca29acebd81601cbb10a0e3c2
+SHA256: b1c83f71f2ec25d86b3b2456a53def2f744a7dd69ef398ad735063c111b3b226
+SHA512: f76e70af851d2104796a93dcc4366b910a95ee5a3fb2e56845982960bcf2260f24dfbbceef0fe186530bc20232dd85dfafc23ce2c2071f92b24e83520dcc3f51
+Description: 自编译纯自用。适配多巴胺，此版本修改设置可以生效，用此版本出现问题请不要跟原作者反馈。1.2-1更新：适配多巴胺；1.2-2更新：修复窗口高度设置；1.2-3: 添加手势调出
+Name: 剪贴板 Kayoko
+Author: Traurige <hello@traurige.dev>
+
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64
 Version: 0.0.3-1
