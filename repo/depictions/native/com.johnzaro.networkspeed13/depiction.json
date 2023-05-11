@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 计算器添加历史按钮\n自带计算器增强"
+					"markdown": "## 悬浮窗显示网速\n去掉Cephei依赖, 替换sparkcolor和sparklist依赖."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,7 +19,7 @@
 				},
 				{
 					"title": "版本",
-					"text": "1.1.3",
+					"text": "3.0.3",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -28,13 +28,18 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "依赖",
+					"text": "PreferenceLoader, libcolorpicker, altlist",
+					"class": "DepictionTableTextView"
+				},
+				{
 					"title": "更新时间",
-					"text": "2023/4/26",
+					"text": "2023/5/10",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "开发者",
-					"text": "Soh Satoh & lclrc",
+					"text": "Johnzaro & lclrc",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -57,19 +62,50 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "1.1.3",
+					"title": "3.0.3",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2023 增加多步计算, 修复重复运算符错误",
+					"markdown": "\t\n\u2023 完善自适应颜色",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/4/18</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/10</small>",
 					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "3.0.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2023 real即时生效",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},{
+					"title": "3.0.1-7",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2023 左右滑添加自定义动作",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},{
+					"title": "3.0.1-4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2023 添加单击和左右滑动作",
+					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
 			],
