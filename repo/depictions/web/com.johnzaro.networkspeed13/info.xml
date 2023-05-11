@@ -1,0 +1,46 @@
+<package>
+	<id>com.fiore.calculatorhistory</id>
+	<name>计算器添加历史按钮</name>
+	<version>1.1.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>firmware</package>
+	</dependencies>
+	<shortDescription>系统计算器增强</shortDescription>
+	<descriptionlist>
+		<description>完整描述</description>
+		<description>更多描述</description>
+		<description><![CDATA[
+		测试<br/> 
+		多行
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>截图1描述</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>截图2描述</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>github/lclrc</name>
+			<url>https://github.com/lclrc</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

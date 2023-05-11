@@ -54,18 +54,19 @@ Package: com.fiore.calculatorhistory
 Architecture: iphoneos-arm64
 Version: 1.1.3
 Section: Tweaks
-Maintainer: Donato Fiore, lclrc
+Maintainer: Donato Fiore & lclrc
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Filename: ./debians/com.fiore.calculatorhistory_1.1.3_iphoneos-arm64.deb
-Size: 16540
-MD5sum: c35a98e4c8d7b5e97c5ef57fed668cc7
-SHA1: 4c280dcc962c29f0abd02e4b3386452d2f800629
-SHA256: 910e5f2aecb4e04f36a3a09de32250494e6e4bf458d78f146200c91d5c4af7b8
-SHA512: 1e68c745830e4eec29a4a046f994c51b43c0bcfa45ad4650bb801c3eaae7c3ac10a3003a684171a517c8cdb9c56798ba61becf5a48fb697eb8ebefc86279f1db
+Size: 16602
+MD5sum: 3993181ac1e93bf785d395984b256a5e
+SHA1: 09bda6abfa46c272f38314db5de2329ccfc90666
+SHA256: 87e2ccfa0b41e178c184dad00b7a5d6bdba09f77f642ff5b980d7a564d7eb5e5
+SHA512: 1c68bbfd5127af84a0f1909b18b196fab4bbddbfd9fd47515fff58dbaa0043cee8431b949ced2e6c2395db3be7f675c00564ba20ab2ee8e4ba5272c0bde913e8
 Description: 让自带计算器可以查看历史计算过程和结果。v1.1.3: 增加支持多步运算，修复重复运算符错误。
 Name: 计算器添加历史按钮
 Author: Donato Fiore
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.fiore.calculatorhistory/depiction.json
 
 Package: com.hoangdus.lowpowersleep
 Architecture: iphoneos-arm64
