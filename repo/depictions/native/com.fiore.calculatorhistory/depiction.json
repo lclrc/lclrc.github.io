@@ -23,6 +23,11 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "兼容性",
+					"text": "Dopamine",
+					"class": "DepictionTableTextView"
+				},
+				{
 					"title": "更新时间",
 					"text": "2023/4/26",
 					"class": "DepictionTableTextView"
@@ -33,8 +38,8 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
-					"action": "",
+					"title": "Github",
+					"action": "https://github.com/lclrc",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -66,6 +71,16 @@
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/4/18</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Readme",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- 源内插件仅为编译自用\n- 插件又不收费就别搬运了, 在搬运源安装出现问题请自行排查解决\n- 源内插件均为适配Dopamine\n- 测试环境为iPhone Xr 15.4.1"
 				}
 			],
 			"class": "DepictionStackView"
