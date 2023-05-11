@@ -502,29 +502,12 @@ Maintainer: Lessica & lclrc
 Installed-Size: 992
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debians/dev.traurige.kayoko_1.2-2_iphoneos-arm64.deb
-Size: 115570
-MD5sum: d2dc0c74427d407b24b79ca26e745287
-SHA1: e4395494b22400141336e4c5ed2336959fe7cb72
-SHA256: 17d804f72438ac0dcc2734bd62298852a3e7626f7288943bd2d814e12dbef31e
-SHA512: 9289aec52f20bf421283ecc07632839605346660f89214c4f88cc4fc2dfa0465cecbcd9bc4b60898d6df8090408c5890ccf3256e55de58372b5e7f196acb31a0
-Description: 自编译纯自用。适配多巴胺，此版本修改设置可以生效，用此版本出现问题请不要跟原作者反馈。1.2-1更新：适配多巴胺；1.2-2更新：修复窗口高度设置；
-Name: 剪贴板 Kayoko
-Author: Traurige <hello@traurige.dev>
-
-Package: dev.traurige.kayoko
-Architecture: iphoneos-arm64
-Version: 1.2-3
-Section: Tweaks
-Maintainer: Lessica & lclrc
-Installed-Size: 992
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debians/dev.traurige.kayoko_1.2-3_iphoneos-arm64.deb
-Size: 115242
-MD5sum: 8d827c0e575b164c2ff3240127b0519c
-SHA1: 7ff259fd152ca4dca29acebd81601cbb10a0e3c2
-SHA256: b1c83f71f2ec25d86b3b2456a53def2f744a7dd69ef398ad735063c111b3b226
-SHA512: f76e70af851d2104796a93dcc4366b910a95ee5a3fb2e56845982960bcf2260f24dfbbceef0fe186530bc20232dd85dfafc23ce2c2071f92b24e83520dcc3f51
-Description: 自编译纯自用。适配多巴胺，此版本修改设置可以生效，用此版本出现问题请不要跟原作者反馈。1.2-1更新：适配多巴胺；1.2-2更新：修复窗口高度设置；1.2-3: 添加手势调出
+Size: 115318
+MD5sum: 43d56a91b12dd7248651cea2b333cf6b
+SHA1: 9c61299583baa3f087dd25d992e398b7bf539d46
+SHA256: 8a99839ddf9d0d6b4ddc54fac0519be8348bfafabdee0fa8a5c828a30ef4320c
+SHA512: 7bfdaebe4a4b17ffe60a5b76ff8fdf8fb5a420be73dbc989859d1bc015c69301e516a05d4792488901ca2a1c9637d80e1738aae77e98b8cb1861b712062dde4e
+Description: 自编译纯自用。适配多巴胺，此版本修改设置可以生效，用此版本出现问题请不要跟原作者反馈。1.2-1更新：适配多巴胺；1.2-2更新：修复窗口高度设置
 Name: 剪贴板 Kayoko
 Author: Traurige <hello@traurige.dev>
 
