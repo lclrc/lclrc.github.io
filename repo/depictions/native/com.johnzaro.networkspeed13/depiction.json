@@ -39,7 +39,7 @@
 				},
 				{
 					"title": "依赖",
-					"text": "libcolorpicker",
+					"text": "libcolorpicker\naltlist",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -74,55 +74,78 @@
 				{
 					"title": "3.0.4",
 					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
 					"class": "DepictionSubheaderView"
 				},
 				{
 					"markdown": "\t\n\u2023 去掉自定义背景颜色开关, 打开背景颜色后默认使用自定义颜色",
+					"useSpacing": false,
+					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/11</small>",
 					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
 					"title": "3.0.3",
 					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
 					"class": "DepictionSubheaderView"
 				},
 				{
 					"markdown": "\t\n\u2023 完善自适应颜色",
+					"useSpacing": false,
+					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/10</small>",
 					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
 					"title": "3.0.2",
 					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
 					"class": "DepictionSubheaderView"
 				},
 				{
 					"markdown": "\t\n\u2023 real即时生效",
+					"useSpacing": false,
+					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
 				},{
 					"title": "3.0.1-7",
 					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
 					"class": "DepictionSubheaderView"
 				},
 				{
 					"markdown": "\t\n\u2023 左右滑添加自定义动作",
+					"useSpacing": false,
+					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
 				},{
 					"title": "3.0.1-4",
 					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
 					"class": "DepictionSubheaderView"
 				},
 				{
 					"markdown": "\t\n\u2023 添加单击和左右滑动作",
-					"useBottomMargin": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
