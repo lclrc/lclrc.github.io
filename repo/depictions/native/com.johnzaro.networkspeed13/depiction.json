@@ -85,6 +85,13 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/12</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "3.0.4-1",
 					"useBoldText": true,
 					"useSpacing": false,

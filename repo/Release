@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm64
 Codename: squidforce
 Components: main
-Date: Fri, 12 May 2023 12:20:51 +0000
+Date: Fri, 12 May 2023 12:24:43 +0000
 Description: Just for fun!
 Label: SquidForce Repo
 Origin: SquidForce Repo
@@ -10,28 +10,28 @@ Version: 1.0
 MD5Sum:
  5ebb305d9cbdebb5794f1335a4359452            33017 Packages
  b5483ae18b327dce4474d8f4ec6d078f            10716 Packages.bz2
- 0f43f19f0c7ab82d6f84545e61156ff6            11410 Packages.gz
+ c67123ac524ed81d8edade5c53862aa8            11410 Packages.gz
  faf352602f04a1771dba2eaac169e6ca            10036 Packages.xz
  bbe1f21ce411d7a839c83bd4a4e3b89d            10699 Packages.zst
- 9f20135a2bf9b9b19d4acf5c0a98448a              207 Release
+ 1f24d32995898e73845bc9865fc3639b              207 Release
 SHA1:
  d31623ce911b9e3bd1a41376fc90b3f82ff623e1            33017 Packages
  e6c22ddb0067296f8abd86c73799391e760c2f33            10716 Packages.bz2
- 0efe2299cfcae1ec6ffee414ca1c89533008bca0            11410 Packages.gz
+ 8284d3f332a623be5d842a22311be7b042a030df            11410 Packages.gz
  45d65f0eac43ed810fb65732811f67717b148403            10036 Packages.xz
  0ca341da1165d9d164f62b1baca67af901d7f00a            10699 Packages.zst
- 9dc9ead3f13ad97c567605de9e081379039b9118              207 Release
+ de1c1bb75e6b063a8798e1447e07e8a9b1fcae0d              207 Release
 SHA256:
  600e63c9a7032ffafc24e084c87141d7e6a774c8e9c7ea1da34660f732a65356            33017 Packages
  ec376e0f47b87b51b60f917650c3194274b79a3da4f3731d1b191c4b1e374c94            10716 Packages.bz2
- b8c3c21ecdbea0603263e5ac7962950d7273cfcc8d13367f1388825ea235eb0e            11410 Packages.gz
+ fc5fcb8b0887f7fa4c63c36cb031096d601fc5bfe619965529529aab0b3bf8d1            11410 Packages.gz
  33cdb9ca763aa3ccec51cf73bc94a7255b1e124ace07cd063aaa2a08783ae7eb            10036 Packages.xz
  2da967e3cfaf9271ac250b14e9fca169c1c38a5f78695f177e9d19e68310c633            10699 Packages.zst
- 5c4e3a7ad74f87ff1a06f28b0526a588ade868e94f052ac78fc0e0ac6fc310f5              207 Release
+ 27819a5a9e2a4bbcd1888bb27c7a188c5f7e2e55d48f75a4952c1a4ee3041180              207 Release
 SHA512:
  cc09fd7ab76ba3400797737bb9f2dadb758c313b4a3589982fb99184fc20ad5e7fbd2d33197ae534e94d8a25865d27eef41e9997f22f4279d8a96972dda6a555            33017 Packages
  b76a4d6ba6541069c3d2b21daef7a5c25950192e749554d1e2f384e6c6092bbf8ec65c27bc2b3f7f1605672e5d25816b8cada0b5a97781d20f91ef39ce8e055d            10716 Packages.bz2
- 023d67bfb0015001d4e65d41b06ae77a376e41be6cbdd767bc5fa246842ab230efe3b527ca465ebae87fb6963dc75d907b061e593f5787547018b4f0cb35e0e8            11410 Packages.gz
+ a23e6da5c1f3d591fe601394bcca11e2b16f2a06054a651a41c84c171390b8d2a3ad76eb7bf1fa6de7ea3bc0ddb7cb633ecbd4696307bb562e81504a1e570e65            11410 Packages.gz
  207d1550f8bfa314f0c2049f981236d2ad75a286368a7fa51932b35e9bb0c64c0bceb7bfe28399894965f710587da9e8737b0459cc75aabaa75bd095026bf47d            10036 Packages.xz
  e0b81cb5899562938207f7414d935a04b1f3a3a74cbc50e6f79c65efc196af9f41ef1651327ab8c8c837f2953fdec1c16995151559d67586c3be7e11c3acc84a            10699 Packages.zst
- 6b8ced4eeb97d554680d176172e43289a2fab464ec87e043dc4108332b33e1773ee63952390adf38aa9e46dc295ab15af88f16274ba515e286c5b9f9c758bc3a              207 Release
+ eef3e6ca087b281bbf84406146d79b74c50c920befdb5accfc1fafdee7bbf9178671b7c6eb6e0185d9d39c570fe947e291e74093b7e6e6911e70796fdaaf395f              207 Release
