@@ -29,7 +29,7 @@
 				},
 				{
 					"title": "版本",
-					"text": "3.0.4-1",
+					"text": "3.0.6",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -71,6 +71,19 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "3.0.6",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2023 Y轴偏移可调整",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "3.0.4-1",
 					"useBoldText": true,
