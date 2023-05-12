@@ -1,0 +1,119 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://lclrc.github.io/repo/assets/repo/Banners/1.jpg",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## 注意注意\n**卸载Alderis**, 安装p2kdev源里的**libcolorpicker**, Alderis 1.2.1在A12+设备上还有问题, 会引起**bootloop**!!!\n\n**Remove Alderis** & **install libcolorpicker** from `p2kdev`'s repo or my repo."
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "最近更新",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "版本",
+					"text": "2.3.2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "兼容性",
+					"text": "Dopamine",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "依赖",
+					"text": "libcolorpicker",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "更新时间",
+					"text": "2023/5/12",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "开发者",
+					"text": "mdaus & lclrc",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/lclrc",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "2.3.2",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2023 更新支持Dopamine",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/12</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "2.3.1",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2023 更新支持Fugu15Max",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/4/20</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Readme",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- 源内插件仅为兴趣自用\n- 插件又不收费就不必搬运了, 在搬运源安装出现问题请自行排查解决\n- 源内插件均为适配Dopamine\n- 测试环境为iPhone Xr 15.4.1"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
