@@ -7,6 +7,10 @@
 			"tabname": "Details",
 			"views": [
 				{
+					"class": "DepictionMarkdownView",
+					"markdown": "*Remove Alderis* & *install libcolorpicker* from p2kdev's repo or my repo.\n卸载Alderis, 安装p2kdev源里的libcolorpicker, Alderis 1.2.1在A12+设备上还有问题, 会引起bootloop!!!"
+				},
+				{
 					"class": "DepictionScreenshotsView",
 					"itemCornerRadius": 14,
 					"screenshots": [
@@ -15,10 +19,6 @@
 						}
 					],
 					"itemSize": "{410,430}"
-				},
-				{
-					"class": "DepictionMarkdownView",
-					"markdown": "去掉Cephei依赖, 替换sparkcolor和sparklist依赖"
 				},
 				{
 					"class": "DepictionSeparatorView"
