@@ -245,6 +245,24 @@ Name: 锁头自定义 Latchkey
 Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
 Author: Maxwell Dausch <max.dausch@gmail.com>
 
+Package: com.lclrc.mdaus.latchkey
+Architecture: iphoneos-arm64
+Version: 2.3.2
+Section: Tweaks
+Maintainer: Maxwell Dausch & lclrc
+Installed-Size: 13476
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debians/com.lclrc.mdaus.latchkey_2.3.2_iphoneos-arm64.deb
+Size: 6450598
+MD5sum: 542424cf2a0fa0f1c8eb1f6be32e55ce
+SHA1: fd3256f1b10be9607eb96dc1ebb71196b9f108fc
+SHA256: 44ab12608c4fcdee4b2620640c5a4c7a12b28ef8fd7383f50e1561e268e5fda1
+SHA512: b15f80d3d8de7223f9fea2c1592831be373c31d53184726e34452c668e61728eb052339187987789d9d95280ce01fd739d6e59f378b8beb44e12534e7dc3639c
+Description: 自定义锁头图标和位置。适配多巴胺，增加汉化，需要libcolorpicker依赖(p2kdev源里有)。Move and theme the Face-ID lock glyph
+Name: 锁头自定义 Latchkey
+Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
+Author: Maxwell Dausch <max.dausch@gmail.com>
+
 Package: com.lclrc.recordanywhere
 Architecture: iphoneos-arm64
 Version: 1.1.0
