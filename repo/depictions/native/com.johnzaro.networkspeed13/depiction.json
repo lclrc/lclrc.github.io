@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "*Remove Alderis* & *install libcolorpicker* from p2kdev's repo or my repo.\n卸载Alderis, 安装p2kdev源里的libcolorpicker, Alderis 1.2.1在A12+设备上还有问题, 会引起bootloop!!!"
+					"markdown": "## 注意注意\n**卸载Alderis**, 安装p2kdev源里的**libcolorpicker**, Alderis 1.2.1在A12+设备上还有问题, 会引起**bootloop**!!!\n\n**Remove Alderis** & **install libcolorpicker** from `p2kdev`'s repo or my repo."
 				},
 				{
 					"class": "DepictionScreenshotsView",
