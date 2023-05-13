@@ -590,18 +590,19 @@ Package: dev.traurige.kayoko
 Architecture: iphoneos-arm64
 Version: 1.2-2
 Section: Tweaks
-Maintainer: Lessica & lclrc
+Maintainer: Traurige
 Installed-Size: 992
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: ./debians/dev.traurige.kayoko_1.2-2_iphoneos-arm64.deb
-Size: 115318
-MD5sum: 43d56a91b12dd7248651cea2b333cf6b
-SHA1: 9c61299583baa3f087dd25d992e398b7bf539d46
-SHA256: 8a99839ddf9d0d6b4ddc54fac0519be8348bfafabdee0fa8a5c828a30ef4320c
-SHA512: 7bfdaebe4a4b17ffe60a5b76ff8fdf8fb5a420be73dbc989859d1bc015c69301e516a05d4792488901ca2a1c9637d80e1738aae77e98b8cb1861b712062dde4e
+Size: 115160
+MD5sum: c5fb906c9350b4aa5341fa8bfc7ba2fe
+SHA1: f395781b16ce81997b50a63e505c3ff7b9459316
+SHA256: 9eff5d9b64338ad14fe64def2ef35158551ad8b6c5540ac2e7157acfbd674c71
+SHA512: 3cdc2cbf72d192eb7c07bb8bc2cad13cb6bae88fb4b7de522255c24495c76d804d677152ff5fd502bff1564e51950d3d5340ad459ee62d868fb8ea22e4dba47c
 Description: 自编译纯自用。适配多巴胺，此版本修改设置可以生效，用此版本出现问题请不要跟原作者反馈。1.2-1更新：适配多巴胺；1.2-2更新：修复窗口高度设置
 Name: 剪贴板 Kayoko
 Author: Traurige <hello@traurige.dev>
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/dev.traurige.kayoko/depiction.json
 
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64

@@ -1,0 +1,113 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://lclrc.github.io/repo/assets/repo/Banners/1.jpg",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Tips\n中文用户请使用听写键唤出方式\n## 注意注意\n自编译纯自用。用此版本出现问题请不要跟原作者反馈。"
+				},
+				{
+					"class": "DepictionScreenshotsView",
+					"itemCornerRadius": 14,
+					"screenshots": [
+						{"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/kayoko/1.png",
+						"accessibilityText": "1.png"
+						}
+					],
+					"itemSize": "{410,430}"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "最近更新",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "版本",
+					"text": "1.2-2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "兼容性",
+					"text": "Dopamine",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "依赖",
+					"text": "无",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "更新时间",
+					"text": "2023/5/11",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "开发者",
+					"text": "traurige",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/lclrc",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.2-2",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\u2023 修复窗口高度设置",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/11</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Readme",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- 源内插件仅为兴趣自用\n- 插件又不收费就不必搬运了, 在搬运源安装出现问题请自行排查解决\n- 源内插件均为适配Dopamine\n- 测试环境为iPhone Xr 15.4.1"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
