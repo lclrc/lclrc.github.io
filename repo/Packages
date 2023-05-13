@@ -218,12 +218,12 @@ Maintainer: Johnzaro & lclrc
 Installed-Size: 880
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 12)
 Filename: ./debians/com.johnzaro.networkspeed13_3.0.7_iphoneos-arm64.deb
-Size: 482422
-MD5sum: f92d1de2897d51c2f5ce402547bb8568
-SHA1: 6baa48ba4238dc2f421457bb7cda86f3d1c6aa42
-SHA256: e58400e4761207c2b64ad021f153277fd92976357d360a1bdec6279e83e1a197
-SHA512: 6740d7c28e0f79e81276746a32290eaebaf491cb90a7d948c4a60cceafd67eb2f53994aaa14825768f2d036336e2960bb7f1e45d0c0c719c4f10ded9213e9335
-Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。3.0.1-1更新：添加注销按钮；3.0.1-2更新：修改设置后即时生效(详情看插件设置内说明); 3.0.1-3: 添加单击开关VPN选项；3.0.1-4: 添加左滑右滑截图；3.0.1-5:修复重置设置无效；3.0.1-6: 修复颜色设置(哇神坑，libcolorpicker搞成这样我理解不能); 3.0.1-7: 左右滑添加自定义动作; 3.0.2: real即时生效; 3.0.3: 完善自适应颜色
+Size: 482280
+MD5sum: a488ae1e7ed52123cf06cd76a3be0489
+SHA1: 65eb9983c7030705b85ac84cd0dd4e5012633fe0
+SHA256: deac80b63d3452c81f7d961664c4bc8f2e0474a92254447118e8d1aefbfdc4bf
+SHA512: 99191bc08bf333d4fb7936cced8389a381d7ca62b579d0fa74c9700109cf8d53b98db0e28421ea5c624b6fcd4632efd882cfe288c2384db94654fa748e92bf64
+Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。3.0.1-1更新：添加注销按钮；3.0.1-2更新：修改设置后即时生效(详情看插件设置内说明); 3.0.1-3: 添加单击开关VPN选项；3.0.1-4: 添加左滑右滑截图；3.0.1-5:修复重置设置无效；3.0.1-6: 修复颜色设置(哇神坑，libcolorpicker搞成这样我理解不能)
 Name: 悬浮网速 NetworkSpeed
 Author: Johnzaro & lclrc
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.johnzaro.networkspeed13/depiction.json
