@@ -29,7 +29,7 @@
 				},
 				{
 					"title": "版本",
-					"text": "3.0.6",
+					"text": "3.0.7",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -71,6 +71,26 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "3.0.7",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2023 Add: 最小显示速度选项\n\t\n\u2023 Add: 总是响应手势动作选项",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/13</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "3.0.6",
 					"useBoldText": true,
