@@ -79,7 +79,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\u2023 Add: 设置-最小显示速度阈值\n\n\t\u2023 Add: 设置-总是响应手势动作",
+					"markdown": "\t\u2023 Add: 设置-最小显示速度阈值\n\t\u2023 Add: 设置-总是响应手势动作",
 					"useSpacing": false,
 					"useBottomMargin": false,
 					"class": "DepictionMarkdownView"
