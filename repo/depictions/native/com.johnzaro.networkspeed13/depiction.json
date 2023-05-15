@@ -29,7 +29,7 @@
 				},
 				{
 					"title": "版本",
-					"text": "3.0.7",
+					"text": "3.0.8",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -71,6 +71,26 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+				{
+					"title": "3.0.8",
+					"useBoldText": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\u2023 perf: 优化打开app时文本颜色自适应速度",
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/15</small>",
+					"useRawFormat": true,
+					"useSpacing": false,
+					"useBottomMargin": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "3.0.7",
 					"useBoldText": true,
