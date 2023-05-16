@@ -123,41 +123,6 @@ Author: Hoangdus
 
 Package: com.johnzaro.networkspeed13
 Architecture: iphoneos-arm64
-Version: 3.0.2
-Section: Tweaks
-Maintainer: Johnzaro <johnzrgnns@gmail.com>
-Installed-Size: 880
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.opa334.altlist, firmware (>= 12)
-Filename: ./debians/com.johnzaro.networkspeed13_3.0.2_iphoneos-arm64.deb
-Size: 481568
-MD5sum: dded33b3d4870abfed0ebea5020f4ce7
-SHA1: 7aef009fce636f07bc4129fbe6d71b5a5c910b3b
-SHA256: 6197dc6a9e74c891c5f4ed7d0430fa2df4c50d0254832bf8c18586a9550263d1
-SHA512: 3b34d02f798e12414fab3d52dce886c3b54f56c39fd661635cf6ff64159aa96b883198627aaeebd92c567de7922607f56e9e86ac37264614caa246b04a55344c
-Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。3.0.1-1更新：添加注销按钮；3.0.1-2更新：修改设置后即时生效(详情看插件设置内说明); 3.0.1-3: 添加单击开关VPN选项；3.0.1-4: 添加左滑右滑截图；3.0.1-5:修复重置设置无效；3.0.1-6: 修复颜色设置(哇神坑，libcolorpicker搞成这样我理解不能); 3.0.1-7: 左右滑添加自定义动作; 3.0.2: real即时生效
-Name: 悬浮网速 NetworkSpeed
-Author: Johnzaro <johnzrgnns@gmail.com>
-
-Package: com.johnzaro.networkspeed13
-Architecture: iphoneos-arm64
-Version: 3.0.3
-Section: Tweaks
-Maintainer: Johnzaro
-Installed-Size: 880
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.opa334.altlist, firmware (>= 12)
-Filename: ./debians/com.johnzaro.networkspeed13_3.0.3_iphoneos-arm64.deb
-Size: 481586
-MD5sum: 0a9d04e6d4db32f2e270fbdef230f543
-SHA1: de9957f9f98b69544ffd935ee77bc3357640f2fd
-SHA256: dd063e5f57cb11e4f6152d9a34d34e75834b4b981b3b10ef8c14e396496421f4
-SHA512: f4861f2cc84713c477257efb52be73451e37918a5b77d6dc52e32d9c7377158fb1689e8d6bbab7a27ec077c04d83d519d8655b916980d4ad415bb6d18f22454c
-Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。3.0.1-1更新：添加注销按钮；3.0.1-2更新：修改设置后即时生效(详情看插件设置内说明); 3.0.1-3: 添加单击开关VPN选项；3.0.1-4: 添加左滑右滑截图；3.0.1-5:修复重置设置无效；3.0.1-6: 修复颜色设置(哇神坑，libcolorpicker搞成这样我理解不能); 3.0.1-7: 左右滑添加自定义动作; 3.0.2: real即时生效; 3.0.3: 完善自适应颜色
-Name: 悬浮网速 NetworkSpeed
-Author: Johnzaro
-SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.johnzaro.networkspeed13/depiction.json
-
-Package: com.johnzaro.networkspeed13
-Architecture: iphoneos-arm64
 Version: 3.0.4-1
 Section: Tweaks
 Maintainer: Johnzaro
@@ -169,24 +134,6 @@ MD5sum: c819592d6793dd259c80052837c06f88
 SHA1: 5c9bdff6caa125e6af5527edeee214b4c51789ed
 SHA256: 21867af710a04b9ff6568b8dbe34b040be2e0c5fc159fe3b6d28a9e45db39c46
 SHA512: 12a8df2a8935354d0a6ff337be16f85615515c6893ed50e097c75e23e1a7b32b3240e4a3b75ff88a2ee72ad15e5865bbeff9e12c11a27f692f888f4e15edb6c2
-Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。3.0.1-1更新：添加注销按钮；3.0.1-2更新：修改设置后即时生效(详情看插件设置内说明); 3.0.1-3: 添加单击开关VPN选项；3.0.1-4: 添加左滑右滑截图；3.0.1-5:修复重置设置无效；3.0.1-6: 修复颜色设置(哇神坑，libcolorpicker搞成这样我理解不能); 3.0.1-7: 左右滑添加自定义动作; 3.0.2: real即时生效; 3.0.3: 完善自适应颜色
-Name: 悬浮网速 NetworkSpeed
-Author: Johnzaro
-SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.johnzaro.networkspeed13/depiction.json
-
-Package: com.johnzaro.networkspeed13
-Architecture: iphoneos-arm64
-Version: 3.0.4
-Section: Tweaks
-Maintainer: Johnzaro
-Installed-Size: 880
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.opa334.altlist, firmware (>= 12)
-Filename: ./debians/com.johnzaro.networkspeed13_3.0.4_iphoneos-arm64.deb
-Size: 480994
-MD5sum: d1c3dd5979af2a29e1b05b906d606687
-SHA1: 6cbb9c181d9f4b892fdf54f02d086e9bc70db1d1
-SHA256: 14fbea9550538819803c649226fdb57df86bf085306cdd98e6109301cea22305
-SHA512: 09419858beffc44ad7681da184c0cf25ff66643e9b7e95fbb5e83a64d88103e370bd2808cec9f65a945623e2a6b6dd858c7b864eea4897f15dc30f95db89f22a
 Description: 编译自用，去掉Cephei依赖，替换sparkcolor和sparklist依赖。3.0.1-1更新：添加注销按钮；3.0.1-2更新：修改设置后即时生效(详情看插件设置内说明); 3.0.1-3: 添加单击开关VPN选项；3.0.1-4: 添加左滑右滑截图；3.0.1-5:修复重置设置无效；3.0.1-6: 修复颜色设置(哇神坑，libcolorpicker搞成这样我理解不能); 3.0.1-7: 左右滑添加自定义动作; 3.0.2: real即时生效; 3.0.3: 完善自适应颜色
 Name: 悬浮网速 NetworkSpeed
 Author: Johnzaro
@@ -410,23 +357,6 @@ Name: 键盘滑动选择 SwipeSelection
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.swipeselection
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/PreferenceBundles/SwipeSelectionPrefs.bundle/Header.png
-
-Package: com.mtac.ampere
-Architecture: iphoneos-arm64
-Version: 1.0.9
-Section: Tweaks
-Maintainer: MTAC
-Installed-Size: 536
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
-Filename: ./debians/com.mtac.ampere_1.0.9_iphoneos-arm64.deb
-Size: 87796
-MD5sum: e974fa3f25acdb5c83d996fff60295b8
-SHA1: 390cb11ec7cfce7e64ad8fb4461c37ed62905dc9
-SHA256: 8964f1dfa457f27b470c8da1c4ecd88aecad2c34c8f26f8a727b63c68ee5aeb2
-SHA512: d456abee49a2c7d865de473122eaf6b89b406b6fc4a34e25cd8f66950a5a51696e59b0481849e8e59a41d67387787185a9ab373a80684466c14bdaa2839c11ba
-Description: iOS 16 Style Battery Indicator(仅为编译自用)
-Name: Ampere
-Author: MTAC
 
 Package: com.p2kdev.screenshotactions
 Architecture: iphoneos-arm64
