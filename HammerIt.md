@@ -6,18 +6,18 @@
 
 ## 悬浮球
 1. 点按进入分词窗口
-2. 长按直接进入翻译窗口
+2. 长按直接进入翻译窗口(**需要先申请百度翻译的appkey填入设置**)
 
 ## 分词窗口
 1. 复制: 点击后复制所选词并关闭窗口
 2. 复制+: 点击后复制所选词并自动清空选词, 可以继续下一次复制+. 适合配合剪贴板复制多条片段
 3. 选序/原序: 点击切换最终是按原文顺序输出还是选择顺序输出
-4. 翻译: 现在支持百度api翻译, 需要先申请百度翻译的appkey
+4. 翻译: 现在支持百度api翻译, **需要先申请百度翻译的appkey**
 
 ## TODO
-1. 支持更多翻译接口
-2. OCR
-3. Cephei支持后重写设置
+- [ ] 支持更多翻译接口
+- [ ] OCR
+- [ ] Cephei支持后重写设置
 
 
 # For English
@@ -28,7 +28,7 @@
 
 ## Floating Ball
 1. Tap to enter the word splitting window
-2. Long press to enter the translation window directly
+2. Long press to enter the translation window directly(**Need to apply for Baidu translation appkey first**)
 
 ## Word Separation Window
 1. Copy: Click to copy the selected word and close the window
@@ -37,6 +37,6 @@
 4. Translation: now support Baidu api translation, need to apply for Baidu translation appkey first
 
 ## TODO
-1. Support more translation interfaces
-2. OCR
-3. Rewrite settings when `Cephei` supports
+- [ ] Support more translation interfaces
+- [ ] OCR
+- [ ] Rewrite settings when `Cephei` supports
