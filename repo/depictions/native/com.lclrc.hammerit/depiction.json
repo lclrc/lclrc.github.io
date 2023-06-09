@@ -14,20 +14,20 @@
 					"class": "DepictionScreenshotsView",
 					"itemCornerRadius": 14,
 					"screenshots": [
-						{"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/hammerit/zh1.png",
-						"accessibilityText": "zh1.png"
+						{"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/hammerit/zh1.jpeg",
+						"accessibilityText": "zh1.jpeg"
 						},
-            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/hammerit/zh2.png",
-              "accessibilityText": "zh2.png"
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/hammerit/zh2.jpeg",
+              "accessibilityText": "zh2.jpeg"
             },
-            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/hammerit/zh3.png",
-              "accessibilityText": "zh3.png"
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/hammerit/zh3.jpeg",
+              "accessibilityText": "zh3.jpeg"
             },
-            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/hammerit/zh4.png",
-              "accessibilityText": "zh4.png"
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/hammerit/zh4.jpeg",
+              "accessibilityText": "zh4.jpeg"
             },
-            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/hammerit/zh5.png",
-              "accessibilityText": "zh5.png"
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/hammerit/zh5.jpeg",
+              "accessibilityText": "zh5.jpeg"
             }
 					],
 					"itemSize": "{531,944}"
