@@ -7,10 +7,6 @@
 			"tabname": "介绍",
 			"views": [
 				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## Hammer It\n一个简约的文字处理插件。\n\n可以通过选中文本菜单，亦或是复制文本后的悬浮球唤出HammerIt窗口，对选中的文本或是剪切板内的内容进行分词、翻译、搜索等操作。\n\n* HammerIt窗口\n\n\t* 按选择顺序或原本顺序输出\n\n\t* 选中文字预览\n\n\t* 连续复制\n\n\t* 打开链接、搜索、翻译\n\n\t* 长按词块对词块再次细分\n\n* 翻译窗口\n\n\t* 长按悬浮球快捷唤出\n\n\t* 原文与译文对照\n\n\t* 自动识别文字语种\n\n* 图片OCR\n\n\t* 复制图片后出现悬浮球\n\n\t* 点击悬浮球对图片OCR并分词\n\n\t* 长按悬浮球对图片OCR并翻译\n\n* 控制中心\n\n\t* 全屏截图OCR并分词\n\n\t* 全屏截图OCR并翻译"
-				},
-				{
 					"class": "DepictionScreenshotsView",
 					"itemCornerRadius": 14,
 					"screenshots": [
@@ -30,7 +26,11 @@
               "accessibilityText": "zh5.jpeg"
             }
 					],
-					"itemSize": "{531,944}"
+					"itemSize": "{265,472}"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Hammer It\n一个简约的文字处理插件。\n\n可以通过选中文本菜单，亦或是复制文本后的悬浮球唤出HammerIt窗口，对选中的文本或是剪切板内的内容进行分词、翻译、搜索等操作。\n\n* HammerIt窗口\n\n\t* 按选择顺序或原本顺序输出\n\n\t* 选中文字预览\n\n\t* 连续复制\n\n\t* 打开链接、搜索、翻译\n\n\t* 长按词块对词块再次细分\n\n* 翻译窗口\n\n\t* 长按悬浮球快捷唤出\n\n\t* 原文与译文对照\n\n\t* 自动识别文字语种\n\n* 图片OCR\n\n\t* 复制图片后出现悬浮球\n\n\t* 点击悬浮球对图片OCR并分词\n\n\t* 长按悬浮球对图片OCR并翻译\n\n* 控制中心\n\n\t* 全屏截图OCR并分词\n\n\t* 全屏截图OCR并翻译"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -84,10 +84,6 @@
 			"tabname": "Details",
 			"views": [
 				{
-					"class": "DepictionMarkdownView",
-					"markdown": "## Hammer It\nA text processing tweak.\n\nThe HammerIt window can be called up by selecting the text menu or by floating ball after copied the text, and the selected text or the contents of the clipboard can be separated into words, translated, searched, etc.\n\n* * HammerIt window\n\n\t* Output in selected order or original order\n\n\t* Preview of selected text\n\n\t* Continuous copy\n\n\t* Open link, search, translate\n\n\t* Long press on a word block to separate the block again\n\n* Translation window\n\n\t* Long press on the floating ball for quick envoke\n\n\t* Compare original text with translated text\n\n\t* Automatic text language recognition\n\n* Image OCR\n\n\t* Floating ball appears after copying the image\n\n\t* Click on the floating ball to OCR the image and split the words\n\n\t* Long press on the floating ball to OCR and translate the image\n\n* Control Center\n\n\t* Full-screen screenshot OCR with word separated\n\n\t* Full-screen screenshot OCR and translate\n\nPlease contact me if you can help me complete in the language localization."
-				},
-				{
 					"class": "DepictionScreenshotsView",
 					"itemCornerRadius": 14,
 					"screenshots": [
@@ -107,7 +103,11 @@
               "accessibilityText": "en5.jpeg"
             }
 					],
-					"itemSize": "{531,944}"
+					"itemSize": "{265,472}"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## Hammer It\nA text processing tweak.\n\nThe HammerIt window can be called up by selecting the text menu or by floating ball after copied the text, and the selected text or the contents of the clipboard can be separated into words, translated, searched, etc.\n\n* HammerIt window\n\n\t* Output in selected order or original order\n\n\t* Preview of selected text\n\n\t* Continuous copy\n\n\t* Open link, search, translate\n\n\t* Long press on a word block to separate the block again\n\n* Translation window\n\n\t* Long press on the floating ball for quick envoke\n\n\t* Compare original text with translated text\n\n\t* Automatic text language recognition\n\n* Image OCR\n\n\t* Floating ball appears after copying the image\n\n\t* Click on the floating ball to OCR the image and split the words\n\n\t* Long press on the floating ball to OCR and translate the image\n\n* Control Center\n\n\t* Full-screen screenshot OCR with word separated\n\n\t* Full-screen screenshot OCR and translate\n\nPlease contact me if you can help me complete in the language localization."
 				},
 				{
 					"class": "DepictionSeparatorView"
