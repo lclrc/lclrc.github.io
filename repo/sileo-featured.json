@@ -5,8 +5,8 @@
   "banners": [
     {
         "url": "https://raw.githubusercontent.com/lclrc/repo/master/assets/Banners/RepoHeader.png",
-        "title": "NetworkSpeed",
-        "package": "com.johnzaro.networkspeed13",
+        "title": "HammerIt",
+        "package": "com.lclrc.hammerit",
         "hideShadow": false
     }
   ]
