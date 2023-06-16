@@ -2,8 +2,12 @@
 
 ## 触发方式
 1. 复制内容后出现悬浮球, 点按悬浮球开始
-2. 选择文本后弹出编辑菜单, 选择HammerIt开始
-3. 控制中心按钮
+  - 连续复制同一条内容不会弹出球, 如有需求请用控制中心按钮
+3. 选择文本后弹出编辑菜单, 选择HammerIt开始
+4. 控制中心按钮
+  - 全屏OCR并分词(需要申请百度API)
+  - 全屏OCR并翻译(需要申请百度API)
+  - 对剪贴板最近一条记录进行分词
 
 ## 悬浮球(复制文字或图片后出现)
 1. 点按进入分词窗口
@@ -41,8 +45,12 @@
 
 ## Trigger method
 1. Copy the content and the floating Ball appears, tap it to start
-2. Select the text and the edit menu appears, select HammerIt to start
-3. Control center button
+  - Continuously copying the same content will not pop up the ball. If necessary, please use the Control Center button.
+3. Select the text and the edit menu appears, select HammerIt to start
+4. Control center button
+  - Full screen OCR and word segmentation(need apply Baidu API now)
+  - Full screen OCR and translation(need apply Baidu API now)
+  - Segment the most recent record on the clipboard
 
 ## Floating Ball(Appears after copying text or images)
 1. Tap to enter the word splitting window
