@@ -48,8 +48,8 @@
   - Continuously copying the same content will not pop up the ball. If necessary, please use the Control Center button.
 3. Select the text and the edit menu appears, select HammerIt to start
 4. Control center button
-  - Full screen OCR and word segmentation(need apply Baidu API now)
-  - Full screen OCR and translation(need apply Baidu API now)
+  - Full screen OCR and word segmentation(need to apply Baidu API now)
+  - Full screen OCR and translation(need to apply Baidu API now)
   - Segment the most recent record on the clipboard
 
 ## Floating Ball(Appears after copying text or images)
