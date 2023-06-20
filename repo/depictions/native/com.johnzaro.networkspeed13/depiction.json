@@ -29,7 +29,7 @@
 				},
 				{
 					"title": "版本",
-					"text": "3.0.8",
+					"text": "3.0.9",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -44,7 +44,7 @@
 				},
 				{
 					"title": "更新时间",
-					"text": "2023/5/15",
+					"text": "2023/6/20",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -71,6 +71,26 @@
 		{
 			"tabname": "Changelog",
 			"views": [
+        {
+          "title": "3.0.9",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 perf: Add Snapper3 gesture support",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/15</small>",
+          "useRawFormat": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
 				{
 					"title": "3.0.8",
 					"useBoldText": true,
