@@ -29,7 +29,6 @@
 | de | pl |
 | ru | tr |
 | ar | id |
-| th | vi |
 
 ## 百度Api支持的语种
 * 文字翻译: https://fanyi-api.baidu.com/doc/21
@@ -72,7 +71,6 @@
 | de | pl |
 | ru | tr |
 | ar | id |
-| th | vi |
 
 ## Baidu Api supported language
 * text translate: https://fanyi-api.baidu.com/doc/21
