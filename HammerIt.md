@@ -30,6 +30,22 @@
 | ru | tr |
 | ar | id |
 
+## Google支持的语种
+|   |  |  |  |
+| -- | -- | -- | -- |
+| zh | fr | en | es |
+| ja | pt | ko | it |
+| de | ru | ar | sv |
+| ro | th | sk | nl |
+| da | el | fi | pl |
+| cs | tr | lt | lv |
+| uk | bg | id | ms |
+| sl | et | vi | fa |
+| hi | te | ta | ur |
+| tl | km | lo | bn |
+| my | no | sr | hr |
+| mn | iw |
+
 ## 百度Api支持的语种
 * 文字翻译: https://fanyi-api.baidu.com/doc/21
 * 图片OCR和翻译: https://fanyi-api.baidu.com/doc/26
@@ -71,6 +87,22 @@
 | de | pl |
 | ru | tr |
 | ar | id |
+
+## Built-in Google supported language
+|   |  |  |  |
+| -- | -- | -- | -- |
+| zh | fr | en | es |
+| ja | pt | ko | it |
+| de | ru | ar | sv |
+| ro | th | sk | nl |
+| da | el | fi | pl |
+| cs | tr | lt | lv |
+| uk | bg | id | ms |
+| sl | et | vi | fa |
+| hi | te | ta | ur |
+| tl | km | lo | bn |
+| my | no | sr | hr |
+| mn | iw |
 
 ## Baidu Api supported language
 * text translate: https://fanyi-api.baidu.com/doc/21
