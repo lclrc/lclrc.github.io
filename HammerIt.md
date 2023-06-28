@@ -19,6 +19,11 @@
 3. 选序/原序: 点击切换最终是按原文顺序输出还是选择顺序输出
 4. 翻译: 现在支持内置DeepL翻译, 百度api翻译
 
+## 与一些应用集成
+- QQ/Tim/微信
+- Twitter
+- Things3
+
 ## DeepL支持的语种
 |   |  |
 | -- | -- |
@@ -76,6 +81,11 @@
 2. Copy+: Click to copy the selected word and clear the selection automatically, you can continue to copy+. Suitable for copying multiple clips with clipboard
 3. Select order/original order: click to switch whether the final output is in the original order or the selected order
 4. Translation: now support Built-in DeepL translation and Baidu api translation
+
+## Integration with some Apps
+- QQ/Tim/Wechat
+- Twitter
+- Things3
 
 ## DeepL supported language
 |   |  |
