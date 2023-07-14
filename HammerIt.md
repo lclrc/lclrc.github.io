@@ -78,7 +78,7 @@
 
 ## Word Separation Window
 1. Copy: Click to copy the selected word and close the window
-2. Copy+: Click to copy the selected word and clear the selection automatically, you can continue to copy+. Suitable for copying multiple clips with clipboard
+2. Copy+: Click to copy the selected word and clear the selection automatically, you can continue to copy+. Suitable for copying multiple clips with clipboard tweaks
 3. Select order/original order: click to switch whether the final output is in the original order or the selected order
 4. Translation: now support Built-in DeepL translation and Baidu api translation
 
