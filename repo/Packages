@@ -34,24 +34,6 @@ Author: Brend0n <brendonjkding@126.com>
 
 Package: com.dimitarnestorov.searchautofocus
 Architecture: iphoneos-arm64
-Version: 1.0.1-3+debug
-Section: Tweaks
-Maintainer: Dimitar Nestorov
-Installed-Size: 480
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 11.0)
-Filename: ./debians/com.dimitarnestorov.searchautofocus_1.0.1-3+debug_iphoneos-arm64.deb
-Size: 106270
-MD5sum: 331a31d545569507bec8027c226aa6b7
-SHA1: 43535c8831fd58179204e697ee536a3ec34960e9
-SHA256: 33cc9015fe4343d3f01e68fc08bb5f59a9f37e4e559821022bdb1c0a3dcd1cad
-SHA512: 844d34602e5d7f22215ecfd67648f47394fc8866766722e0f345d53a4898c68ca4f9036f8a3f7b7af56981833663de3b7d3842b281c90d9d6155b819baebe785
-Description: Automatically focus search inputs
-Name: SearchAutoFocus
-Author: Dimitar Nestorov
-Icon: file:///Library/PreferenceBundles/SearchAutoFocusPreferences.bundle/Icon@512h.png
-
-Package: com.dimitarnestorov.searchautofocus
-Architecture: iphoneos-arm64
 Version: 1.0.2
 Section: Tweaks
 Maintainer: Dimitar Nestorov
@@ -102,23 +84,6 @@ SHA256: 0acb801878ffa7cb928225ae77c5299d595bdd78ba3c5a0b8098f936932ed696
 SHA512: 7d984e214a6b026a1061fb8dac4580c223572d19e3598b65fbd9d7bf8974cc52b18f0ace7f27d746a661b88e147c64e293a2dadedde081b765e26a5f8dc7659e
 Description: 锁屏时自动打开低电量模式
 Name: 锁屏自动低电量
-Author: Hoangdus
-
-Package: com.hoangdus.speedster
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: Hoangdus
-Installed-Size: 404
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/com.hoangdus.speedster_1.0.0_iphoneos-arm64.deb
-Size: 37694
-MD5sum: 8d9b243db3ab5b9caed865af092deda5
-SHA1: 60dbb29109d07e8689672d2dbe02067184e8d89c
-SHA256: 3633ad940f8f3f9c7349f5467f85d828a8522b94eddc778be98d6d87b9194167
-SHA512: 4a54ee091eca74c3476c5be50ecb97f98a767b31bd391647707048792f375927e8bbc292cc1ad4b4c08e4135dc1529c8adc2e10007bc22e29f4900520e5a21db
-Description: 加速系统的一些动画效果
-Name: 系统动画加速
 Author: Hoangdus
 
 Package: com.johnzaro.networkspeed13
@@ -228,6 +193,40 @@ Name: CCCalc
 Author: gilesgc & paisseon & lclrc
 Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
 
+Package: com.lclrc.hideiconlabels
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: SquidForce <lclrc.3@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/com.lclrc.hideiconlabels_0.0.1_iphoneos-arm64.deb
+Size: 2716
+MD5sum: fc2995327b0e1ecbd70b58fb33237153
+SHA1: 843c8532242a615f7f32bca3284cf3b02a8502d4
+SHA256: 69eb5457ac5238248f1cfc56ce8dad9ebc4b3a618eb4dacddacf3021be14fd00
+SHA512: 1fa17134f5da85793b41bb4cde59c34689ceb9494f6ebf42d83a1772e508e9758851868f88bd2d0e5dc943c2bfa48e47f00900feb964c5e9b56b99e77e15750e
+Description: Same as the title
+Name: HideIconLabels
+Author: SquidForce <lclrc.3@gmail.com>
+
+Package: com.lclrc.hidepagedots
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: SquidForce <lclrc.3@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/com.lclrc.hidepagedots_0.0.1_iphoneos-arm64.deb
+Size: 2816
+MD5sum: 21c0a4ca2baa6e5ef95c720eb78315dc
+SHA1: fc9aa35945b3fde10bb20b3a234b65b85d68c49e
+SHA256: 1abf54b02bf13f7b2b0c7024742eaff0815f0f626b48f53623a2e8b9b6fc1500
+SHA512: 967168f0d3aa84b8a4f7567e005e701dc06171c99ed4eea00d1e11115406ee9ba0b2153d020671c0a6ef00c6bbb5ccbd8786d4a2b98dc8ca5e02eaa78034f42b
+Description: Same as the title
+Name: HidePageDots
+Author: SquidForce <lclrc.3@gmail.com>
+
 Package: com.lclrc.mdaus.latchkey
 Architecture: iphoneos-arm64
 Version: 2.3.1-1
@@ -302,23 +301,6 @@ Author: Muirey03 & lclrc
 
 Package: com.lns.pogr
 Architecture: iphoneos-arm64
-Version: 0.2.2
-Section: Tweaks
-Maintainer: Ruphane
-Installed-Size: 320
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/com.lns.pogr_0.2.2_iphoneos-arm64.deb
-Size: 12712
-MD5sum: f915f26e22af680cc337a208053f896b
-SHA1: eeb36de545a52b835ff30fb116ed9fb7383b068d
-SHA256: 69ba66cef208aa9658835cdd2dcccad5a6965aae84884b0ab339ac880c0489d3
-SHA512: 41809a079aa6d1b2c5f19501f137c830d20eb9f5a4691021910c1762f782eeb3d706246975bdab7422aa2a79becb1c15744321bc9ed5560c059ee8d84a5c1d58
-Description: Treat AirPods Pro 2 correctly
-Name: PodsGrant
-Author: Ruphane
-
-Package: com.lns.pogr
-Architecture: iphoneos-arm64
 Version: 0.2.3
 Section: Tweaks
 Maintainer: Ruphane
@@ -333,48 +315,6 @@ SHA512: b5319872bcf0fc86b47e8b1260c95cb0c829fa9a419816c1bd088645cfc5de27eef4637b
 Description: Treat AirPods Pro 2 correctly
 Name: PodsGrant
 Author: Ruphane
-
-Package: com.miro.swipeselection
-Architecture: iphoneos-arm64
-Version: 1.0~beta9-1
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 420
-Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
-Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro, com.yourepo.restiveconch.swipeselectionfix
-Filename: ./debians/com.miro.swipeselection_1.0~beta9-1_iphoneos-arm64.deb
-Size: 38822
-MD5sum: e0854cd5cf4ee0c976bf94a2e6bae743
-SHA1: d4ffe834ae751ca45ff79310093259c293291b72
-SHA256: d7cf36a14f5627cfea1e086cd980113282bc27acf59076ddf541127eb86a9703
-SHA512: 245396ce7cd2e05568f2b3927cb89c0ea734587e75053f39d8facbea9d810e4a31ac93336d54ad80613e8085abfe5c90d931dd29a7df386f4af4cff2dec930f2
-Description: 自带输入法扩展，编译自用，适配多巴胺。用此版本出现问题请不要跟原作者反馈，耐心等待原作者适配。Select text and move the cursor using gestures on the keyboard.
-Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
-Name: 键盘滑动选择 SwipeSelection
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.swipeselection
-Author: MiRO <tweaks_support@miro92.com>
-Icon: file:////Library/PreferenceBundles/SwipeSelectionPrefs.bundle/Header.png
-
-Package: com.miro.swipeselection
-Architecture: iphoneos-arm64
-Version: 1.0~beta9
-Section: Tweaks
-Maintainer: MiRO <tweaks_support@miro92.com>
-Installed-Size: 420
-Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
-Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro, com.yourepo.restiveconch.swipeselectionfix
-Filename: ./debians/com.miro.swipeselection_1.0~beta9_iphoneos-arm64.deb
-Size: 38826
-MD5sum: c3dc6272737d10accc40a8e319b5db2c
-SHA1: 8b37a2e39f5543e8b0083e0fa634699dcb133a50
-SHA256: 23404cae8c84e16543bd8256cb7a6291781074071b35fbd980094672e30e3498
-SHA512: 54640b254290f901239286148b498da88ee97a05dbec641d67491717e2517ecb921fff81d1619134cbf6334ec58797b16e0c005d447f6b1af5980d1fb281571c
-Description: 自带输入法扩展，编译自用，适配多巴胺。用此版本出现问题请不要跟原作者反馈，耐心等待原作者适配。Select text and move the cursor using gestures on the keyboard.
-Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
-Name: 键盘滑动选择 SwipeSelection
-Depiction: https://miro92.com/repo/depictions/?p=com.miro.swipeselection
-Author: MiRO <tweaks_support@miro92.com>
-Icon: file:////Library/PreferenceBundles/SwipeSelectionPrefs.bundle/Header.png
 
 Package: com.p2kdev.screenshotactions
 Architecture: iphoneos-arm64
@@ -517,58 +457,22 @@ Name: TimeJump
 Author: WilsontheWolf
 Icon: file:///Library/PreferenceBundles/TimeJumpPrefs.bundle/Icon@3x.png
 
-Package: dev.traurige.eneko
+Package: info.adolfoi.simplehome
 Architecture: iphoneos-arm64
-Version: 1.2
+Version: 1.0.0
 Section: Tweaks
-Maintainer: Traurige <hello@traurige.dev>
-Installed-Size: 384
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Conflicts: love.litten.eneko
-Filename: ./debians/dev.traurige.eneko_1.2_iphoneos-arm64.deb
-Size: 28708
-MD5sum: 6b4d2fbadf57d404202db9564abf539d
-SHA1: 860ce677169d42e0a8dc325b1e699177101f4e5e
-SHA256: 8cde5cf2696ad074523c669bb0655d68e637a07d15fe2ad6bede87d1f749f13f
-SHA512: c4e55cfe7478b66fe0d882902e75874082b6ed8bbe35b6b1b0b1b3a2f7a34e255e5655e166a5b996242f716268ca7b66a58d72e8b569559d25239222d3e4ebb1
-Description: 用视频做锁定屏幕和主屏幕的墙纸。Video wallpapers for iOS
-Name: 视频墙纸 Eneko
-Author: Traurige <hello@traurige.dev>
-
-Package: dev.traurige.kayoko
-Architecture: iphoneos-arm64
-Version: 1.2-1
-Section: Tweaks
-Maintainer: Lessica & lclrc
-Installed-Size: 996
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debians/dev.traurige.kayoko_1.2-1_iphoneos-arm64.deb
-Size: 115234
-MD5sum: efc1b829821266183b9ff2137ca79b32
-SHA1: cb1eb34bc0857e714204f0ac99251b6b27b6346c
-SHA256: cb6cbd074432b0be094cfd1af23baf6c91c49d716ce8047c8ecca09bd010b22b
-SHA512: 839d23c30baf4f63e12638ff38992634df32995e0f28306325ee066df9c01a8c5a50bb92957c3b2e2e8009bbf6678ebbfba1673acbe01ddeec54e9ec1dde9668
-Description: 自编译纯自用。适配多巴胺，此版本修改设置可以生效，用此版本出现问题请不要跟原作者反馈
-Name: 剪贴板 Kayoko
-Author: Traurige <hello@traurige.dev>
-
-Package: dev.traurige.kayoko
-Architecture: iphoneos-arm64
-Version: 1.2-2
-Section: Tweaks
-Maintainer: Traurige
-Installed-Size: 992
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debians/dev.traurige.kayoko_1.2-2_iphoneos-arm64.deb
-Size: 115160
-MD5sum: c5fb906c9350b4aa5341fa8bfc7ba2fe
-SHA1: f395781b16ce81997b50a63e505c3ff7b9459316
-SHA256: 9eff5d9b64338ad14fe64def2ef35158551ad8b6c5540ac2e7157acfbd674c71
-SHA512: 3cdc2cbf72d192eb7c07bb8bc2cad13cb6bae88fb4b7de522255c24495c76d804d677152ff5fd502bff1564e51950d3d5340ad459ee62d868fb8ea22e4dba47c
-Description: 自编译纯自用。适配多巴胺，此版本修改设置可以生效，用此版本出现问题请不要跟原作者反馈。1.2-1更新：适配多巴胺；1.2-2更新：修复窗口高度设置
-Name: 剪贴板 Kayoko
-Author: Traurige <hello@traurige.dev>
-SileoDepiction: https://lclrc.github.io/repo/depictions/native/dev.traurige.kayoko/depiction.json
+Maintainer: Adolfoi_
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/info.adolfoi.simplehome_1.0.0_iphoneos-arm64.deb
+Size: 2756
+MD5sum: 1db6dddd8c7994e364605a0ff2c6dddf
+SHA1: cdb5f16f6e506efc8da62513ddde920c6612ea51
+SHA256: b5495fcc9ac870932f75e1e44fc6e113e7280973dc9aee6b5cd3e3ae58c1cbcd
+SHA512: 88ab9e215b17fc1e12cba2f6adb7bd38eaee2ddf06c775133126857d73086c22f3bd9c04b915955689f807a634275bdfdf94041a8284d900757780065b65bf58
+Description: Remove Today View and App Library View.
+Name: SimpleHome
+Author: Adolfoi_
 
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64
@@ -584,23 +488,6 @@ SHA1: 261894f30792c470d74d7c23a52fa118a28f229b
 SHA256: b01e09e9ede05356513270940df126c77fcf3149a47b7061127e72a19b2729e8
 SHA512: f9a70bc76c708cf6447f139f4f636b40e3852dc6f3f0fd0a6db0815507409ef12d4c4152525db9ba471004b52a7364b85174bf6f992c4fceb237f7e6bc7316d3
 Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly. Long Press PIP window to enable freepip mode. 解锁画中画的限制，可以放在任意位置和调整到任意大小。长按画中画窗口进入 FreePIP 模式进行调整。v0.0.3-1更新：改为默认是正常模式，略微美化FreePIP模式。
-Name: FreePIP
-Author: Soh Satoh
-
-Package: jp.soh.freepip
-Architecture: iphoneos-arm64
-Version: 0.0.3
-Section: Tweaks
-Maintainer: Soh Satoh
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/jp.soh.freepip_0.0.3_iphoneos-arm64.deb
-Size: 6222
-MD5sum: e4fe3ad4171c19575978f5ed8f9dc9b0
-SHA1: d1b98dce23cd5c426df45e9c7f1286e3b51ecbc0
-SHA256: 0b587b28ac77574e8920fc1ee19f7f6168d837c8dc5f19a30cbd0cc3e50f517d
-SHA512: 65f2d91644685943a822fb66c62bee43219960ba842793883b16080c331034206cedbe251ae1016d1190fb47d04fd277e7b6cdf0aca3f71b97cb10044082a1ad
-Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly. Long Press PIP window to enable freepip mode. 解锁画中画的限制，可以放在任意位置和调整到任意大小。长按画中画窗口进入 FreePIP 模式进行调整。
 Name: FreePIP
 Author: Soh Satoh
 
@@ -623,22 +510,4 @@ Description: An awesome library of some sort!!
 Tag: role::developer
 Name: libcolorpicker
 Author: Bailey Seymour
-
-Package: xyz.skitty.ersatz
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: Skitty
-Installed-Size: 392
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/xyz.skitty.ersatz_1.0_iphoneos-arm64.deb
-Size: 33876
-MD5sum: 527e57a2141a6be473f34405eb70649f
-SHA1: a94c860337b51d64666eb8d54c0b022d5b27e50c
-SHA256: 4c170efd40c6365d419d124d60890d2f1f5a2b992800a4fc792ae6a81b6cf520
-SHA512: ea768bcf16564fa294f2fb733d3b36e9aa7c5642089120ecfa4dcce3e2c04fb0c4eaf75979eefa1b0b2c6dc891d404c2a3ce52c599f6127ac76c477613297bb6
-Description: Replace any text, system-wide! 全局替换任意位置的文字。
-Name: Ersatz
-Icon: https://skitty.xyz/repo/icons/xyz.skitty.ersatz.png
-Author: Skitty
 
