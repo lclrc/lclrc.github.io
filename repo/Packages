@@ -71,6 +71,23 @@ SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.fiore.calcula
 
 Package: com.hoangdus.lowpowersleep
 Architecture: iphoneos-arm64
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: Hoangdus
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debians/com.hoangdus.lowpowersleep_0.0.1-1_iphoneos-arm64.deb
+Size: 17566
+MD5sum: 3850d5c265f169c33d8ca6337f179cdb
+SHA1: b2b9ba395461498704e3684f8bf94d8553b90a82
+SHA256: efb184dfe25f53c081f45d631d48ba29dbf9441ba16d42791315a65d4e1889f2
+SHA512: 2f348dce9d9f104e33bc0780db1b45948e21b1fdfc2607c86fc0e93ddf68b780226d626c7f8f4e5024b01971542cbf3067911fc0437fe9b8028124cee13fbb2c
+Description: 锁屏时自动打开低电量模式. 0.0.1-1: 设置图标改成合适大小..
+Name: LowPowerSleep 锁屏自动低电量
+Author: Hoangdus
+
+Package: com.hoangdus.lowpowersleep
+Architecture: iphoneos-arm64
 Version: 0.0.1
 Section: Tweaks
 Maintainer: Hoangdus
