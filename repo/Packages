@@ -244,6 +244,23 @@ Description: Same as the title
 Name: HidePageDots
 Author: SquidForce <lclrc.3@gmail.com>
 
+Package: com.lclrc.hidepullover
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.lclrc.hidepullover_0.0.1_iphoneos-arm64.deb
+Size: 4402
+MD5sum: 4a6038cf3ccb824c2feafe86360f4e23
+SHA1: e6463e55c24b1dfc4a4f6b9070cd78848508bd4b
+SHA256: fc9530666ee31973c32431cbca3eeab769afea3db4d178324f336323fa41dac5
+SHA512: 3ede6135c0df4cf94c3b8ba500063482668c9e1c3732c300bb4261cae314d94c12556352ed6f51eedf4b1cff69d41cff8238fb7f1a852901e6d7d7becb51cffc
+Description: 1. 系统截屏时隐藏    2. 自动收起时让它不那么显眼
+Name: HidePullOver 隐藏PullOver小把手
+Author: SquidForce
+
 Package: com.lclrc.mdaus.latchkey
 Architecture: iphoneos-arm64
 Version: 2.3.1-1
