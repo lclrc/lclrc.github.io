@@ -1,7 +1,6 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://lclrc.github.io/repo/assets/repo/Banners/1.jpg",
-	"tintColor": "#ffae8e",
 	"tabs": [
 		{
 			"tabname": "Details",
