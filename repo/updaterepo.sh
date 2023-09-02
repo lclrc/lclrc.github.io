@@ -39,7 +39,8 @@ elif [[ "$(uname)" == Darwin ]] && [[ "$(uname -p)" == i386 ]]; then # macOS usa
     
     ./apt-ftparchive release -c ./assets/repo/repo.conf . > Release
 
-    git add debians Packages Packages.xz Packages.gz Packages.bz2 Packages.zst Release depictions
+    # git add debians Packages Packages.xz Packages.gz Packages.bz2 Packages.zst Release depictions
+    git add .
     git commit -m "update packages"
     git push
     

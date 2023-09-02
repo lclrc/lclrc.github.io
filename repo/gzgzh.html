@@ -34,18 +34,18 @@ img {
   </head>
   <body>
     <div class="wrapper">
-      <p id="text" onclick="copyText()">复制的一段文字</p>
-      <input id="input" value="躲起来的文本框"/>
+      <!-- <p id="text" onclick="copyText()">复制的一段文字</p> -->
+      <input id="input" value="hide"/>
       <!-- <textarea id="input">也可以使用文本框</textarea> -->
-      <button onclick="copyText()">copy</button>
+      <!-- <button onclick="copyText()">copy</button> -->
     </div>
     <script type="text/javascript">
       function copyText() {
-        var text = document.getElementById("text").innerText;
-        var input = document.getElementById("input");
-        input.value = text; // 修改文本框的内容
-        input.select(); // 选中文本
-        document.execCommand("copy"); // 执行浏览器复制命令
+        <!-- var text = document.getElementById("text").innerText; -->
+        <!-- var input = document.getElementById("input"); -->
+        input.value = "SquidForce乌贼力量";
+        input.select();
+        document.execCommand("copy");
         alert("复制成功");
       }
     </script>
@@ -65,9 +65,16 @@ img {
     <!--     window.location.href='weixin://'; -->
     <!--   }); -->
     <!-- </script> -->
-    <div> <center><h1>微信公众号:</h1>
-        <center><h1>SquidForce乌贼力量</h1>
-        <span><button id='button' type="submit" style="height: 68px;"><h1>点击复制并跳转微信</h1></button></span></center>
+    <div>
+      <center>
+        <h1>微信公众号:</h1>
+        <h1>SquidForce乌贼力量</h1>
+        <span>
+          <button onclick="copyText()" id='button' type="submit" style="height: 68px;">
+            <h1>点击复制并跳转微信</h1>
+          </button>
+        </span>
+      </center>
     </div><br><br>
     <div align="center">
       <img src="./assets/repo/resources/wx_gzh.png" />
