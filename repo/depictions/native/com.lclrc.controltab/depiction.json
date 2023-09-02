@@ -20,6 +20,10 @@
           "alignment": 1
         },
         {
+          "spacing": 5,
+          "class": "DepictionSpacerView"
+        },
+        {
           "class": "DepictionSeparatorView"
         },
         {
