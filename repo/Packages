@@ -210,6 +210,25 @@ Name: CCCalc
 Author: gilesgc & paisseon & lclrc
 Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
 
+Package: com.lclrc.controltab
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.chr1s.newtab
+Filename: ./debians/com.lclrc.controltab_1.0_iphoneos-arm64.deb
+Size: 6112
+MD5sum: 99fdb6bf17f0be5fb441b6f76c9e77a5
+SHA1: deafe2721eb678d28bfe0074980a55e369a1ab31
+SHA256: 5fafffcff06e2fd5623738c4312556178318afcb89b13aa9cf4ef78c42bc91a6
+SHA512: f20c696700ddca7e7de4ab877608239db27bfeeff2b281536785c3e8266c3e4c341b344085cac99276d8c7e91b299feeed299aa2ccbfd767c9f87e212fbd8348
+Description: tweak for Safari
+Name: ControlTab - 控制Safari标签页
+Author: SquidForce
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.controltab/depiction.json
+
 Package: com.lclrc.hideiconlabels
 Architecture: iphoneos-arm64
 Version: 0.0.1
