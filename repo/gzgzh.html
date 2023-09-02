@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+    <script src="./static/js/clipboard.min.js" type="text/javascript"></script>
+    <title>微信公众号</title>
+    <style>
+button {
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14;
+  text-shadow: 0px 1px 0px #2f6627;
+  color: #ffffff;
+  width: 70%;
+  height:100%;
+  background: #44c767;
+  border: solid #18ab29 1px;
+  text-decoration: none;
+}
+button:hover {
+  color: #ffffff;
+  background: #5cbf2a;
+  text-decoration: none;
+}
+img {
+  width: 100%;
+  height:100%;
+}
+    </style>
+  </head>
+  <body>
+    <script type="text/javascript">
+      var clipboard = new Clipboard('button', {
+        text: function() {
+          return "SquidForce乌贼力量";
+        }
+      });
+      clipboard.on('success', function(e) {
+        alert('复制成功, 即将跳转微信！');
+        window.location.href='weixin://';
+
+      });
+      clipboard.on('error', function(e) {
+        alert('复制失败,请手动输入"SquidForce乌贼力量"');
+        window.location.href='weixin://';
+      });
+    </script>
+    <div> <center><h1>微信公众号:</h1>
+        <center><h1>SquidForce乌贼力量</h1>
+        <span><button id='button' type="submit" style="height: 68px;"><h1>点击复制公众号并跳转微信</h1></button></span></center>
+    </div><br><br>
+    <div align="center">
+      <img src="./assets/repo/resources/wx_gzh.jpg" />
+    </div>
+  </body>
+</html>
