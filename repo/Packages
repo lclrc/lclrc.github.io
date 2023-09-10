@@ -229,6 +229,26 @@ Name: ControlTab - 控制Safari标签页
 Author: SquidForce
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.controltab/depiction.json
 
+Package: com.lclrc.exacttime
+Architecture: iphoneos-arm64
+Version: 2.0.3
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 1116
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: ./debians/com.lclrc.exacttime_2.0.3_iphoneos-arm64.deb
+Size: 93284
+MD5sum: abdafeb95d05ed4fb3fe3d6981a09dcd
+SHA1: a23910a0aa4bb5fd9506e9c713b6ee679b333576
+SHA256: 868986d12be6a0abc2b6fc743d7351da626e029df8945b253f1b0c76ea7dac66
+SHA512: ce6f0132c7bcb7a7b7d1bee5b383ea3d845c13b2fef4b68318f76ecab8ec2162863370f36e8124c9d8cf406bc06f6e2f1b291958e7df384ab9f26b356d5c0da6
+Description: 在通知、信息、电话、邮箱中显示准确时间。Shows the exact time of notifications, messages, calls and emails.
+Name: ExactTime - 给个准确时间，OK？
+Author: gilshahar7, SquidForce
+Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.exacttime/depiction.json
+
 Package: com.lclrc.hideiconlabels
 Architecture: iphoneos-arm64
 Version: 0.0.1
