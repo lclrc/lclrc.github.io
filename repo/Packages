@@ -193,6 +193,24 @@ Name: 悬浮网速 NetworkSpeed
 Author: Johnzaro & lclrc
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.johnzaro.networkspeed13/depiction.json
 
+Package: com.jontelang.bigshotsnapper3plugin
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Jonathan Winger-lang
+Installed-Size: 352
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper
+Filename: ./debians/com.jontelang.bigshotsnapper3plugin_1.0_iphoneos-arm64.deb
+Size: 14470
+MD5sum: 3e0405919eab3e1b0deb87a23aeec054
+SHA1: a47afb2076200562613eb22f3ee1c10dc961030b
+SHA256: 5cde10233a6cf4ab3d8feb745e8c7caa45bb7acb3120c0455091f3e6dd8c16ec
+SHA512: 23a0d3a7ceb49645837ac6b2238a19f2b77805a36925ea5262dd8d7865a7c5cd370ba86afb2b63719beb6e42840595f2c90f3556038c407fc22ddcbd02b29aac
+Description: BigShot for Snapper 3
+Name: BigShot Snapper 3 plugin
+Author: Jonathan Winger-lang
+
 Package: com.lclrc.cccalc
 Architecture: iphoneos-arm64
 Version: 2.1.0
