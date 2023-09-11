@@ -202,13 +202,13 @@ Installed-Size: 352
 Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Conflicts: com.jontelang.snapper
 Filename: ./debians/com.jontelang.bigshotsnapper3plugin_1.0_iphoneos-arm64.deb
-Size: 14470
-MD5sum: 3e0405919eab3e1b0deb87a23aeec054
-SHA1: a47afb2076200562613eb22f3ee1c10dc961030b
-SHA256: 5cde10233a6cf4ab3d8feb745e8c7caa45bb7acb3120c0455091f3e6dd8c16ec
-SHA512: 23a0d3a7ceb49645837ac6b2238a19f2b77805a36925ea5262dd8d7865a7c5cd370ba86afb2b63719beb6e42840595f2c90f3556038c407fc22ddcbd02b29aac
-Description: BigShot for Snapper 3
-Name: BigShot Snapper 3 plugin
+Size: 14560
+MD5sum: 895bdf369f5748398026d2f3c09b0c9b
+SHA1: caecd54fdedd50ee19fe22425bd3cf267b03bf7b
+SHA256: 00ddfe15fcfd68c21ef81df3f03644e99eabb1b19aeddfb5aa85017daa455ecf
+SHA512: 0f892f9e6931652116a45d4849e8797d2a843b51206aa047ca433e78a4760c236b8a59692562444599abfffc63f97060e0d5a89e7ac6e3c72e80a1a44d674f38
+Description: BigShot for Snapper 3. 仅汉化提示。(Snapper3需要1.1.1+)
+Name: BigShot Snapper 3 plugin - Snapper3长截图扩展
 Author: Jonathan Winger-lang
 
 Package: com.lclrc.cccalc
