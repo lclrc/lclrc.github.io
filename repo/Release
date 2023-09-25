@@ -1,4 +1,4 @@
-Architectures: iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Codename: SquidForce
 Components: main
 Date: Mon, 25 Sep 2023 10:17:27 +0000
