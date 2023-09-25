@@ -1,12 +1,12 @@
-Architectures: iphoneos-arm,iphoneos-arm64,iphoneos-arm64e
-Codename: SquidForce
-Components: main
-Date: Mon, 25 Sep 2023 09:41:02 +0000
-Description: Just for fun!
 Label: 乌贼力量源
 Origin: 乌贼力量源
 Suite: stable
 Version: 1.0
+Architectures: iphoneos-arm, iphoneos-arm64, iphoneos-arm64e
+Codename: SquidForce
+Components: main
+Date: Mon, 25 Sep 2023 09:41:02 +0000
+Description: Just for fun!
 MD5Sum:
  5f27d337e321f9e576cdcace1aa07b67            29200 Packages
  99826c09575e07923bfc0c6ad363122e             9940 Packages.bz2
