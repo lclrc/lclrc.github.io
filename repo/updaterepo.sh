@@ -29,7 +29,8 @@ elif [[ "$(uname)" == Darwin ]] && [[ "$(uname -p)" == i386 ]]; then # macOS usa
     # wget -q -nc https://apt.procurs.us/apt-ftparchive # assuming Homebrew is already installed, download apt-ftparchive via wget
     # sudo chmod 751 ./apt-ftparchive # could change this to be pointed in documentation, but people don't like to read what needs READING. i'll think about it later.
     
-    rm {Packages{,.xz,.gz,.bz2,.zst},Release{,.gpg}} 2> /dev/null
+    # rm {Packages{,.xz,.gz,.bz2,.zst},Release{,.gpg}} 2> /dev/null
+    rm {Packages{,.xz,.gz,.bz2,.zst}} 2> /dev/null
     
     ./apt-ftparchive packages ./debians > Packages
     gzip -c9 Packages > Packages.gz
@@ -37,7 +38,7 @@ elif [[ "$(uname)" == Darwin ]] && [[ "$(uname -p)" == i386 ]]; then # macOS usa
     zstd -c19 Packages > Packages.zst
     bzip2 -c9 Packages > Packages.bz2
     
-    # ./apt-ftparchive release -c ./assets/repo/repo.conf . > Release
+    ./apt-ftparchive release -c ./assets/repo/repo.conf . > Release
 
     # git add debians Packages Packages.xz Packages.gz Packages.bz2 Packages.zst Release depictions
     git add .
