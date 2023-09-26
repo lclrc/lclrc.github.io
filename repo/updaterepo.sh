@@ -38,7 +38,7 @@ elif [[ "$(uname)" == Darwin ]] && [[ "$(uname -p)" == i386 ]]; then # macOS usa
     zstd -c19 Packages > Packages.zst
     bzip2 -c9 Packages > Packages.bz2
     
-    ./apt-ftparchive release -c ./assets/repo/repo.conf . > Release
+    # ./apt-ftparchive release -c ./assets/repo/repo.conf . > Release
 
     # git add debians Packages Packages.xz Packages.gz Packages.bz2 Packages.zst Release depictions
     git add .
