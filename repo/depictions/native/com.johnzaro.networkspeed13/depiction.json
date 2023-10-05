@@ -6,9 +6,6 @@
 			"tabname": "Details",
 			"views": [
         {
-          "class": "DepictionSeparatorView"
-        },
-        {
           "text": "关注公众号：SquidForce乌贼力量",
           "action": "https://lclrc.github.io/repo/gzgzh.html",
           "class": "DepictionButtonView"
@@ -55,7 +52,7 @@
 				},
 				{
 					"title": "更新时间",
-					"text": "2023/6/20",
+					"text": "2023/10/05",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -87,7 +84,7 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/15</small>",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/10/05</small>",
           "useRawFormat": true,
           "useSpacing": false,
           "useBottomMargin": false,

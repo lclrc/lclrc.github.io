@@ -193,6 +193,24 @@ Name: 悬浮网速 NetworkSpeed
 Author: Johnzaro & lclrc
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.johnzaro.networkspeed13/depiction.json
 
+Package: com.johnzaro.networkspeed13
+Architecture: iphoneos-arm64
+Version: 3.1.1
+Section: Tweaks
+Maintainer: Johnzaro & lclrc
+Installed-Size: 884
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, firmware (>= 12)
+Filename: ./debians/com.johnzaro.networkspeed13_3.1.1_iphoneos-arm64.deb
+Size: 482856
+MD5sum: 2e108b05ab490a1a7ec267ec3dd0b5dc
+SHA1: 2c166a26411bbbf26f4749efd793a9c472f883b7
+SHA256: 8ad8a0ca26baffddc796cad2b3f7602a484891ff84df3b9e3dc03f967cacba52
+SHA512: 7e2ee2b15c9fa96abad2e977507ba25ee5e6be22ffd9be3bc9d53659b3d5dec416df509b9eeea559caba68031cc254d3dad277dc90de67de4ca5496c7aa019d5
+Description: ...
+Name: 悬浮网速 NetworkSpeed
+Author: Johnzaro & lclrc
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.johnzaro.networkspeed13/depiction.json
+
 Package: com.jontelang.bigshotsnapper3plugin
 Architecture: iphoneos-arm64
 Version: 1.0
