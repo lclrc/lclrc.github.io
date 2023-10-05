@@ -1,11 +1,21 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "https://lclrc.github.io/repo/assets/repo/Banners/1.jpg",
-	"tintColor": "#ffae8e",
 	"tabs": [
 		{
 			"tabname": "Details",
 			"views": [
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "关注公众号：SquidForce乌贼力量",
+          "action": "https://lclrc.github.io/repo/gzgzh.html",
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "## 注意注意\n**卸载Alderis**, 安装p2kdev源里的**libcolorpicker**, Alderis 1.2.1在A12+设备上还有问题, 会引起**bootloop**!!!\n\n**Remove Alderis** & **install libcolorpicker** from `p2kdev`'s repo or my repo."
@@ -20,16 +30,17 @@
 					],
 					"itemSize": "{410,430}"
 				},
-				{
-					"class": "DepictionSeparatorView"
-				},
+        {
+          "spacing": 15,
+          "class": "DepictionSpacerView"
+        },
 				{
 					"title": "最近更新",
 					"class": "DepictionHeaderView"
 				},
 				{
 					"title": "版本",
-					"text": "3.0.9",
+					"text": "3.1.1",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -53,15 +64,6 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Github",
-					"action": "https://github.com/lclrc",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
 					"spacing": 20,
 					"class": "DepictionSpacerView"
 				}
@@ -72,14 +74,14 @@
 			"tabname": "Changelog",
 			"views": [
         {
-          "title": "3.0.9",
+          "title": "3.1.1",
           "useBoldText": true,
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 perf: Add Snapper3 gesture support",
+          "markdown": "\t\u2023 Perf: 支持根据状态栏自适应颜色\n\t\u2023 Add: 增加设置可开关“/s”后缀",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
@@ -91,26 +93,26 @@
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
         },
-				{
-					"title": "3.0.8",
-					"useBoldText": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\u2023 perf: 优化打开app时文本颜色自适应速度",
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/15</small>",
-					"useRawFormat": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
+        {
+          "title": "3.0.9",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 Perf: 支持 Snapper3 手势",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/15</small>",
+          "useRawFormat": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
 				{
 					"title": "3.0.7",
 					"useBoldText": true,
@@ -186,26 +188,6 @@
 				},
 				{
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/11</small>",
-					"useRawFormat": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "3.0.3",
-					"useBoldText": true,
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2023 完善自适应颜色",
-					"useSpacing": false,
-					"useBottomMargin": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2023/5/10</small>",
 					"useRawFormat": true,
 					"useSpacing": false,
 					"useBottomMargin": false,
