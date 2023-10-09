@@ -426,6 +426,24 @@ Description: 使手机在锁屏状态也可以继续录屏。修复支持Dopamin
 Name: 锁屏录屏RecordAnywhere
 Author: Muirey03 & lclrc
 
+Package: com.lclrc.squidgesture
+Architecture: iphoneos-arm64e
+Version: 1.2.7
+Section: Tweaks
+Maintainer: lclrc(SquidForce)
+Installed-Size: 984
+Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.altlist
+Filename: ./debians/com.lclrc.squidgesture_1.2.7_iphoneos-arm64e.deb
+Size: 184826
+MD5sum: 23bb84035c2097d1148c09aa9f0bb0f9
+SHA1: 9315c9b973e588b27faca96764c06cab201eb712
+SHA256: 99524d06638da64277534b46c3121e1736819bbf977f0d0a46afb0ebaa0b6574
+SHA512: e8ead80c43d40e5b3f5dd2b973e2573eaa2eaa298b108a16b12d8e3f9e0a6a16f297850d70aad91ca5e812b7337ea5ca53a87abbbbf30d0c4536264e09106de3
+Description: Gestures
+Name: SquidGesture
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture_icon@3x.png
+
 Package: com.lns.pogr
 Architecture: iphoneos-arm64
 Version: 0.2.3
