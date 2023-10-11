@@ -303,6 +303,24 @@ Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.exacttime/depiction.json
 
+Package: com.lclrc.hammerit
+Architecture: iphoneos-arm64e
+Version: 1.4.3
+Section: Tweaks
+Maintainer: lclrc(SquidForce)
+Installed-Size: 2328
+Depends: mobilesubstrate, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
+Filename: ./debians/com.lclrc.hammerit_1.4.3_iphoneos-arm64e.deb
+Size: 456558
+MD5sum: 944eea138394084b52d666ecad8e141d
+SHA1: 494db74a049d71f3b72e0f2780d994989f58db00
+SHA256: 8bdd0a5c6608f642228882d5a714ea93852a89239a57732962eb1260699acb37
+SHA512: 887d24a82f103958ba0f7e2aaf8b72a79bdf7d257681864c9cf9ef95a70111ce5a1aab8fc2759af8af7267ef31eb39d0c380e6e3a75353290812f35e281162c9
+Description: Control your text or translate as you wish.
+Name: Hammer It
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+
 Package: com.lclrc.hideiconlabels
 Architecture: iphoneos-arm64
 Version: 0.0.1
