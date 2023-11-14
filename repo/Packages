@@ -211,24 +211,6 @@ Name: 悬浮网速 NetworkSpeed
 Author: Johnzaro & lclrc
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.johnzaro.networkspeed13/depiction.json
 
-Package: com.jontelang.bigshotsnapper3plugin
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: Tweaks
-Maintainer: Jonathan Winger-lang
-Installed-Size: 352
-Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
-Conflicts: com.jontelang.snapper
-Filename: ./debians/com.jontelang.bigshotsnapper3plugin_1.0_iphoneos-arm64.deb
-Size: 14560
-MD5sum: 895bdf369f5748398026d2f3c09b0c9b
-SHA1: caecd54fdedd50ee19fe22425bd3cf267b03bf7b
-SHA256: 00ddfe15fcfd68c21ef81df3f03644e99eabb1b19aeddfb5aa85017daa455ecf
-SHA512: 0f892f9e6931652116a45d4849e8797d2a843b51206aa047ca433e78a4760c236b8a59692562444599abfffc63f97060e0d5a89e7ac6e3c72e80a1a44d674f38
-Description: BigShot for Snapper 3. 仅汉化提示。(Snapper3需要1.1.1+)
-Name: BigShot Snapper 3 plugin - Snapper3长截图扩展
-Author: Jonathan Winger-lang
-
 Package: com.lclrc.cccalc
 Architecture: iphoneos-arm64
 Version: 2.1.0
@@ -278,6 +260,24 @@ MD5sum: 99fdb6bf17f0be5fb441b6f76c9e77a5
 SHA1: deafe2721eb678d28bfe0074980a55e369a1ab31
 SHA256: 5fafffcff06e2fd5623738c4312556178318afcb89b13aa9cf4ef78c42bc91a6
 SHA512: f20c696700ddca7e7de4ab877608239db27bfeeff2b281536785c3e8266c3e4c341b344085cac99276d8c7e91b299feeed299aa2ccbfd767c9f87e212fbd8348
+Description: tweak for Safari
+Name: ControlTab - 控制Safari标签页
+Author: SquidForce
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.controltab/depiction.json
+
+Package: com.lclrc.controltab
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.lclrc.controltab_1.0_iphoneos-arm64e.deb
+Size: 6184
+MD5sum: 7634b64594ddc2afc4d951714cdde712
+SHA1: b820ff91ea0857bb8306cd9162511479a6cd281e
+SHA256: c8ae4260f0ef0e682b8189351c14026bbec31444ffafe6a34e0e29491faa939c
+SHA512: 1baceb0cfb2c39ad4cc53eb19c42c1c206ade333d9679ab0506d6e7a7201ff7adf5b14b98ea9f848814c195c02bee670359e99a864d33e99b5715a425951c46a
 Description: tweak for Safari
 Name: ControlTab - 控制Safari标签页
 Author: SquidForce
