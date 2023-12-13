@@ -462,6 +462,57 @@ Description: 使手机在锁屏状态也可以继续录屏。修复支持Dopamin
 Name: 锁屏录屏RecordAnywhere
 Author: Muirey03 & lclrc
 
+Package: com.lclrc.snapper3.plugins
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce(乌贼力量)
+Installed-Size: 208
+Depends: mobilesubstrate (>= 1.0.5000)
+Filename: ./debians/com.lclrc.snapper3.plugins_1.0_iphoneos-arm.deb
+Size: 33398
+MD5sum: 0beff16a21e0cf8ec079fe4caf594546
+SHA1: 9e61d03c80ac498e9b0492b516be3568bf3fb3c3
+SHA256: 4f816cc83051da077b2a953232cdaf54e220c8e9965b7c4c6de55f10b12f2576
+SHA512: bd0beff005481af9e197ebe97c5eb0394f7506e26b6565be947f97a2f596df4c4a00ec3d963b46f8ac34fa2ac8c7d4e763bd80defb5c27e15ec5c86f3d3c5140
+Description: including iMark and Piiico for now
+Name: Plugins For Snapper3
+Author: SquidForce(乌贼力量)
+
+Package: com.lclrc.snapper3.plugins
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce(乌贼力量)
+Installed-Size: 208
+Depends: mobilesubstrate (>= 1.0.5000)
+Filename: ./debians/com.lclrc.snapper3.plugins_1.0_iphoneos-arm64.deb
+Size: 33464
+MD5sum: 8bad8c16f60639af748ca8efb54d8c73
+SHA1: aa7bb5b9a08877489f6aa5600044e7dec38f1ad7
+SHA256: 5a8e403de0d2fb7b83ae4bf8e08113afe5b6ac4b3b09df8a7edfa4e2b694bafa
+SHA512: 364cb68145433b453c4b311e8c669c39e760ea0c0f0d5ed5d33de1be8fafff07dc47a0e15970e52cd49e79516196d8d48c51d1c90e2c3159c0df84aaf15857fc
+Description: including iMark and Piiico for now
+Name: Plugins For Snapper3
+Author: SquidForce(乌贼力量)
+
+Package: com.lclrc.snapper3.plugins
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce(乌贼力量)
+Installed-Size: 208
+Depends: mobilesubstrate (>= 1.0.5000)
+Filename: ./debians/com.lclrc.snapper3.plugins_1.0_iphoneos-arm64e.deb
+Size: 33406
+MD5sum: c4197b639bc66fbd1e01b1a554d1c13b
+SHA1: 07f2b52240549d649994abf99e5ffc70b75c58be
+SHA256: acf455ade7d826dcdd3038cd72a6fe1fd587a91df877425405e5b3c5f6822afc
+SHA512: 6fced89b536ade8f573a16471e87b6e90a7abd61b96fea5c2c9d37b6f3fbe5620df2e6063e9eae0b57e2b63df4f3739408ec504f4c3dc206770bd346bbffbf5c
+Description: including iMark and Piiico for now
+Name: Plugins For Snapper3
+Author: SquidForce(乌贼力量)
+
 Package: com.lclrc.squidgesture
 Architecture: iphoneos-arm64e
 Version: 1.2.7
