@@ -339,6 +339,24 @@ Name: Hammer It
 Author: lclrc(SquidForce)
 Icon: file:///Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
 
+Package: com.lclrc.hammerit
+Architecture: iphoneos-arm64e
+Version: 1.4.7
+Section: Tweaks
+Maintainer: lclrc(SquidForce)
+Installed-Size: 2288
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
+Filename: ./debians/com.lclrc.hammerit_1.4.7_iphoneos-arm64e.deb
+Size: 434698
+MD5sum: 9d028c5fd4f0897c1d31e7a46713d5ab
+SHA1: 5bd0e2af7acf35a4aa8fd320ef4177a40c754c16
+SHA256: 132e144b4c6602fd0c9d9d22a45539c3eabe497a3d51b5455413837d5ee4eb25
+SHA512: a0a0e6fde440a80aa9d75bfd3523e920ff866020bd56559565ff16f1c548c2366eb8a61a818d5197bf05ad070495b755f23fd75bda825997d1617575e99cef2f
+Description: Control your text or translate as you wish.
+Name: Hammer It
+Author: lclrc(SquidForce)
+Icon: file:///Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+
 Package: com.lclrc.hideiconlabels
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -530,6 +548,24 @@ Description: Gestures
 Name: SquidGesture
 Author: lclrc(SquidForce)
 Icon: file:///var/jb/Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture_icon@3x.png
+
+Package: com.lclrc.squidgesture
+Architecture: iphoneos-arm64e
+Version: 1.3.3
+Section: Tweaks
+Maintainer: lclrc(SquidForce)
+Installed-Size: 996
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist
+Filename: ./debians/com.lclrc.squidgesture_1.3.3_iphoneos-arm64e.deb
+Size: 188466
+MD5sum: fa1240805d5331422e73cf35f4c9b7ae
+SHA1: 1850d968ed96bb64333a9f7cafb21b96da00fb50
+SHA256: d9997f4b3a9c36403969d408a78a1986f8656151d4f5821b16e2015fa3efea0f
+SHA512: 0d05c669fd5ac14367b73e2b5868810cb43fb6e3f3eb4fb23f9106c7b8ca2deb43da1ce716429137dd368230800a6ee08b351aca895c6f1568fbee2be9a4293a
+Description: Gestures
+Name: SquidGesture
+Author: lclrc(SquidForce)
+Icon: file:///Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture_icon@3x.png
 
 Package: com.lns.pogr
 Architecture: iphoneos-arm64
