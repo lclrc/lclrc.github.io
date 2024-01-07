@@ -729,6 +729,46 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 Depiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64
+Version: 2.4.6-2
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1596
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debians/com.udevs.dockx_2.4.6-2_iphoneos-arm64.deb
+Size: 293766
+MD5sum: c602b8693d23c89781bef8032bbfb038
+SHA1: 976c74bf4b1675d0f4dfdf986972d2ae7647d85e
+SHA256: 7df9908b6f23dd2a876916c0a44be7cba4edfb996aff5e026082b34d36615ba5
+SHA512: 5dc1fbf6ef75e0592909490298fffc987d88f1947882a44330e38a9859dbde8ee4614a589c5518e89c5a41d78fb1b33a5304878e94804f12f74ad3682ecaf46d
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64e
+Version: 2.4.6-2
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1596
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debians/com.udevs.dockx_2.4.6-2_iphoneos-arm64e.deb
+Size: 294136
+MD5sum: b19ba4744d7ec3585887a77e34efe5c4
+SHA1: 9f6463e3c3fd4fe7a974b098da27078723fd78cf
+SHA256: 7b6f108299d4e6d328265fbcf04f4a7a95054344557c3b01ab35bd548cc751c2
+SHA512: fd80da386ece7df5343dd54de5491e9d9ba2f64fe512432c0eec015dd39b1a467ff221ef9116080fda9fb32b40fa46c75ad4fa59055704d959ee003ba0b1c926
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
 Package: com.udevs.vpnindicator
 Architecture: iphoneos-arm64
 Version: 1.1.6

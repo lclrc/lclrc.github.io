@@ -21,15 +21,6 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "title": "最近更新",
-          "class": "DepictionHeaderView"
-        },
-        {
-          "title": "版本",
-          "text": "2.4.6-1",
-          "class": "DepictionTableTextView"
-        },
-        {
           "title": "兼容性",
           "text": "Dopamine",
           "class": "DepictionTableTextView"
@@ -37,11 +28,6 @@
         {
           "title": "依赖",
           "text": "无",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "title": "更新时间",
-          "text": "2024/1/7",
           "class": "DepictionTableTextView"
         },
         {
@@ -64,14 +50,14 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "2.4.6-1",
+          "title": "2.4.6-2",
           "useBoldText": true,
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 修复搜索框触发安全模式",
+          "markdown": "\t\u2023 修复搜索框触发安全模式, 补上CopyLog图标",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
