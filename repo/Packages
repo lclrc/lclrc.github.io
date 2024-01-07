@@ -689,6 +689,46 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.compactbatteryavocado/icon/icon.png
 Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.compactbatteryavocado
 
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64
+Version: 2.4.6-1
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1596
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debians/com.udevs.dockx_2.4.6-1_iphoneos-arm64.deb
+Size: 293584
+MD5sum: 4a239f91af49ce5fdf0e8e2a69917c8a
+SHA1: ade2e3ee16b910b5316ba65d3e8a897ba9440be2
+SHA256: dcbb8337d698b2cdabda1388fe9f0327b3bf42ae785c20f3e21be59548f215bf
+SHA512: b895acf0925d5cbad1cc123d917d02de308dd8c7ddcef7106f6caf313cf1bf449b435a20cb1f1c5f952bb711b70637b855a8e1e145c6fde7155db59d28f7023f
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Depiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64e
+Version: 2.4.6-1
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1596
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debians/com.udevs.dockx_2.4.6-1_iphoneos-arm64e.deb
+Size: 294262
+MD5sum: a9bcfea8c8d4f538331a02b4b380b617
+SHA1: 2277963efb84ae5d05d661a7ccda68ef6561e24f
+SHA256: 6a74ea6626e61ae9058e2edff30b05b5810f4398b4872528b9758d5220454ce9
+SHA512: b020981c46c671ec57cb3e3acc73396ca9227d451c68239953f69452b0178919445836b3371b9126895cad4c87afa26edd839aca395221ef27a7859b697327bb
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Depiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
 Package: com.udevs.vpnindicator
 Architecture: iphoneos-arm64
 Version: 1.1.6

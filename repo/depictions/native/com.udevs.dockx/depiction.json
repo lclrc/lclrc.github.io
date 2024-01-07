@@ -1,0 +1,105 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://lclrc.github.io/repo/assets/repo/Banners/1.jpg",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "经典键盘类插件 DockX\n"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "关注公众号：SquidForce乌贼力量",
+          "action": "https://lclrc.github.io/repo/gzgzh.html",
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "最近更新",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "版本",
+          "text": "2.4.6-1",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "兼容性",
+          "text": "Dopamine",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "依赖",
+          "text": "无",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "更新时间",
+          "text": "2024/1/7",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "开发者",
+          "text": "udevs, SquidForce",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "2.4.6-1",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修复搜索框触发安全模式",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/01/07</small>",
+          "useRawFormat": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Readme",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- 源内插件仅为兴趣自用\n- 插件并不收费就不必搬运了, 在搬运源安装出现问题请自行排查解决\n- 源内插件均为适配Dopamine\n- 测试环境为iPhone Xr 15.4.1"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
