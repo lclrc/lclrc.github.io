@@ -50,20 +50,20 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "2.4.6-2",
+          "title": "2.4.6-3",
           "useBoldText": true,
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 修复搜索框触发安全模式, 补上CopyLog图标",
+          "markdown": "\t\u2023 修复搜索框触发安全模式, 补上CopyLog图标\n修复设置换行后再次点击设置文本闪退，另外以后想插入换行设置个`\\r\\n`即可",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/01/07</small>",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/01/08</small>",
           "useRawFormat": true,
           "useSpacing": false,
           "useBottomMargin": false,

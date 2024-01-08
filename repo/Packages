@@ -691,58 +691,18 @@ Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.compactbat
 
 Package: com.udevs.dockx
 Architecture: iphoneos-arm64
-Version: 2.4.6-1
+Version: 2.4.6-3
 Section: Tweaks
 Maintainer: udevs
 Installed-Size: 1596
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
 Conflicts: com.restiveconch.actionbar
-Filename: ./debians/com.udevs.dockx_2.4.6-1_iphoneos-arm64.deb
-Size: 293584
-MD5sum: 4a239f91af49ce5fdf0e8e2a69917c8a
-SHA1: ade2e3ee16b910b5316ba65d3e8a897ba9440be2
-SHA256: dcbb8337d698b2cdabda1388fe9f0327b3bf42ae785c20f3e21be59548f215bf
-SHA512: b895acf0925d5cbad1cc123d917d02de308dd8c7ddcef7106f6caf313cf1bf449b435a20cb1f1c5f952bb711b70637b855a8e1e145c6fde7155db59d28f7023f
-Description: Pasteboard shortcuts on your keyboard dock!
-Name: DockX
-Author: udevs
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
-Depiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
-
-Package: com.udevs.dockx
-Architecture: iphoneos-arm64e
-Version: 2.4.6-1
-Section: Tweaks
-Maintainer: udevs
-Installed-Size: 1596
-Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
-Conflicts: com.restiveconch.actionbar
-Filename: ./debians/com.udevs.dockx_2.4.6-1_iphoneos-arm64e.deb
-Size: 294262
-MD5sum: a9bcfea8c8d4f538331a02b4b380b617
-SHA1: 2277963efb84ae5d05d661a7ccda68ef6561e24f
-SHA256: 6a74ea6626e61ae9058e2edff30b05b5810f4398b4872528b9758d5220454ce9
-SHA512: b020981c46c671ec57cb3e3acc73396ca9227d451c68239953f69452b0178919445836b3371b9126895cad4c87afa26edd839aca395221ef27a7859b697327bb
-Description: Pasteboard shortcuts on your keyboard dock!
-Name: DockX
-Author: udevs
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
-Depiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
-
-Package: com.udevs.dockx
-Architecture: iphoneos-arm64
-Version: 2.4.6-2
-Section: Tweaks
-Maintainer: udevs
-Installed-Size: 1596
-Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
-Conflicts: com.restiveconch.actionbar
-Filename: ./debians/com.udevs.dockx_2.4.6-2_iphoneos-arm64.deb
-Size: 293766
-MD5sum: c602b8693d23c89781bef8032bbfb038
-SHA1: 976c74bf4b1675d0f4dfdf986972d2ae7647d85e
-SHA256: 7df9908b6f23dd2a876916c0a44be7cba4edfb996aff5e026082b34d36615ba5
-SHA512: 5dc1fbf6ef75e0592909490298fffc987d88f1947882a44330e38a9859dbde8ee4614a589c5518e89c5a41d78fb1b33a5304878e94804f12f74ad3682ecaf46d
+Filename: ./debians/com.udevs.dockx_2.4.6-3_iphoneos-arm64.deb
+Size: 293574
+MD5sum: f2f03397af610723c6f43f166af96ad8
+SHA1: 1e4e016db5d7240077dd12e41b248ed4bd321395
+SHA256: 8ffd169c4632fd361dc5ac3c14c4a2ea3fadfd9b4361b56059cb54c0b18b0c18
+SHA512: 88c1ab26000125743be585a8f2b4e4501d8807d2a555d1bf80b92134bd0b49b3c3594967c5d42210c064c27e091dab470ce317d32d08f86f623d0d1cefe981a1
 Description: Pasteboard shortcuts on your keyboard dock!
 Name: DockX
 Author: udevs
@@ -751,18 +711,18 @@ SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/d
 
 Package: com.udevs.dockx
 Architecture: iphoneos-arm64e
-Version: 2.4.6-2
+Version: 2.4.6-3
 Section: Tweaks
 Maintainer: udevs
 Installed-Size: 1596
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
 Conflicts: com.restiveconch.actionbar
-Filename: ./debians/com.udevs.dockx_2.4.6-2_iphoneos-arm64e.deb
-Size: 294136
-MD5sum: b19ba4744d7ec3585887a77e34efe5c4
-SHA1: 9f6463e3c3fd4fe7a974b098da27078723fd78cf
-SHA256: 7b6f108299d4e6d328265fbcf04f4a7a95054344557c3b01ab35bd548cc751c2
-SHA512: fd80da386ece7df5343dd54de5491e9d9ba2f64fe512432c0eec015dd39b1a467ff221ef9116080fda9fb32b40fa46c75ad4fa59055704d959ee003ba0b1c926
+Filename: ./debians/com.udevs.dockx_2.4.6-3_iphoneos-arm64e.deb
+Size: 293718
+MD5sum: 6bbebbc92d96752172f1c2230cf24f4c
+SHA1: c17201a5da0748014e025f0384e6bf6cc985b5b4
+SHA256: a882616e1b2cbbd194efd85de0e51be530c95b22a1d904d93798f865deb66a98
+SHA512: 8c89b1d19e41f9e30c2dab9b5118991e8d230b70a1afec42183d5ae3606c98f6329e9fcb1f663a4b8155f50aea1658129e90d3429918c2059d4a2961dece4ae6
 Description: Pasteboard shortcuts on your keyboard dock!
 Name: DockX
 Author: udevs
