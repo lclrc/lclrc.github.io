@@ -729,6 +729,46 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64
+Version: 2.4.7-2
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1580
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debians/com.udevs.dockx_2.4.7-2_iphoneos-arm64.deb
+Size: 292988
+MD5sum: 8a8e71a8d49c7d84657e4182891fba58
+SHA1: 4bc8027173a67e37933d463f484ab1a5b33d098c
+SHA256: bda63c9cf092d60cefa68acf24670df5a4ab3729a71ca38a4f5e9cafc506f60f
+SHA512: 06c13647947c7fa38ebdf44cebebfc36f7dc10804adc8b475ddc455d78b7b97b423b35f33fffd98f0c325728edd88c612448e06629b249c7096af55f93c45b04
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64e
+Version: 2.4.7-2
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1596
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debians/com.udevs.dockx_2.4.7-2_iphoneos-arm64e.deb
+Size: 295332
+MD5sum: 8a254d4ecaa5777cf774103c55d0ff60
+SHA1: feb6e0ea71f91f5341a6158fc35f032500c526b8
+SHA256: ec714c00e67a0dd28fbc94aae245cff5f3943134a3d0376a4296bd062df7b905
+SHA512: 841794ee19e94db7d0f43cf6e421ba277a7ddb50f0bdb182de950f1529d18b807bc71c4e6aba2645f59ee6d4de48879d9ccba6a1604ea3cf18a284dfa6dd6831
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
 Package: com.udevs.vpnindicator
 Architecture: iphoneos-arm64
 Version: 1.1.6
