@@ -822,6 +822,23 @@ Description: Remove Today View and App Library View.
 Name: SimpleHome
 Author: Adolfoi_
 
+Package: info.adolfoi.simplehome
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Adolfoi_
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/info.adolfoi.simplehome_1.1.0_iphoneos-arm64.deb
+Size: 3258
+MD5sum: ebd6dca26cb0882b3ae35344d475d5e2
+SHA1: 969ac80cfd666811bc2ec93678c1fbadd9d26e0c
+SHA256: c6dc80450e219b23beb3afe134f124cc2b5745608945c30ac452d45aedad3229
+SHA512: 1cb3bc928280dde2f4f570d785a2e9c7a2e67e9bf14b4d4dbe1852d335b71075fc8330c83b1067deb2849bd54ba8dc6c982428cfa92bda657d0ac1ba9bcfc078
+Description: Remove Today View and App Library View.
+Name: SimpleHome - 禁用桌面Today和资源库
+Author: Adolfoi_
+
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64
 Version: 0.0.3-1
