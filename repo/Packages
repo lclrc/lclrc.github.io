@@ -602,6 +602,24 @@ Name: ScreenshotActions
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/ScreenshotActions/icon.png
 
+Package: com.squidforce.simplehomelite
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: info.adolfoi.simplehome
+Filename: ./debians/com.squidforce.simplehomelite_1.0.0_iphoneos-arm64.deb
+Size: 3164
+MD5sum: 443979f1a178f05d0148a685e8ab3efb
+SHA1: 7cf09c4d1f2db1e3101160fac954284385542a70
+SHA256: 7ff99efe7d17fd75e8ebc372d63b5bd7e5174c64bdde9c4b40b2eea57a439cfd
+SHA512: 61ad64b8a375d0bf81a0a7f398294d999eaddf930ba79c22af35ad7b873cc7eb89a992c867c70c426ec08214c959cd173496bca099602ee2dd54bee93b1146ee
+Description: Remove App Library View.
+Name: SimpleHome青春版 - 只禁用资源库
+Author: SquidForce
+
 Package: com.tomaszpoliszuk.dockcontroller
 Architecture: iphoneos-arm64
 Version: 1.6.2-1
