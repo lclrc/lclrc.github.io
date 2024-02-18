@@ -357,6 +357,24 @@ Name: Hammer It
 Author: lclrc(SquidForce)
 Icon: file:///Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
 
+Package: com.lclrc.hammerit
+Architecture: iphoneos-arm64e
+Version: 1.5.0
+Section: Tweaks
+Maintainer: lclrc(SquidForce)
+Installed-Size: 2288
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, firmware (>= 14.0)
+Filename: ./debians/com.lclrc.hammerit_1.5.0_iphoneos-arm64e.deb
+Size: 435518
+MD5sum: 5e931cd7f84547cc38dfc27617083e26
+SHA1: 506452291645619b76597c0e0fb358b9ead2f5cf
+SHA256: 672cd875b24a902ea7cbe8d9a5f68611549f4bf8dc5d9fc37a1d868839ff105c
+SHA512: e1d959874ba9b5a5788677f797c437cf0ab329c19a1254f859b577b59e6b0552502be18f53fa5079e8f0f4700bd0551aa5699765e4bf7211e87311686b389723
+Description: Control your text or translate as you wish.
+Name: Hammer It
+Author: lclrc(SquidForce)
+Icon: file:///Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+
 Package: com.lclrc.hideiconlabels
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -562,6 +580,24 @@ MD5sum: fa1240805d5331422e73cf35f4c9b7ae
 SHA1: 1850d968ed96bb64333a9f7cafb21b96da00fb50
 SHA256: d9997f4b3a9c36403969d408a78a1986f8656151d4f5821b16e2015fa3efea0f
 SHA512: 0d05c669fd5ac14367b73e2b5868810cb43fb6e3f3eb4fb23f9106c7b8ca2deb43da1ce716429137dd368230800a6ee08b351aca895c6f1568fbee2be9a4293a
+Description: Gestures
+Name: SquidGesture
+Author: lclrc(SquidForce)
+Icon: file:///Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture_icon@3x.png
+
+Package: com.lclrc.squidgesture
+Architecture: iphoneos-arm64e
+Version: 1.3.4
+Section: Tweaks
+Maintainer: lclrc(SquidForce)
+Installed-Size: 996
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist
+Filename: ./debians/com.lclrc.squidgesture_1.3.4_iphoneos-arm64e.deb
+Size: 188796
+MD5sum: 01adf33d4af6d2b737a2bc9179bd8c3e
+SHA1: 0d739307649304225cbd1150b694a4b95d291575
+SHA256: fbc8d03b33fdef423348cb7b5073a8b59d85f50745958232efe3f1a78ea250f7
+SHA512: fdac2397cb6d57ad6763860c7bf344b597d2929670670267fefa3bb057b6e8353d0571513fa0978ed71f062524a541d24e3ae99b01ce3c87da4ed9eb1b5d66a4
 Description: Gestures
 Name: SquidGesture
 Author: lclrc(SquidForce)
@@ -781,6 +817,46 @@ MD5sum: 8a254d4ecaa5777cf774103c55d0ff60
 SHA1: feb6e0ea71f91f5341a6158fc35f032500c526b8
 SHA256: ec714c00e67a0dd28fbc94aae245cff5f3943134a3d0376a4296bd062df7b905
 SHA512: 841794ee19e94db7d0f43cf6e421ba277a7ddb50f0bdb182de950f1529d18b807bc71c4e6aba2645f59ee6d4de48879d9ccba6a1604ea3cf18a284dfa6dd6831
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64
+Version: 2.5.0
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1604
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debians/com.udevs.dockx_2.5.0_iphoneos-arm64.deb
+Size: 297920
+MD5sum: f9ce5ed605b7481ab5e854195675916c
+SHA1: 73b83a1f22b31677c4b6b5091377081a9a4ed659
+SHA256: 5bf757ad584848b0b9687f890a5645b4c792a733144dbc4fb23ba2ff7912df5e
+SHA512: db6be22d6c2f6b3f9917955b0986e6aee326d6d5c76c563f9048730735377f8bd5394b8121cb42fb7d5e95f699fc795419722f614b63fcf5e66b69cbd45583bd
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64e
+Version: 2.5.0
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1604
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debians/com.udevs.dockx_2.5.0_iphoneos-arm64e.deb
+Size: 295228
+MD5sum: d2ce144532aa206b87956ceb43ecb283
+SHA1: aee54e03dce2817b9ea0f0b89d6de19c64800153
+SHA256: 142d1ecbe6e316ced5389dfd9da7286169cd3f477bde7848aa2d31c1f55e892a
+SHA512: 3713e47be0fdcc78622244a714ef737b6c200b2021367ee66d271d534e0cee9a7ede436ad9b9798059e34669fc25fa6cbef8de29e75267170b7703b2e0b80edf
 Description: Pasteboard shortcuts on your keyboard dock!
 Name: DockX
 Author: udevs

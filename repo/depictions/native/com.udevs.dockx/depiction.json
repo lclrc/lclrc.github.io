@@ -7,7 +7,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "经典键盘类插件 DockX\n"
+          "markdown": "经典键盘类插件 DockX\n(按钮图标和文字均可通过修改配置文件中的images13字段实现，修改后打开多巴胺app重启用户空间)"
         },
         {
           "class": "DepictionSeparatorView"
@@ -49,6 +49,26 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "2.5.0",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 “高级设置”里增加“长按时长”设置\nHammer It翻译添加替换原文字按钮(需Hammer it 1.4.9+)\n修复设置插入文本类型闪退\n修复“地球”跳英文键盘\n“地球”长按默认改为切换到第一个键盘\nHammer It动作，空编辑框下改为操作剪贴板\n增加输入键盘类型切换动作，可快速调用九宫数字键盘等",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/02/18</small>",
+          "useRawFormat": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
         {
           "title": "2.4.6-3",
           "useBoldText": true,
