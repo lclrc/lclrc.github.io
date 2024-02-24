@@ -638,6 +638,23 @@ Name: ScreenshotActions
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/ScreenshotActions/icon.png
 
+Package: com.squidforce.disablepastealert16
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debians/com.squidforce.disablepastealert16_0.0.1_iphoneos-arm64.deb
+Size: 3772
+MD5sum: f190f3b3c2738f1b1075a0e1e3218576
+SHA1: 4b57ddab028cb04f7a76e5b79a9bc9d10d6701d5
+SHA256: 20db269ce51bdcfd9413c7dd638ad43f923261dba4bcf36eddbe1c1409765c0e
+SHA512: b5d652a29d05b1e841d91f8313f70fb212d076f0f0e8df8897eba92937e42d06b35a16d9787f49fbcc986cd2db4a3d2ddfd1bde3eff3d0ce75fd2fa549bef029
+Description: 禁用iOS16+粘贴弹窗，并自动允许
+Name: 禁用iOS16+粘贴弹窗 - DisablePasteAlert16
+Author: SquidForce
+
 Package: com.squidforce.simplehomelite
 Architecture: iphoneos-arm64
 Version: 1.0.0
