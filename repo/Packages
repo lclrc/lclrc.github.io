@@ -303,6 +303,26 @@ Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.exacttime/depiction.json
 
+Package: com.lclrc.exacttime
+Architecture: iphoneos-arm64
+Version: 2.0.4
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 1284
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: ./debians/com.lclrc.exacttime_2.0.4_iphoneos-arm64.deb
+Size: 99490
+MD5sum: 883f2bd82dbfff0d032c42bf8b8c64de
+SHA1: b50bad8aa0505fb4121e6211ea8312d6ea8faf4c
+SHA256: e3f4ee600e88e312cbb0461327674c4866db572fdaf74fd060392d3259f36079
+SHA512: 9aa3b0c33e79cc4470d8bda9863ab40723931d8c4bae25da33a0663691114b0e2262ee209a9cec68ce83ebdadc3e303a989714cb0daf1e5bc1e36afd395e07df
+Description: 在通知、信息、电话、邮箱中显示准确时间，闹钟中显示剩余时间。Shows the exact time of notifications, messages, calls and emails, and show remain time of alarms.
+Name: ExactTime - 给个准确时间，OK？
+Author: gilshahar7, SquidForce
+Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.exacttime/depiction.json
+
 Package: com.lclrc.hammerit
 Architecture: iphoneos-arm64e
 Version: 1.4.3
@@ -654,6 +674,26 @@ SHA512: b5d652a29d05b1e841d91f8313f70fb212d076f0f0e8df8897eba92937e42d06b35a16d9
 Description: 禁用iOS16+粘贴弹窗，并自动允许
 Name: 禁用iOS16+粘贴弹窗 - DisablePasteAlert16
 Author: SquidForce
+
+Package: com.squidforce.exacttimeen
+Architecture: iphoneos-arm64
+Version: 2.0.4
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 1284
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages, com.lclrc.exacttime
+Filename: ./debians/com.squidforce.exacttimeen_2.0.4_iphoneos-arm64.deb
+Size: 99716
+MD5sum: dda45b01271298bc5e9b5a5e3568826b
+SHA1: c6aaaedad5c3de6c80140cce5bbbdaf1950c7169
+SHA256: f90b021b80c6d30ee9acd6578f36a33cfea5c79406f6626249a4871e32758276
+SHA512: e100bca1a7e7be0da2f60cd1100771bc1e9bc0ea0cc3b40e295b71c7f1daa15a960ef02f73f756cc5b142efbefcbeca61b4202a110edaab06f64fe1a84fbb50e
+Description: Shows the exact time of notifications, messages, calls and emails, and show remain time of alarms.
+Name: ExactTime(English Version)
+Author: gilshahar7, SquidForce
+Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
 
 Package: com.squidforce.simplehomelite
 Architecture: iphoneos-arm64
