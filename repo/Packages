@@ -675,6 +675,57 @@ Description: 禁用iOS16+粘贴弹窗，并自动允许
 Name: 禁用iOS16+粘贴弹窗 - DisablePasteAlert16
 Author: SquidForce
 
+Package: com.squidforce.doubletapflipcamera
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 1.0.5000)
+Filename: ./debians/com.squidforce.doubletapflipcamera_1.0_iphoneos-arm.deb
+Size: 4182
+MD5sum: cd6dcdde727ba0187cb347d892a7a1cb
+SHA1: 06fc3ff9d0af7727cde720b3ed67f83ce327a384
+SHA256: fecc577f35b0179878163f080bf77a0c8d99074e158df21e1e8a4c9069d7a0ab
+SHA512: c92abf79161864277b5b61410cfa94d28faf954bb1b217f21dd933e23fdc14e63af5954777e9777a7f7e988f5020d7881b2d226cb260596534f72983a262976a
+Description: 双击取景框翻转相机前置和后置镜头，无设置项
+Name: 双击翻转相机镜头 - DoubleTapFlipCamera
+Author: SquidForce
+
+Package: com.squidforce.doubletapflipcamera
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 1.0.5000)
+Filename: ./debians/com.squidforce.doubletapflipcamera_1.0_iphoneos-arm64.deb
+Size: 4242
+MD5sum: 0016614e1501282d5ca357abe4edeb98
+SHA1: 327a43427a549a0be9143dc7a4bf4a6b43ea9115
+SHA256: 10da94878da22bd69a3849033e6875bc94df10412c95f06eeafa7ce293473895
+SHA512: a4dc5ae573abbebed1ccc8d558281592e4225021e5686e9dcb8279b69fe88906338b9a777df5a24f865490bbfcea468d2b3418d90fa6f358a54f35973ef2bcfc
+Description: 双击取景框翻转相机前置和后置镜头，无设置项
+Name: 双击翻转相机镜头 - DoubleTapFlipCamera
+Author: SquidForce
+
+Package: com.squidforce.doubletapflipcamera
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 1.0.5000)
+Filename: ./debians/com.squidforce.doubletapflipcamera_1.0_iphoneos-arm64e.deb
+Size: 4194
+MD5sum: d355769f99028ac603e02e9e0cb86043
+SHA1: 7a6b2a1f88bf787e1b69ec23905ef159c8b59bf3
+SHA256: 358599cf697ea3c8a2a66078fb31d22b8d96f0d01e4d9ca091e890e8ff70cdcc
+SHA512: 280fe831f4d8f309327bd2a856410aa5035681c76b88f852d943a0e68d0c24a2c373e9f8636f805c66c0b5bc03be23edaf9f8c068e6b39fa7173bb89cee6901b
+Description: 双击取景框翻转相机前置和后置镜头，无设置项
+Name: 双击翻转相机镜头 - DoubleTapFlipCamera
+Author: SquidForce
+
 Package: com.squidforce.exacttimeen
 Architecture: iphoneos-arm64
 Version: 2.0.4
