@@ -726,6 +726,57 @@ Description: 双击取景框翻转相机前置和后置镜头，无设置项
 Name: 双击翻转相机镜头 - DoubleTapFlipCamera
 Author: SquidForce
 
+Package: com.squidforce.doubletapflipcamera
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 1.1.5000)
+Filename: ./debians/com.squidforce.doubletapflipcamera_1.1_iphoneos-arm.deb
+Size: 4790
+MD5sum: 959041a02ca04f20cb9cff5c94a380af
+SHA1: cbdd830d41960be8b1c19593003be522824a34eb
+SHA256: 1c132f68467bd5b8a54e67f16cbb8b4ad7dde8198ebe96545d847fdf7b4fab25
+SHA512: c9ac1e1edab4e7d3d944cd386a30056ecc9bddb7df318c3d0ee8de5f10d61ac578c2972f49d5799a18b5ce7fdd595cd888bf2383ff80d8e313de12297191492e
+Description: 双击取景框翻转相机前置和后置镜头，无设置项。目前支持系统相机拍照和录像，微信拍照和视频，QQ拍照。理论上调用系统相机拍照的应用都可以，在DoubleTapFlipCamera.plist中加入应用的BundleId即可。
+Name: 双击翻转相机镜头 - DoubleTapFlipCamera
+Author: SquidForce
+
+Package: com.squidforce.doubletapflipcamera
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 1.1.5000)
+Filename: ./debians/com.squidforce.doubletapflipcamera_1.1_iphoneos-arm64.deb
+Size: 4858
+MD5sum: 693d7cf7589bc14a393cb09288079375
+SHA1: 7ced309938f076dd432e0eefac82ed9785beb869
+SHA256: 62a1fcf15f145bf0a1ac8251079f304ccfe2e52bd2e32edc22d23c4fb06705aa
+SHA512: 70f7ab99d212f98e0dc45b3184302485c2cadc90c852c6475e7b3308810fdb464c7dcca92f8f4b453530443c1373cd7a75edc583986aa989ccae13ef245a0a7f
+Description: 双击取景框翻转相机前置和后置镜头，无设置项。目前支持系统相机拍照和录像，微信拍照和视频，QQ拍照。理论上调用系统相机拍照的应用都可以，在DoubleTapFlipCamera.plist中加入应用的BundleId即可。
+Name: 双击翻转相机镜头 - DoubleTapFlipCamera
+Author: SquidForce
+
+Package: com.squidforce.doubletapflipcamera
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate (>= 1.1.5000)
+Filename: ./debians/com.squidforce.doubletapflipcamera_1.1_iphoneos-arm64e.deb
+Size: 4794
+MD5sum: eda564fa978cc59af196a0526c5ffec4
+SHA1: cdefda58beb81dc32e7a8bb2f48dfac832d06ac0
+SHA256: 4791d5b41555ac900de9003925dcad5615c3d5ca9ca908b8a77bf7618a76d4cc
+SHA512: 5888d0e93e29241c2e8f0c97d36230138104c011c41dfe1e503cd24ef2ba2884eb36330c98a7b70abefcb154008a43916a0f42d91debe4dc0e40d390cbe6a00c
+Description: 双击取景框翻转相机前置和后置镜头，无设置项。目前支持系统相机拍照和录像，微信拍照和视频，QQ拍照。理论上调用系统相机拍照的应用都可以，在DoubleTapFlipCamera.plist中加入应用的BundleId即可。
+Name: 双击翻转相机镜头 - DoubleTapFlipCamera
+Author: SquidForce
+
 Package: com.squidforce.exacttimeen
 Architecture: iphoneos-arm64
 Version: 2.0.4
