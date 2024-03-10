@@ -1040,6 +1040,46 @@ Name: VPNIndicator
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
 
+Package: com.udevs.vpnindicator
+Architecture: iphoneos-arm
+Version: 1.1.7
+Section: Tweaks
+Maintainer: udevs, squidforce
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Filename: ./debians/com.udevs.vpnindicator_1.1.7_iphoneos-arm.deb
+Size: 8272
+MD5sum: 032ca528e2acd49429a84f898412ce2e
+SHA1: b0465bfdf3e5d453fd07f09e3b5a84d82d9e54e5
+SHA256: 16ca337f2ae5bd855257722b83257bb40eefdc7a323d58e04bab33581ca64db6
+SHA512: 229ec57281b9aa6e52a194559f4da0c1212b7c74edd0f3c76000fd07de5b443b0813e1469c7193cddd0391882f843658521f4853c87841ddd874855d7c5e97ea
+Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝数据图标显示VPN状态。
+ 1.1.6: 支持iOS15
+ 1.1.7: 支持iOS16
+Name: VPNIndicator
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+
+Package: com.udevs.vpnindicator
+Architecture: iphoneos-arm64
+Version: 1.1.7
+Section: Tweaks
+Maintainer: udevs, squidforce
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Filename: ./debians/com.udevs.vpnindicator_1.1.7_iphoneos-arm64.deb
+Size: 8330
+MD5sum: 1a1e46ef7c29ddf04e8fb4961822e0b1
+SHA1: 2d1c1344b4fd2a230a5da24d57a98c7b0d828d1c
+SHA256: 6331b299180dca609a7c8a4a5996a9803a7aafbdf061a6009ffd28c6347f4c3e
+SHA512: 6ca342f6023c6798e0fae6c3bf50ca212185b6b733666a36d09352a7897cc8b5c523095de2ae15918fba361b747ed07f72d35c8908410fcc1dc101138bfe4f32
+Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝数据图标显示VPN状态。
+ 1.1.6: 支持iOS15
+ 1.1.7: 支持iOS16
+Name: VPNIndicator
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+
 Package: com.wilsonthewolf.timejump
 Architecture: iphoneos-arm64
 Version: 0.0.2
