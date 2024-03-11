@@ -1048,15 +1048,15 @@ Maintainer: udevs, squidforce
 Installed-Size: 420
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
 Filename: ./debians/com.udevs.vpnindicator_1.1.7-1_iphoneos-arm.deb
-Size: 63376
-MD5sum: 36a1a33d69ead9a58820a548b3d8ae2d
-SHA1: 9444e4f8a2fe9a90783f6d4e9bd22415da5d0d69
-SHA256: 25bf278a8598b7042e9c82158bc84130eac1c3188497daec90872d34119e8eb1
-SHA512: 0fbc456eccf1e77649d090ce5b82820c40c99b5f63300b1b6e8410547a70f2627ee34eba43a0e01be5eda7f7b406466a96e2fdc909ede677e08ce415e667b475
+Size: 63374
+MD5sum: 97f7f34328ad9c8b12a0e080ac041f70
+SHA1: 1812fc826a894f48b119b178051f490b90df7cd6
+SHA256: f0153d1ea327ee9dbbb8ace460421ffe15d8336500815421b7bb198629de5799
+SHA512: 63022735468c543ea51e03393709fd9767cee5e403ec8e2231092905841b352b970bdf9715262e6ab9f129217c3f9677da4b819e1e47f9aee71ccc12dba51454
 Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝信号图标显示VPN状态。
- 1. 1.1.6: 支持iOS15
- 2. 1.1.7: 支持iOS16
- 3. 1.1.7-1: 补上上一版忘加的设置入口
+ * 1.1.6: 支持iOS15
+ * 1.1.7: 支持iOS16
+ * 1.1.7-1: 补上上一版忘加的设置入口
 Name: VPNIndicator
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
@@ -1069,15 +1069,15 @@ Maintainer: udevs, squidforce
 Installed-Size: 420
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
 Filename: ./debians/com.udevs.vpnindicator_1.1.7-1_iphoneos-arm64.deb
-Size: 63480
-MD5sum: 7dc8468281540425c866c42df77b9605
-SHA1: 437ad993682e7d3387728abb621ace07aa225012
-SHA256: 11d215ef1f17a4732963488fb3f452ba11cfdc5ba69a1065e530e6ca78e5cc7a
-SHA512: bfcae5b66064923806d0c32d0ac5728ce03e6c8517fa42b2721051de7a7612a20226e234c17edead676fa53c6245b01bbd8a58af112f27b6d77e723851ea971a
+Size: 63498
+MD5sum: 2f997db012b9656189d1db860aea38e0
+SHA1: 0a65a61d6cc50cb615c5d0fa563da36cdcc88300
+SHA256: a34c3e34fbe13b52a7c78443ab06e234ff8ef6a8dcbcce4bf6980bbbc6fda8a0
+SHA512: ceeae77abf04217e46d2c0a3d4ccccf938f82d0a908e619cebe7c4f1308936e8643bf8c236a4810c6d888edde5e3b8a85d2cd95199bfc195de7955fb2b1ce687
 Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝信号图标显示VPN状态。
- 1. 1.1.6: 支持iOS15
- 2. 1.1.7: 支持iOS16
- 3. 1.1.7-1: 补上上一版忘加的设置入口
+ * 1.1.6: 支持iOS15
+ * 1.1.7: 支持iOS16
+ * 1.1.7-1: 补上上一版忘加的设置入口
 Name: VPNIndicator
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
