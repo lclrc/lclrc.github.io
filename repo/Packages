@@ -1042,40 +1042,42 @@ Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/
 
 Package: com.udevs.vpnindicator
 Architecture: iphoneos-arm
-Version: 1.1.7
+Version: 1.1.7-1
 Section: Tweaks
 Maintainer: udevs, squidforce
-Installed-Size: 172
+Installed-Size: 420
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
-Filename: ./debians/com.udevs.vpnindicator_1.1.7_iphoneos-arm.deb
-Size: 8272
-MD5sum: 032ca528e2acd49429a84f898412ce2e
-SHA1: b0465bfdf3e5d453fd07f09e3b5a84d82d9e54e5
-SHA256: 16ca337f2ae5bd855257722b83257bb40eefdc7a323d58e04bab33581ca64db6
-SHA512: 229ec57281b9aa6e52a194559f4da0c1212b7c74edd0f3c76000fd07de5b443b0813e1469c7193cddd0391882f843658521f4853c87841ddd874855d7c5e97ea
-Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝数据图标显示VPN状态。
+Filename: ./debians/com.udevs.vpnindicator_1.1.7-1_iphoneos-arm.deb
+Size: 63364
+MD5sum: 2aedc0a400c550c24688ea407471f80a
+SHA1: 0ce35648dbf66e5fe0ea67047a1f12ed161e7286
+SHA256: 24d9042ab4095d814447608698fb23d98ff134eee1b02c6e2034466cad6f67ea
+SHA512: 7c2224e3b3078d3f6c61a7fe20f5355f8129735181cbd7c004ecd1376ba6c5194bc2720d5f6e70821020b559fdcf23fa06bb6e47b8e62fb8bcb3f9b03892d24c
+Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝信号图标显示VPN状态。
  1.1.6: 支持iOS15
  1.1.7: 支持iOS16
+ 1.1.7-1: 补上上一版忘加的设置入口
 Name: VPNIndicator
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
 
 Package: com.udevs.vpnindicator
 Architecture: iphoneos-arm64
-Version: 1.1.7
+Version: 1.1.7-1
 Section: Tweaks
 Maintainer: udevs, squidforce
-Installed-Size: 172
+Installed-Size: 420
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
-Filename: ./debians/com.udevs.vpnindicator_1.1.7_iphoneos-arm64.deb
-Size: 8330
-MD5sum: 1a1e46ef7c29ddf04e8fb4961822e0b1
-SHA1: 2d1c1344b4fd2a230a5da24d57a98c7b0d828d1c
-SHA256: 6331b299180dca609a7c8a4a5996a9803a7aafbdf061a6009ffd28c6347f4c3e
-SHA512: 6ca342f6023c6798e0fae6c3bf50ca212185b6b733666a36d09352a7897cc8b5c523095de2ae15918fba361b747ed07f72d35c8908410fcc1dc101138bfe4f32
-Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝数据图标显示VPN状态。
+Filename: ./debians/com.udevs.vpnindicator_1.1.7-1_iphoneos-arm64.deb
+Size: 63484
+MD5sum: 01b4453d9be60dc6e3687f00223429a6
+SHA1: 0ceb81437ca8b54f8d4a0d7c95574d7c4e686208
+SHA256: 750f5483310ca8657e4ce6082c9ccacbec94286c754bc71c60e5cf0cb55a7689
+SHA512: 581adf924dd663e6fad97b522bf3c120560de8e6bc3c95c372986a54f9f674416ff29ab9e812a438f09cbeea7a70ba3cfc7b352516810d0a8ef1ff1197dfaa8c
+Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝信号图标显示VPN状态。
  1.1.6: 支持iOS15
  1.1.7: 支持iOS16
+ 1.1.7-1: 补上上一版忘加的设置入口
 Name: VPNIndicator
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
