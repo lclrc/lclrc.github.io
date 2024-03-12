@@ -1040,6 +1040,66 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
+Package: com.udevs.dockx
+Architecture: iphoneos-arm
+Version: 2.5.4
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1632
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debians/com.udevs.dockx_2.5.4_iphoneos-arm.deb
+Size: 301682
+MD5sum: 0a77c1118ea0fd51a5a42b37171c2631
+SHA1: 213922d417fcaf4568ef07c2d01da6efbca12321
+SHA256: 11641554cdd29e3baf1cfc94da070ce7d09405a80e8a4f48f4b47fe4abbdf06f
+SHA512: 7a66390048f143343418f969fcdd9c73a00a0e632c6b6d5378b0fa54828e909a07975cf3fa6761573f1f7552950ecdb3d62b77fd37e2f3c5e4f497e4aed75d81
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64
+Version: 2.5.4
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1628
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debians/com.udevs.dockx_2.5.4_iphoneos-arm64.deb
+Size: 299326
+MD5sum: ef105c710a007265c52784c5fbaa2da2
+SHA1: 61db04df89e128b460ef286390d15cf666007ad9
+SHA256: 8d909c669fb7bb73b4be231fc59d4e5b98287f2d829cdd281e287321560bbcc3
+SHA512: 05c62d8459daa7a4b5bbc672dd627f201c8f0bc30b70e599729e8fb723c5ca10bc0d888d13e42f257ced5a2fc30ea1449daee30cbe3ad9a3bbe19404b933533e
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Architecture: iphoneos-arm64e
+Version: 2.5.4
+Section: Tweaks
+Maintainer: udevs
+Installed-Size: 1644
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debians/com.udevs.dockx_2.5.4_iphoneos-arm64e.deb
+Size: 303104
+MD5sum: 80cbeb23249d9e853554222c077ddb53
+SHA1: 11ee544815f6f0d81184b9cbe8144cb54a7bf0f8
+SHA256: 6ccdc812209ce8fedd85e31c67f3cf8e3a5141540e8a9b0527ac96c48377b3c4
+SHA512: 6f81ef027d91e3f6de757631284664fc064589a4cc49744dadd6e1cabf8d7a8343f39447754414c1b42ca6a210b1f5d0306842352b0f84083a5109bb704fb8d2
+Description: Pasteboard shortcuts on your keyboard dock!
+Name: DockX
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
 Package: com.udevs.vpnindicator
 Architecture: iphoneos-arm64
 Version: 1.1.6

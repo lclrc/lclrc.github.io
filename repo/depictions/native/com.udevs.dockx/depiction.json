@@ -50,6 +50,26 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.5.4",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 支持调用巨魔版CopyLog\n\t\u2023 “高级设置”里增加“大小”设置，可调节按钮图标大小\n\t\u2023 可自定义png图片为按钮图标，同样改配置文件的images13字段，格式为“CUSTOM_图标路径”，示例：CUSTOM_/var/jb/Library/PreferenceBundles/DockXPrefs.bundle/DockX_Placeholder@3x.png\n\t\u2023 CopyLog和Translomatic默认读取其插件图标\n\t\u2023 微调高级设置页面布局",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/03/12</small>",
+          "useRawFormat": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.5.0",
           "useBoldText": true,
           "useSpacing": false,
@@ -57,7 +77,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 “高级设置”里增加“长按时长”设置\nHammer It翻译添加替换原文字按钮(需Hammer it 1.4.9+)\n修复设置插入文本类型闪退\n修复“地球”跳英文键盘\n“地球”长按默认改为切换到第一个键盘\nHammer It动作，空编辑框下改为操作剪贴板\n增加输入键盘类型切换动作，可快速调用九宫数字键盘等",
+          "markdown": "\t\u2023 “高级设置”里增加“长按时长”设置\n\t\u2023 Hammer It翻译添加替换原文字按钮(需Hammer it 1.4.9+)\n\t\u2023 修复设置插入文本类型闪退\n\t\u2023 修复“地球”跳英文键盘\n“地球”长按默认改为切换到第一个键盘\n\t\u2023 Hammer It动作，空编辑框下改为操作剪贴板\n\t\u2023 增加输入键盘类型切换动作，可快速调用九宫数字键盘等",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
@@ -77,7 +97,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 修复搜索框触发安全模式, 补上CopyLog图标\n修复设置换行后再次点击设置文本闪退，另外以后想插入换行设置个`\\r\\n`即可",
+          "markdown": "\t\u2023 修复搜索框触发安全模式, 补上CopyLog图标\n\t\u2023 修复设置换行后再次点击设置文本闪退，另外以后想插入换行设置个`\\r\\n`即可",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
