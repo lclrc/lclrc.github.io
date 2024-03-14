@@ -693,6 +693,24 @@ Description: 禁用iOS16+粘贴弹窗，并自动允许
 Name: 禁用iOS16+粘贴弹窗 - DisablePasteAlert16
 Author: SquidForce
 
+Package: com.squidforce.disablepastealert16
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debians/com.squidforce.disablepastealert16_1.0_iphoneos-arm64.deb
+Size: 3972
+MD5sum: 73444f3e7d2209e9a271e9fbc203ac65
+SHA1: fb49aae7f94e65b6797142a8026bd80e78058dd0
+SHA256: faa8b37fad7b322a3ccc3fee330078d86f371afa6d28f861af70b94541348ca2
+SHA512: a8d25fe467c9e1b2e791a4cf461f57106b3430894ab21d371a041edb49fd1099ff312c371f771b9bb5caf1b25c213851f7e47abda03b60ecff16c432034be6ad
+Description: 1. 禁用iOS16+粘贴警告弹窗，并自动允许
+ 2. 禁用粘贴提醒
+Name: 禁用iOS16+粘贴警告弹窗和粘贴提醒 - DisablePasteAlert16
+Author: SquidForce
+
 Package: com.squidforce.doubletapflipcamera
 Architecture: iphoneos-arm
 Version: 1.0
