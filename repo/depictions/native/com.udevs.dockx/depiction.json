@@ -7,7 +7,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "经典键盘类插件 DockX\n(按钮图标可通过修改配置文件(`/var/jb/var/mobile/Library/Preferences/com.udevs.dockx.plist`)中的`images13`字段实现，按钮文字同理，修改后打开多巴胺app重启用户空间)"
+          "markdown": "经典键盘类插件 DockX\n(按钮图标可通过修改配置文件(`/var/jb/var/mobile/Library/Preferences/com.udevs.dockx.plist`)中的`images13`字段实现，修改后打开多巴胺app重启用户空间。按钮文字在`/var/jb/Library/PreferenceBundles/DockXPrefs.bundle`，找到对应语言包的Localizable.strings进行修改。)"
         },
         {
           "class": "DepictionSeparatorView"
