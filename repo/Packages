@@ -694,20 +694,56 @@ Name: 禁用iOS16+粘贴弹窗 - DisablePasteAlert16
 Author: SquidForce
 
 Package: com.squidforce.disablepastealert16
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Filename: ./debians/com.squidforce.disablepastealert16_1.0_iphoneos-arm.deb
+Size: 3906
+MD5sum: c71f3e0f29cecdc8b9662c5c2731a778
+SHA1: d82d5aac50498996897dd70c3fc59a22cc64d520
+SHA256: 95f55502f47f3af57949b49661de8dc8d193fc85c835715cb94f6bed261d4f98
+SHA512: 7dbb19e67973e9ffa1a797e66f8db9008f23270683455aefa19eed8d61f619cf76f593cb5cf4640231a4ef6b147d9cac106af3ccc6e3d357e292cd015e0fb817
+Description: 1. 禁用iOS16+粘贴警告弹窗，并自动允许
+ 2. 禁用粘贴提醒
+ * 如只需要禁用警告弹窗，可以降级安装版本0.0.1
+Name: 禁用iOS16+粘贴警告弹窗和粘贴提醒 - DisablePasteAlert16
+Author: SquidForce
+
+Package: com.squidforce.disablepastealert16
 Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
 Maintainer: SquidForce
 Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 16.0)
 Filename: ./debians/com.squidforce.disablepastealert16_1.0_iphoneos-arm64.deb
-Size: 3972
-MD5sum: 73444f3e7d2209e9a271e9fbc203ac65
-SHA1: fb49aae7f94e65b6797142a8026bd80e78058dd0
-SHA256: faa8b37fad7b322a3ccc3fee330078d86f371afa6d28f861af70b94541348ca2
-SHA512: a8d25fe467c9e1b2e791a4cf461f57106b3430894ab21d371a041edb49fd1099ff312c371f771b9bb5caf1b25c213851f7e47abda03b60ecff16c432034be6ad
+Size: 3986
+MD5sum: f34661ec7bc59a70e74297ad7c683a96
+SHA1: 7ba6ddd81114b393b2990f4caeeb82ebf60d77b5
+SHA256: 3d96316b5ed02aedc1c4f9ab0f834dffee364b3b168a8302912a0bac648d885e
+SHA512: 7fe14010b0b54ebbe63d1ac9b096c8e2b3c4d854ba32a23f4fcd4d21fbd9d1bbeeb1a3586d55373729e6e87cdb2aa935c9823039d2ad8a929db684080147449f
 Description: 1. 禁用iOS16+粘贴警告弹窗，并自动允许
  2. 禁用粘贴提醒
+ * 如只需要禁用警告弹窗，可以降级安装版本0.0.1
+Name: 禁用iOS16+粘贴警告弹窗和粘贴提醒 - DisablePasteAlert16
+Author: SquidForce
+
+Package: com.squidforce.disablepastealert16
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Filename: ./debians/com.squidforce.disablepastealert16_1.0_iphoneos-arm64e.deb
+Size: 3916
+MD5sum: 3c7e52ce811b27d4d6165f8b63334988
+SHA1: c6fad0d5f8c2af1fca1ced728f716b0ef83b4bca
+SHA256: 5e87f94f5a09a83ac5c91fb5ce6a290a8c98e0f1673de1ff4a8957ad8cea51e3
+SHA512: e6b225a0f9058db78d63bdc0a8da851b4e6b31278f22f01a22ac62d055c1ccd501446b41682ff467373e8e95fa47fb923a935e94c7b027e429d5dd908eff61e1
+Description: 1. 禁用iOS16+粘贴警告弹窗，并自动允许
+ 2. 禁用粘贴提醒
+ * 如只需要禁用警告弹窗，可以降级安装版本0.0.1
 Name: 禁用iOS16+粘贴警告弹窗和粘贴提醒 - DisablePasteAlert16
 Author: SquidForce
 
