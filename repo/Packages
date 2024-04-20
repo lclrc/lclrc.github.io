@@ -32,6 +32,23 @@ Description: Disables passcode after a respring. This version does NOT modify sy
 Name: NoPassAfterRespring (Safe)
 Author: Brend0n <brendonjkding@126.com>
 
+Package: com.brend0n.nopassafterrespringsafe
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/com.brend0n.nopassafterrespringsafe_0.0.3_iphoneos-arm64.deb
+Size: 3364
+MD5sum: efde97ae3c76f1cf199d5bec89b3f3fd
+SHA1: bd0682e682fd9b409dd70d971055ec85c3c726ab
+SHA256: 333f21c93bd99d68595ad73747dfa795de9960e8aa5501d58f76fd1449e66df0
+SHA512: f5972ad931a16c881a260108065687e7a7544b5dfc774660029efd5ab26a27965276feef63d20a0357fb684c029af4e3415028169690ccb03c16e818ae5c2fb9
+Description: Disables passcode after a respring. This version does NOT modify system file. It's safe to use. 在注销前是解锁状态的情况下，注销后自动跳过人脸或指纹识别到桌面。
+Name: NoPassAfterRespring (Safe)
+Author: Brend0n <brendonjkding@126.com>
+
 Package: com.dimitarnestorov.searchautofocus
 Architecture: iphoneos-arm64
 Version: 1.0.2
