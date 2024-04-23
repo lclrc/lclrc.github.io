@@ -779,6 +779,24 @@ Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
 
 Package: com.squidforce.simplehomelite
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: info.adolfoi.simplehome
+Filename: ./debians/com.squidforce.simplehomelite_1.0.0_iphoneos-arm.deb
+Size: 4580
+MD5sum: b52a63a3460aaa2e77cba8b29c5a95cf
+SHA1: 48ca66cd2fbaa1e0c697682dfdc3db55a3abad25
+SHA256: 194683d01e1b3cf433793410b8a546bbb5e153a758bcdec3e243bd85fd9a2be5
+SHA512: 6089787f94cd4780b0d6b35788832b8ed4eae7a863e49bdff50f41d1cb9c170ae444c366093eb31bd285b16698bb243f57bd7af91e9a8b84604be4b823714b6f
+Description: Remove App Library View.
+Name: SimpleHome青春版 - 只禁用资源库
+Author: SquidForce
+
+Package: com.squidforce.simplehomelite
 Architecture: iphoneos-arm64
 Version: 1.0.0
 Section: Tweaks
@@ -787,11 +805,11 @@ Installed-Size: 168
 Depends: mobilesubstrate
 Conflicts: info.adolfoi.simplehome
 Filename: ./debians/com.squidforce.simplehomelite_1.0.0_iphoneos-arm64.deb
-Size: 3164
-MD5sum: 443979f1a178f05d0148a685e8ab3efb
-SHA1: 7cf09c4d1f2db1e3101160fac954284385542a70
-SHA256: 7ff99efe7d17fd75e8ebc372d63b5bd7e5174c64bdde9c4b40b2eea57a439cfd
-SHA512: 61ad64b8a375d0bf81a0a7f398294d999eaddf930ba79c22af35ad7b873cc7eb89a992c867c70c426ec08214c959cd173496bca099602ee2dd54bee93b1146ee
+Size: 4744
+MD5sum: 12812e9278d7b5ff9427acebf09aea99
+SHA1: 2e04c1471181021ec721445426cbb58f3d76fd56
+SHA256: e85c66a0d5adaa7290cfcb4786f83bef50487c5fffc0491bea67b85a9b5ae5e2
+SHA512: c8079539ec18e13a1c57fd9ad0a4365e120f12064c4f9ae4499698fd721d52c7d73e7e04bcfa66a939da2bbafeacd28f43aeb04d1f5885eec8d313136df3b298
 Description: Remove App Library View.
 Name: SimpleHome青春版 - 只禁用资源库
 Author: SquidForce
@@ -1271,6 +1289,23 @@ Name: SimpleHome
 Author: Adolfoi_
 
 Package: info.adolfoi.simplehome
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Adolfoi_
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/info.adolfoi.simplehome_1.1.0_iphoneos-arm.deb
+Size: 4690
+MD5sum: d2c1d01ff45d51fd99a6949870dfe69e
+SHA1: 0faf8d333bb04a2bdc2ace0d97c6d02c01f1e849
+SHA256: 7d0df1cfd3636b1bab0f099987ef23d19956faeedd8b4b2fcbacbffb34aa48a4
+SHA512: fb3d21c372d9b99748ace302715f62cd7135a86eb520746ab3682b5813c397d7d6e6c2f07846a6824635ac325b610013b7b2742bc5ca202b9e2567a8a56bc190
+Description: Remove Today View and App Library View.
+Name: SimpleHome - 禁用桌面Today和资源库
+Author: Adolfoi_
+
+Package: info.adolfoi.simplehome
 Architecture: iphoneos-arm64
 Version: 1.1.0
 Section: Tweaks
@@ -1278,11 +1313,11 @@ Maintainer: Adolfoi_
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debians/info.adolfoi.simplehome_1.1.0_iphoneos-arm64.deb
-Size: 3258
-MD5sum: ebd6dca26cb0882b3ae35344d475d5e2
-SHA1: 969ac80cfd666811bc2ec93678c1fbadd9d26e0c
-SHA256: c6dc80450e219b23beb3afe134f124cc2b5745608945c30ac452d45aedad3229
-SHA512: 1cb3bc928280dde2f4f570d785a2e9c7a2e67e9bf14b4d4dbe1852d335b71075fc8330c83b1067deb2849bd54ba8dc6c982428cfa92bda657d0ac1ba9bcfc078
+Size: 4856
+MD5sum: faac9cbb4f63c067a9febaf313c26dcc
+SHA1: 7db2cbd88af544e6f64d350ef0eb77ce440f357e
+SHA256: 145de3756aba5094d1df2cce8faff148f066958230ebf957b1c56a8164fd203e
+SHA512: db952396818e0b952715a33ab78a4df0839b638677dc1b43b68a9b9ffdd9f8d5939acd60d9faef15b5037aeb9b91fc91d39d29d3b4a9e8c0c8fb796cb5cd2811
 Description: Remove Today View and App Library View.
 Name: SimpleHome - 禁用桌面Today和资源库
 Author: Adolfoi_
