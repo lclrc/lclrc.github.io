@@ -43,6 +43,11 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "text": "获取正版授权",
+          "action": "https://www.wcfaka.com/details/43CBBA8F",
+          "class": "DepictionButtonView"
+        },
+        {
           "text": "关注公众号：SquidForce乌贼力量",
           "action": "https://lclrc.github.io/repo/gzgzh.html",
           "class": "DepictionButtonView"
