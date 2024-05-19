@@ -1,0 +1,99 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://lclrc.github.io/repo/assets/repo/Banners/1.jpg",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "CopyVault是一个现代化的，强大且易用的剪贴板插件。它可以不受系统限制地保存你复制过的文本，链接，图片，文件等内容，并且可以通过搜索直接定位到你需要的内容。\n"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 14,
+          "screenshots": [
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/1.jpg",
+              "accessibilityText": "1.jpg"
+            },
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/2.jpg",
+              "accessibilityText": "2.jpg"
+            },
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/3.jpg",
+              "accessibilityText": "3.jpg"
+            },
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/4.jpg",
+              "accessibilityText": "4.jpg"
+            },
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/5.jpg",
+              "accessibilityText": "5.jpg"
+            }
+          ],
+          "itemSize": "{600,1066}"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "* 直观的界面\n* 可以保存文本/富文本/链接/图片/文件等\n* 通过文本内容搜索\n* 通过类型搜索(关键词是txt，url，img等，另有两个隐藏彩蛋关键词)\n* 通过来源应用搜索\n* 通过记录时间搜索\n* 长按单条记录预览\n* 联动其他插件，如SquidGesture、DockX、Hammer It等"
+        },
+        {
+          "spacing": 15,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "关注公众号：SquidForce乌贼力量",
+          "action": "https://lclrc.github.io/repo/gzgzh.html",
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "依赖",
+          "text": "preferenceloader",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "开发者",
+          "text": "SquidForce",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "1.0.0",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 initial",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
