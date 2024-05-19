@@ -29,7 +29,7 @@
               "accessibilityText": "5.jpg"
             }
           ],
-          "itemSize": "{600,1066}"
+          "itemSize": "{370,656}"
         },
         {
           "class": "DepictionMarkdownView",
