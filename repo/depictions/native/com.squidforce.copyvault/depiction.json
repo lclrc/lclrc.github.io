@@ -33,7 +33,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "* 直观的界面\n* 可以保存文本/富文本/链接/图片/文件等\n* 通过文本内容搜索\n* 通过类型搜索(关键词是txt，url，img等，另有两个隐藏彩蛋关键词)\n* 通过来源应用名搜索\n* 通过记录时间搜索(完整格式为2024/05/20 00:00，可截取部分搜索)\n* 长按单条记录预览\n* 联动其他插件，如SquidGesture、DockX、Hammer It等\n* 支持iOS/iPadOS"
+          "markdown": "* 直观的界面\n* 可以保存文本/富文本/链接/图片/文件等\n* 通过文本内容搜索\n* 通过类型搜索(关键词是txt，url，img等)\n* 通过来源应用名搜索\n* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)\n* 长按单条记录预览\n* 联动其他插件，如SquidGesture、DockX、Hammer It等\n* 支持iOS/iPadOS"
         },
         {
           "spacing": 15,
