@@ -590,14 +590,14 @@ Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Tweaks
 Maintainer: SquidForce
-Installed-Size: 6392
+Installed-Size: 6408
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/com.squidforce.copyvault_1.0.1_iphoneos-arm.deb
-Size: 1665724
-MD5sum: afd5c15f06e937c297c0a3b6a1b6804b
-SHA1: bc1573a1443e3b6193344dd6aef739a16c419c30
-SHA256: c5b09bb9490e4267169bad64d7fad547156677a1ba24cf0ec85258d3c6344368
-SHA512: 09928f11651196144be31a48be609ccf71465a0e10c9c6a76609f5280f03cf39f07ba33bf88ad1dbef9fde9e40a8f4143f2cd7ecf64c272bd4ff78bb74079505
+Size: 1679640
+MD5sum: 198e7b7676624d1d7673c1b25dde3bb9
+SHA1: 190f265900d2f7c5f2db35e2fb2bad428447505b
+SHA256: 1de5bcb7d3d6826e5bfca90221380783ab4e47786e2cb43ba8bf326caa324225
+SHA512: a1c66fad15b2f281d6555962b0b82c8091e82d90dd6c2255bca275ecbf8306168dc2b02beee214b4dedb9abe8c06aba246d4e39cdae023adb4ac3f1fbfff99af
 Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
