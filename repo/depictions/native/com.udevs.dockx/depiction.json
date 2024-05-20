@@ -50,6 +50,26 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.6.0",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 增加支持CopyVault\n\t\u2023 修复iOS16听写\n\t\u2023 修复“选择”动作在部分app中没反应",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2024/05/20</small>",
+          "useRawFormat": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.5.5-1",
           "useBoldText": true,
           "useSpacing": false,

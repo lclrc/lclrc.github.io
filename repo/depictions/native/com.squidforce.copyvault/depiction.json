@@ -7,7 +7,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "CopyVault是一个现代化的，强大且易用的剪贴板插件。它可以不受系统限制地保存你复制过的文本，链接，图片，文件等内容，并且可以通过搜索直接定位到你需要的内容。\n"
+          "markdown": "CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。\n"
         },
         {
           "class": "DepictionScreenshotsView",
