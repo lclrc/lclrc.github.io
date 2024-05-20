@@ -642,6 +642,63 @@ Author: SquidForce
 Icon: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/icon/icon.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
 
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 6408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.squidforce.copyvault_1.0.1_iphoneos-arm.deb
+Size: 1676508
+MD5sum: 0540a375672b757e59048db835437685
+SHA1: ff632803a60170d37f13a0eeb3168ec5b31e088d
+SHA256: 9d4f60a513dcbbda53bc9dfc77d9e90bafb9651dfe1317cf412d511b7deef90a
+SHA512: 45f525ca68e1b93b9d2dfa1fb2548d2c5954e441577f278bd10a3db8b0097dd09939d23bceb8b179a94cbd74d9ad7e30dbc6dae391ea6e660e6fbec5be921e4a
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
+Icon: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
+
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 6392
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.squidforce.copyvault_1.0.1_iphoneos-arm64.deb
+Size: 1668200
+MD5sum: 1287e3c9605391fe53d44b4a6e256476
+SHA1: 61135624e3c660fcd678be06bf0e98643f904650
+SHA256: e28f907ffb1659284ae7a24e7a270c906fa29fba1e711e3f373a24f4ae59a502
+SHA512: 7ff111d43a6b1e20b93e11a575edfc1eb10c77f1fee523d3f4635eb36995ce4d1bbec2a44061cc74734c507b98480a768273360d015fd1ccdd5260ca7ab10f02
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
+Icon: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
+
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 6392
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.squidforce.copyvault_1.0.1_iphoneos-arm64e.deb
+Size: 1665022
+MD5sum: 2d016aafaf35184e00c25c205c71dceb
+SHA1: ba1880c0123dd8a5fcd7e0fc1a2d287b812da9e0
+SHA256: 7385fe74edc0b5c8aa992810ab574b4745c0ae8bd11927343b74a94b7f5fed9b
+SHA512: b87d7f61422c666dd1705513b3afd31e62a81a5efb5d74ef4299cc8dc377828dfeb61e019d0fdb3a808417b984e7617be7b60f19d0595857867ac3146c0ce5d1
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
+Icon: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/icon/icon.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
+
 Package: com.squidforce.disablepastealert16
 Architecture: iphoneos-arm64
 Version: 0.0.1

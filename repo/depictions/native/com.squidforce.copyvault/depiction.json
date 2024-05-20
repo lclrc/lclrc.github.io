@@ -80,6 +80,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.0.1",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修复iOS14等有根安全模式或复制无内容\n\t\u2023 尝试修复漏复制问题\n\t\u2023 修复iOS16上听写键无限振动问题\n\t\u2023 更换了时间字体",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.0.0",
           "useBoldText": true,
           "useSpacing": false,
