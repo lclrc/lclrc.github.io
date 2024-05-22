@@ -550,6 +550,24 @@ Name: SquidGesture
 Author: lclrc(SquidForce)
 Icon: file:///Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture_icon@3x.png
 
+Package: com.lclrc.squidgesture
+Architecture: iphoneos-arm64e
+Version: 1.3.7
+Section: Tweaks
+Maintainer: lclrc(SquidForce)
+Installed-Size: 1512
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist
+Filename: ./debians/com.lclrc.squidgesture_1.3.7_iphoneos-arm64e.deb
+Size: 382118
+MD5sum: 563038333d02c7d290ebd2f67df0e60f
+SHA1: b454c39cb87c5b837ea9f9ce1d167942645ebb3e
+SHA256: aba10272daaa5d69bf47f54ca21997f4dd74995b8ae88dc08cd8bdf2f0957ad7
+SHA512: ed0b5f811b3849e22e6ee564499aea04caedb40bf7d07d10bd4b2dd9b9105d8ed288aeb9899b67a522dfbce65465e5ec49c34ed905f96b5e47b669d341132528
+Description: Gestures
+Name: SquidGesture
+Author: lclrc(SquidForce)
+Icon: file:///Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture_icon@3x.png
+
 Package: com.lns.pogr
 Architecture: iphoneos-arm64
 Version: 0.2.3
