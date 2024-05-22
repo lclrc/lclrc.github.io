@@ -80,6 +80,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.0.5",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修复iOS16键盘问题\n\t\u2023 加快窗口弹出和关闭动画\n\t\u2023 不重复保存两条连续的相同内容\n\t\u2023 修复漏复制问题\n\t\u2023 修复部分iOS16上出现复制卡死",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.0.2",
           "useBoldText": true,
           "useSpacing": false,
