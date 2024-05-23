@@ -80,6 +80,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.0.6",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修复部分设备第一次安装后不能保存复制记录",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.0.5",
           "useBoldText": true,
           "useSpacing": false,
