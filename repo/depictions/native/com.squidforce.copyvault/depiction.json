@@ -80,6 +80,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.1.1",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 搜索时智能大小写\n\t\u2023 收藏区新增备注功能，可用来搜索\n\t\u2023 修复系统设置为12小时制时的时间格式问题\n\t\u2023 增加窗口高度设置\n\t\u2023 收藏夹里记录粘贴时不再移动到顶部\n\t\u2023 跳转链接时，自动关闭窗口\n\t\u2023 更新开发环境",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.0.6",
           "useBoldText": true,
           "useSpacing": false,
