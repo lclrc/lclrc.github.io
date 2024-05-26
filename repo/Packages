@@ -725,11 +725,11 @@ Maintainer: SquidForce
 Installed-Size: 7684
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/com.squidforce.copyvault_1.1.1_iphoneos-arm.deb
-Size: 2016496
-MD5sum: 7e8ca3c3bbb56c353f5cecf7c79623bf
-SHA1: ffd88a4a8c87f0021b2ab94dd5fc12a96bdc06c2
-SHA256: 0c2f7897f19b3327c990300cbc6d371a68aea6b09873820ba92df9ac0b5d71b0
-SHA512: c64f8524ca8f0f200f98e4f21cd408c30c69ae1f9361c9e73e4187496c272ec7293fa34f790810ad2ccc269429a615d144917c4230348285683984409ddc5717
+Size: 2016162
+MD5sum: 9664d363d7b54f0c19a72860c7dc3ba2
+SHA1: 59a85e252f9e68dbc9eb7ab9c6e9a18c8063bb50
+SHA256: 457e59c0dee52cbcd3f4c7d0d2e9dc45506c91693870cdd2405d4508ea9f089a
+SHA512: ed5eb2c811bd7d2d1d39c1d443312808902c3b7dcd438e4c34757d785a5c23d1016a420a794eaa70128ec6a12d661af351ca50264aa77dba39d943e45c9fe56a
 Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
@@ -744,11 +744,11 @@ Maintainer: SquidForce
 Installed-Size: 7556
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/com.squidforce.copyvault_1.1.1_iphoneos-arm64.deb
-Size: 1986972
-MD5sum: 1fc966d16c19cdbff0f37feb33b9e5b7
-SHA1: 1776580acc38e2f4ab995a31c8fc37ca82540984
-SHA256: 13517f77728f5b0616f1eb705a9f4c57feed62a6f33e30fcd79f82c4925ea2b0
-SHA512: 1232195f3318a1160c906c535772346d708388cb9d90d64ffbc5dba2c1653c84070d3e48b2f92fe0622ab9a1b7adde5b5a8ccf71fc8b49cbbe5f3f16cafc9429
+Size: 1988496
+MD5sum: fa49cc24b36c06c860d50aaee5b212ba
+SHA1: 2f12b24abb14d8e2fb3711a4856c5550496602d3
+SHA256: 489906d78f6944b6b555ad4143004a60a0adbfdab6b5272102ab2e1d9f34ce39
+SHA512: 6eea8579f579e59bb05bf172efd2fb42e3b8913c0f8152646d332897c26e254d19bfca67fc6d57cbdaf5c7280deac8627114bf08cbb4fc860c3e8d1783216b78
 Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
@@ -760,14 +760,14 @@ Architecture: iphoneos-arm64e
 Version: 1.1.1
 Section: Tweaks
 Maintainer: SquidForce
-Installed-Size: 7540
+Installed-Size: 7556
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/com.squidforce.copyvault_1.1.1_iphoneos-arm64e.deb
-Size: 1979484
-MD5sum: d950ef04e3c22255dab57fd3acecfb99
-SHA1: 082125d28251358407725065204208cd5b2a13f6
-SHA256: ebd27d5ffc28015de15fcf9de0d5d306030e44b0ddb2e116dcdde42a1b47f7dc
-SHA512: a3bb3644b0c597ec73fd7a500c7c2738e1dfaf61b08559892acb36c1a76e551dd03e3b188e6cac36f35af1c1f679ee574cb310c4a438acd39912bb3a8fcce52c
+Size: 1992658
+MD5sum: 6a12ad1bdc68ff8a2c8848e38f2fd29e
+SHA1: ed8934f209e414d671f1dca8aeae61f6e85e7732
+SHA256: dc3e41aa59365baf937726e64071fb6a676a874fb1ef9d66168a7bfe412c43b9
+SHA512: 57ce41f91b237cb67e71769db77ada121048456dfdfafbd273ac73e4261578d630337afbd2bb97aabf2ea6d1a1e3e661cf071c06ff33b08383cffd64993cb1a9
 Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
