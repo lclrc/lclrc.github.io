@@ -80,6 +80,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.1.3",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修复注销后桌面卡几秒\n\t\u2023 增加粘贴振动开关\n\t\u2023 去掉粘贴延时\n\t\u2023 返回桌面自动收起窗口",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.1.1",
           "useBoldText": true,
           "useSpacing": false,
