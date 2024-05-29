@@ -80,6 +80,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.1.5",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 增加标题栏下滑收起窗口\n\t\u2023 增加系统键盘上滑触发设置\n\t\u2023 调整听写键大小\n\t\u2023 调整窗口层级，适应部分小窗插件",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.1.3",
           "useBoldText": true,
           "useSpacing": false,
