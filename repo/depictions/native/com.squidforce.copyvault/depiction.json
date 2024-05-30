@@ -80,6 +80,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.1.7",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 更换Spotlight等图标(群友贡献的)\n\t\u2023 支持第三方输入法(部分输入法需要从面板顶部的快捷按钮部分等没有字符的按钮开始滑)\n\t\u2023 修复跟SwipeExtenderX长按收起键盘冲突\n\t\u2023 优化插件逻辑和性能",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.1.5",
           "useBoldText": true,
           "useSpacing": false,
