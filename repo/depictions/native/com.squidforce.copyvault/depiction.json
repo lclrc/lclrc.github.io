@@ -80,6 +80,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.1.9",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修正拼写错误，diction改正为dictation，听写键开关需要重新设置\n\t\u2023 非手动关闭窗口时，如有备注对话框，则同时关闭\n\t\u2023 暂时不获取PullOver中应用，等Zetsu修改同名变量\n\t\u2023 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.1.8",
           "useBoldText": true,
           "useSpacing": false,
