@@ -7,7 +7,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。\n"
+          "markdown": "CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。\nCopyVault is a modern, powerful and easy-to-use pasteboard jailbreak tweak, works on both iphone and ipad! It can save texts, links, pictures and other contents that you have copied without system restrictions, and can locate what you need directly by searching.\n"
         },
         {
           "class": "DepictionScreenshotsView",
@@ -33,7 +33,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "* 直观的界面\n* 可以保存文本/富文本/链接/图片等\n* 可以给收藏区(Archive)记录添加备注\n* 通过文本内容搜索\n* 通过类型搜索(关键词是txt，url，img等)\n* 通过来源应用名搜索\n* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)\n* 通过备注搜索(比如给图片或长文字添加的备注)\n* 搜索支持智能大小写\n支持输入法中上滑唤出\n* 可自定义高度\n* 长按单条记录预览\n* 联动其他插件，如SquidGesture、DockX、Hammer It等\n* 支持iOS/iPadOS"
+          "markdown": "* 直观的界面\n* Intuitive interface\n* 可以保存文本/富文本/链接/图片等\n* Can save text / rich text / links / images, etc.\n* 可以给收藏区记录添加备注\n* Add notes for archive items\n* 通过文本内容搜索\n* Search by text content\n* 通过类型搜索(关键词是txt，url，img等)\n* Search by type (keywords are txt / url / img etc.)\n* 通过来源应用名搜索\n* Search by source application\n* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)\n* Search by record time(The full format is 2024-05-20 00:00, you can search by part of it)\n* 通过备注搜索(比如给图片或长文字添加的备注)\n* Search by Notes\n* 搜索支持智能大小写\n* Smart case-insensitive search\n支持输入法中上滑唤出\nSwipe up in keyboard\n* 可自定义高度\n* Custom window height\n* 长按单条记录预览\n* Preview by long press on a record\n* 联动其他插件，如SquidGesture、DockX、Hammer It等\n* Interact with other tweaks, such like SquidGesture, DockX, Hammer It, etc\n* 支持iOS/iPadOS\n* Support iOS and iPadOS"
         },
         {
           "spacing": 15,
