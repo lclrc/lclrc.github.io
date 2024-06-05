@@ -33,7 +33,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "* 直观的界面\n* 可以保存文本/富文本/链接/图片等\n* 可以给收藏区记录添加备注\n* 通过文本内容搜索\n* 通过类型搜索(关键词是txt，url，img等)\n* 通过来源应用名搜索\n* Search by source application\n* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)\n* 通过备注搜索(比如给图片或长文字添加的备注)\n* 搜索支持智能大小写\n支持输入法中上滑唤出\n* 可自定义高度\n* 长按单条记录预览\n* 联动其他插件，如SquidGesture、DockX、Hammer It等\n* 支持iOS/iPadOS\n* Intuitive interface\n* Can save text / rich text / links / images, etc.\n* Add notes for archive items\n* Search by text content\n* Search by type (keywords are txt / url / img etc.)\n* Search by record time(The full format is 2024-05-20 00:00, you can search by part of it)\n* Search by Notes\n* Smart case-insensitive search\nSwipe up in keyboard\n* Custom window height\n* Preview by long press on a record\n* Interact with other tweaks, such like SquidGesture, DockX, Hammer It, etc\n* Support iOS and iPadOS"
+          "markdown": "* 直观的界面\n* 可以保存文本/富文本/链接/图片等\n* 可以给收藏区记录添加备注\n* 通过文本内容搜索\n* 通过类型搜索(关键词是txt，url，img等)\n* 通过来源应用名搜索\n* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)\n* 通过备注搜索(比如给图片或长文字添加的备注)\n* 搜索支持智能大小写\n支持输入法中上滑唤出\n* 可自定义高度\n* 长按单条记录预览\n* 联动其他插件，如SquidGesture、DockX、Hammer It等\n* 支持iOS/iPadOS\n* Intuitive interface\n* Can save text / rich text / links / images, etc.\n* Add notes for archive items\n* Search by text content\n* Search by type (keywords are txt / url / img etc.)\n* Search by source application\n* Search by record time(The full format is 2024-05-20 00:00, you can search by part of it)\n* Search by Notes\n* Smart case-insensitive search\nSwipe up in keyboard\n* Custom window height\n* Preview by long press on a record\n* Interact with other tweaks, such like SquidGesture, DockX, Hammer It, etc\n* Support iOS and iPadOS"
         },
         {
           "spacing": 15,
@@ -79,6 +79,19 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "1.2.0",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 添加SquidGesture Pro和CopyVault的介绍\n\t\u2023 修复两个圆角阴影\n\t\u2023 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
         {
           "title": "1.1.9",
           "useBoldText": true,
