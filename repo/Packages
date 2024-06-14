@@ -584,6 +584,57 @@ Name: ScreenshotActions
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/ScreenshotActions/icon.png
 
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm
+Version: 1.2.4
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 9460
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.squidforce.copyvault_1.2.4_iphoneos-arm.deb
+Size: 2587370
+MD5sum: 050938edb77acfaaf84d1dfb0b799ce4
+SHA1: a1004f19b8a24f15bf365fc94cfb5d9339908d0c
+SHA256: e030c75c573baeae5dda7f1988869b80a9ecdaa295d80e37443181d4ed060ac7
+SHA512: fef780b5f79befd3af992f12083763ef8509a4e0faf8330d9ad437351e4bad9d9fcfbf2fdae6e2a91e606f9a8b2304cdac9688d01146e092abe1cc6d8e370caf
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
+
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm64
+Version: 1.2.4
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 9412
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.squidforce.copyvault_1.2.4_iphoneos-arm64.deb
+Size: 2605520
+MD5sum: e4595156f9296639c381af4f68dbb012
+SHA1: ca65db66e8caadba2a513d0f02d0d6efdf8ab9fb
+SHA256: 2045166ab5c32ad7730421b7fdce24667ea31836f919edffebb0107b7490708e
+SHA512: a45efeadcd789cc0b62bf3453b499b7326fcbd9ab410a173c89c0c664955423e5ff05994e3c9cfaae657fd76d2a3dad753e53786860feab27abd1d189e8c1e5a
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
+
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.2.4
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 9236
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.squidforce.copyvault_1.2.4_iphoneos-arm64e.deb
+Size: 2564110
+MD5sum: 66f4ee96e243d45e7161c641a35e4040
+SHA1: 7982d7a58f85daca71a73b42a613fd617f000c1d
+SHA256: 628b2ce23f87cfb8452b7ddc5d8b58302f57ba0ece2ee7c14559bb9186e9d3f4
+SHA512: 27437b9aae2bb34fdac7339a02e2308f326f3633e65995e62543394fa6271ca33d5c8339ba78efe10b3208cfa5310ac6771996d2a37c0e5686786cfad2e80492
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
+
 Package: com.squidforce.disablepastealert16
 Architecture: iphoneos-arm64
 Version: 0.0.1
