@@ -1,3 +1,57 @@
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 12128
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debians/cn.octoforce.copyvault_1.3.0_iphoneos-arm.deb
+Size: 3300058
+MD5sum: 8571f443a65cd1f77f3e0fe9b8dc633f
+SHA1: b702139dc7f48dc6ed9b5f9643e77efbd2c73cd0
+SHA256: f1204b9dc44c9a2cca2cd61f1f6280be5ee5e249f33c4ccccc2c191787989e13
+SHA512: 0e1bdae133b5cb5aaf0ea851bc5cffdd992989240df836c93baf0d201f38aea2b2b5aedbbb20c95d5629c8663f8455e6aec6cfd03f085cc968cefa41106f8b1c
+Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm64
+Version: 1.3.0
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 12096
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debians/cn.octoforce.copyvault_1.3.0_iphoneos-arm64.deb
+Size: 3293674
+MD5sum: 200d99fe16264db13e4fb54f31cb1dd6
+SHA1: 933bf693e673493c2dccfa8f229c0bdb8f91d6b9
+SHA256: c4a80bad95d3ec6463521ce15dc6fa1026b5c642861d7be24f65c881f618de8f
+SHA512: 783d337b12f54e15c72084a9bfef3cf811f1f45a79f73321a8b29d7b69308229db6c7718368d7438eb1174deae4bfaa58b0ee15713cde49372af60bd9e19f4cc
+Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.3.0
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 12064
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debians/cn.octoforce.copyvault_1.3.0_iphoneos-arm64e.deb
+Size: 3274700
+MD5sum: 05ac4ebc983c4e03a20f0fa64940430d
+SHA1: f1c88d1f5fa8d27ed86194f6694e29005d8c55ce
+SHA256: d350c9e3dafc59cd64c36e5f7d02b34272b0f7f5266ee96e3c51ad7bcba697cb
+SHA512: 43b4e8a3cc78fe06c27b3cf052c10942707b3e4d3ca284cb6e990186f3bd21b5a913897bd270ecc549402af1049f98c97ddab8bd86a78f5a83e115df0f9b4e20
+Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+
 Package: com.brend0n.nolowpowermode30secautolock
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -583,57 +637,6 @@ Description: Add Quick Actions to the screenshot preview!
 Name: ScreenshotActions
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/ScreenshotActions/icon.png
-
-Package: com.squidforce.copyvault
-Architecture: iphoneos-arm
-Version: 1.2.4
-Section: Tweaks
-Maintainer: SquidForce
-Installed-Size: 9460
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/com.squidforce.copyvault_1.2.4_iphoneos-arm.deb
-Size: 2587370
-MD5sum: 050938edb77acfaaf84d1dfb0b799ce4
-SHA1: a1004f19b8a24f15bf365fc94cfb5d9339908d0c
-SHA256: e030c75c573baeae5dda7f1988869b80a9ecdaa295d80e37443181d4ed060ac7
-SHA512: fef780b5f79befd3af992f12083763ef8509a4e0faf8330d9ad437351e4bad9d9fcfbf2fdae6e2a91e606f9a8b2304cdac9688d01146e092abe1cc6d8e370caf
-Description: Your Copy Vault, Your Pasteboard
-Name: CopyVault
-Author: SquidForce
-
-Package: com.squidforce.copyvault
-Architecture: iphoneos-arm64
-Version: 1.2.4
-Section: Tweaks
-Maintainer: SquidForce
-Installed-Size: 9412
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/com.squidforce.copyvault_1.2.4_iphoneos-arm64.deb
-Size: 2605520
-MD5sum: e4595156f9296639c381af4f68dbb012
-SHA1: ca65db66e8caadba2a513d0f02d0d6efdf8ab9fb
-SHA256: 2045166ab5c32ad7730421b7fdce24667ea31836f919edffebb0107b7490708e
-SHA512: a45efeadcd789cc0b62bf3453b499b7326fcbd9ab410a173c89c0c664955423e5ff05994e3c9cfaae657fd76d2a3dad753e53786860feab27abd1d189e8c1e5a
-Description: Your Copy Vault, Your Pasteboard
-Name: CopyVault
-Author: SquidForce
-
-Package: com.squidforce.copyvault
-Architecture: iphoneos-arm64e
-Version: 1.2.4
-Section: Tweaks
-Maintainer: SquidForce
-Installed-Size: 9236
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/com.squidforce.copyvault_1.2.4_iphoneos-arm64e.deb
-Size: 2564110
-MD5sum: 66f4ee96e243d45e7161c641a35e4040
-SHA1: 7982d7a58f85daca71a73b42a613fd617f000c1d
-SHA256: 628b2ce23f87cfb8452b7ddc5d8b58302f57ba0ece2ee7c14559bb9186e9d3f4
-SHA512: 27437b9aae2bb34fdac7339a02e2308f326f3633e65995e62543394fa6271ca33d5c8339ba78efe10b3208cfa5310ac6771996d2a37c0e5686786cfad2e80492
-Description: Your Copy Vault, Your Pasteboard
-Name: CopyVault
-Author: SquidForce
 
 Package: com.squidforce.disablepastealert16
 Architecture: iphoneos-arm64
