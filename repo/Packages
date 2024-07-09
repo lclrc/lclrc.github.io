@@ -162,6 +162,60 @@ Author: SquidForce, Backup
 
 Package: cn.octoforce.copyvault
 Architecture: iphoneos-arm
+Version: 1.3.5+1
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 16740
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debians/cn.octoforce.copyvault_1.3.5+1_iphoneos-arm.deb
+Size: 4490638
+MD5sum: b518c066a116a44d9b5ce202dcde57eb
+SHA1: fa45f859154981b6e9bf6d5fe58c29afe13aac2b
+SHA256: 1153e1acc2989968d6bc73c9e2b317cf634446f7ad30e6a830faac89abde9300
+SHA512: 6db9fcac21c8b445452e4008708c714f4a6aa76160c01ee3c96bddd1eee01e79e7d462ce369ff906eb4b3500b81eafa7393d2984fab2f1774de272b11ffd9060
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm64
+Version: 1.3.5+1
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 16724
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debians/cn.octoforce.copyvault_1.3.5+1_iphoneos-arm64.deb
+Size: 4504864
+MD5sum: 4221f9fd8fb49015828822e3807b4536
+SHA1: 5592ae0dca0400047d817bed9ac497fbbf1a6f22
+SHA256: d4b6281271bd28030190727b3e5b62c25e7a2751fd8305a6ced446f443c611c1
+SHA512: 8515022d4d5e4ba8c093bf7f592c762deb79d36dc507dc1e05c36983599e2f254dc01cbe74e2850534d74482591394f0502832f5af5d36c76617ef13a0510160
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.3.5+1
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 16624
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debians/cn.octoforce.copyvault_1.3.5+1_iphoneos-arm64e.deb
+Size: 4471570
+MD5sum: c2b1869b5d05108e722c8bc58698892f
+SHA1: 938afe65f2333a4cd8da1542bb38677fab781f32
+SHA256: 812110f0ddbd86daed9c579a9354f49b2b15b1031d2955e552c2b6ef8c31af73
+SHA512: b519495a69c99778b8e6f858317752dbffd2144db2b72b76983c0e6d2e27bdbd40b2292cad47aea34f4f94cd0744d7047175a81295893afd65a7d3ee2f313783
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm
 Version: 1.3.5
 Section: Tweaks
 Maintainer: SquidForce, Backup
