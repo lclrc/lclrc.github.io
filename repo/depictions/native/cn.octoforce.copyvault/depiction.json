@@ -1,0 +1,107 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://lclrc.github.io/repo/assets/repo/Banners/1.jpg",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索和自定义分组归档。\n"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 14,
+          "screenshots": [
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/1.jpg",
+              "accessibilityText": "1.jpg"
+            },
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/2.jpg",
+              "accessibilityText": "2.jpg"
+            },
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/3.jpg",
+              "accessibilityText": "3.jpg"
+            },
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/4.jpg",
+              "accessibilityText": "4.jpg"
+            },
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/copyvault/5.jpg",
+              "accessibilityText": "5.jpg"
+            }
+          ],
+          "itemSize": "{370,456}"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "* 直观的界面\n* 可以保存文本/富文本/链接/图片等\n* 可以给收藏区记录添加备注\n* 收藏区自定义分组\n* 通过文本内容搜索\n* 通过类型搜索(关键词是txt，url，img等)\n* 通过来源应用名搜索\n* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)\n* 通过备注搜索(比如给图片或长文字添加的备注)\n* 搜索支持智能大小写\n支持输入法中上滑唤出\n* 可自定义高度\n* 长按单条记录预览\n* 联动其他插件，如SquidGesture、DockX、Hammer It、Snapper等\n* 支持iOS/iPadOS\n"
+        },
+        {
+          "spacing": 15,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "获取正版授权",
+          "action": "https://www.wcfaka.com/details/43CBBA8F",
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "依赖",
+          "text": "AltList",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "1.3.6",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 收藏区搜索框增加分类筛选按钮\n\t\u2023 条目左滑添加Snapper 2/3贴图\n\t\u2023 修复有些图片的metadata错误问题\n\t\u2023 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.0.0",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 initial",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
