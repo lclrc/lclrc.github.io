@@ -7,29 +7,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "*激活码用户或需要激活码的用户安装此包，非激活码用户不要装!*Pro版将突破每个手势只能选择一个动作的限制，在选择多个动作后，自动以面板的形式显示。(在选择一个动作时仍为直接执行，不会显示面板)\n"
-        },
-        {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 14,
-          "screenshots": [
-            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/squidgesturepro/1.jpg",
-              "accessibilityText": "1.jpg"
-            },
-            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/squidgesturepro/2.jpg",
-              "accessibilityText": "2.jpg"
-            },
-            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/squidgesturepro/3.jpg",
-              "accessibilityText": "3.jpg"
-            },
-            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/squidgesturepro/4.jpg",
-              "accessibilityText": "4.jpg"
-            },
-            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/squidgesturepro/5.jpg",
-              "accessibilityText": "5.jpg"
-            }
-          ],
-          "itemSize": "{370,456}"
+          "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装!\nPro版将突破每个手势只能选择一个动作的限制，在选择多个动作后，自动以面板的形式显示。(在选择一个动作时仍为直接执行，不会显示面板)\n"
         },
         {
           "class": "DepictionMarkdownView",
