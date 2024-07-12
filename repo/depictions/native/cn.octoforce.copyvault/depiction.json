@@ -7,7 +7,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索和自定义分组归档。\n"
+          "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装。简洁轻量化、功能丰富且易用的剪贴板。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索和自定义分组归档。\n"
         },
         {
           "class": "DepictionScreenshotsView",
@@ -70,14 +70,14 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "1.3.6",
+          "title": "1.3.7",
           "useBoldText": true,
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 收藏区搜索框增加分类筛选按钮\n\t\u2023 条目左滑添加Snapper 2/3贴图\n\t\u2023 修复有些图片的metadata错误问题\n\t\u2023 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
+          "markdown": "\t\u2023 收藏区搜索框增加分类筛选按钮\n\t\u2023 条目左滑添加Snapper 2/3贴图\n\t\u2023 修复有些图片的metadata错误问题\n\t\u2023 分开设置Dock上听写键和键盘内听写键\n\t\u2023 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
