@@ -70,6 +70,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.3.8",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 微调收藏夹界面\n\t\u2023 修复因插件冲突导致的点击屏幕某个位置会触发弹出窗口\n\t\u2023 修复听写键在部分设备上不起作用\n\t\u2023 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.3.7",
           "useBoldText": true,
           "useSpacing": false,
