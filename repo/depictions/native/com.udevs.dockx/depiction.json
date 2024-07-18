@@ -50,6 +50,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.6.1",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修复nga闪退\n\t\u2023 修复部分情况下横屏仍显示\n\t\u2023 修复在选择颜色输入框不显示",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.6.0",
           "useBoldText": true,
           "useSpacing": false,
