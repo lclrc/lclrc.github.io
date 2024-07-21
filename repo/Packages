@@ -1361,6 +1361,25 @@ Name: ScreenshotActions
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/ScreenshotActions/icon.png
 
+Package: com.squidforce.copyvaultforshortmoji
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Shortmoji Extension
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.shortmoji2
+Filename: ./debians/com.squidforce.copyvaultforshortmoji_1.0_iphoneos-arm.deb
+Size: 4118
+MD5sum: 118bed82cbfa78c7a80fc96a5f3e643d
+SHA1: 3fdf4c858032cd6356abffecc7bcae977b1483d8
+SHA256: 2f9d6444163dec21a1c8130c1b30bc4b89cda92651183e6c418cf368a17c7ed3
+SHA512: 48937bd91fa30c11f2dcd55a5354d304fc335decd1dc05dbb81df18f67afeadf78ab2e1d8e394c523aad8187906da08b28876efd1013e281f6ef8fa665224178
+Description: CopyVault shortcut for Shortmoji.
+Tag: purpose::extension, compatible_min::ios13
+Name: CopyVault Shortcut For Shortmoji
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji2
+Author: SquidForce
+
 Package: com.squidforce.disablepastealert16
 Architecture: iphoneos-arm64
 Version: 0.0.1
