@@ -48,6 +48,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.2.2",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 增加主屏幕下划手势\n\t\u2023 “打开链接”新增支持“设置”的Url Scheme，比如，Prefs:root=Bluetooth 或 Prefs:root=SquidGesture Pro&path=statusBarOptions/statusBarMiddleGroup\n\t\u2023 修复部分系统上，旋转屏幕前，面板不会自动关闭\n\t\u2023 修复部分情况下面板内个别动作显示在面板外",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.2.0",
           "useBoldText": true,
           "useSpacing": false,
