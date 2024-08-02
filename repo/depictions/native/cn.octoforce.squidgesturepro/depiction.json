@@ -48,6 +48,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.2.6",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 打开链接图标支持设置为自定义图片的文件路径\n\t\u2023 增加面板中上滑/下滑收起面板\n\t\u2023 新增TrollRecord的几个动作\n\t\u2023 微调面板中应用类动作的长按时间\n\t\u2023 微调音量键触发时间\n\t\u2023 微调设置部分界面\n\t\u2023 切换暗黑模式动作不再关闭系统的自动深色开关\n\t\u2023 优化截屏并编辑动作\n\t\u2023 优化打开链接关键字输入框\n\t\u2023 修复iOS14上低电量动作只能开不能关\n\t\u2023 修复打开链接输入关键字中不能包含空格",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.2.2",
           "useBoldText": true,
           "useSpacing": false,
