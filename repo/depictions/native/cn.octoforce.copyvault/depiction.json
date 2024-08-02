@@ -77,7 +77,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 提升收藏和删除性能\t\u2023 修复部分情况下，当前分组和内容不相符\t\u2023 清空收藏夹时，同时清空分组信息\n\t\u2023 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
+          "markdown": "\t\u2023 提升收藏和删除性能\n\t\u2023 修复部分情况下，当前分组和内容不相符\n\t\u2023 清空收藏夹时，同时清空分组信息\n\n\t\u2023 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
