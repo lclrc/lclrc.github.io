@@ -48,6 +48,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.2.9",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 增加设置：编辑预设链接。并可导入链接或分享链接等\n\t\u2023 选择动作页面增加：预设链接",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.2.7",
           "useBoldText": true,
           "useSpacing": false,
