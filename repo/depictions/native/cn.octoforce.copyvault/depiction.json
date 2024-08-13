@@ -70,6 +70,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.4.6",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 剪贴板记录长按：增加添加到收藏夹指定分类\n\t\u2023 增加高级设置：禁用类别\n\t\u2023 优化图片保存形式\n\t\u2023 修复占用存储bug(如从旧版本更新，在插件设置内清除一次缓存)\n\t\u2023 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.4.2",
           "useBoldText": true,
           "useSpacing": false,
