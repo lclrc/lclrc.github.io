@@ -7,7 +7,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装。简洁轻量化、功能丰富且易用的剪贴板。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索和自定义分组归档。\n"
+          "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装。\nActivation code users or users who need an activation code install this package, Otherwise do not install this.\n简洁轻量化、功能丰富且易用的剪贴板。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索和自定义分组归档。\n"
         },
         {
           "class": "DepictionScreenshotsView",
