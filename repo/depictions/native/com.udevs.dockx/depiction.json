@@ -50,6 +50,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.6.2",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修复QQ等应用内不能粘贴",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.6.1",
           "useBoldText": true,
           "useSpacing": false,
