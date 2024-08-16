@@ -48,6 +48,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.5.0",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 增加动作：Siri(需启用侧边按钮使用Siri)\n\t\u2023 增加动作：辅助功能快捷键(需设置辅助功能快捷键)\n\t\u2023 增加动作：Apple Pay(需启用侧边按钮使用钱包卡片)\n\t\u2023 增加动作类：快捷方式(即应用的3D touch选项)\n\t\u2023 面板上动作增加上(下)划手势\n\t\u2023 应用打开方式中增加：在svp分屏中打开\n\t\u2023 增加高级设置：链接类动作设置、快捷方式类动作设置，如果选择非全屏打开，将直接在相应的插件内打开应用并跳转链接或快捷方式，比如Zetsu、PullOverPro、SplitViewPro\n\t\u2023 选择打开应用和快捷指令页面添加搜索\n\t\u2023 全部动作可自定义标题和图标\n\t\u2023 所有原预设动作移动到基础动作\n\t\u2023 选择动作界面右上角增加编辑按钮，并改为：处于编辑状态时，可以排序和点击已选择项删除；处于非编辑状态时，点击已选择项修改图标等设置，防止误触误删除\n\t\u2023 编辑预设链接页面：在编辑状态下，可选择多个导出到文件\n\t\u2023 部分页面添加脚注说明",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.2.9",
           "useBoldText": true,
           "useSpacing": false,
