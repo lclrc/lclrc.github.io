@@ -7,7 +7,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装。\nActivation code users or users who need an activation code install this package, Otherwise do not install this.\n简洁轻量化、功能丰富且易用的剪贴板。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索和自定义分组归档。\n"
+          "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装。\n\nActivation code users or users who need an activation code install this package, Otherwise do not install this.\n\n简洁轻量化、功能丰富且易用的剪贴板。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索和自定义分组归档。\n"
         },
         {
           "class": "DepictionScreenshotsView",
@@ -33,7 +33,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "* 直观的界面\n* 可以保存文本/富文本/链接/图片等\n* 可以给收藏区记录添加备注\n* 收藏区自定义分组\n* 通过文本内容搜索\n* 通过类型搜索(关键词是txt，url，img等)\n* 通过来源应用名搜索\n* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)\n* 通过备注搜索(比如给图片或长文字添加的备注)\n* 搜索支持智能大小写\n支持输入法中上滑唤出\n* 可自定义高度\n* 长按单条记录预览\n* 联动其他插件，如SquidGesture、DockX、Hammer It、Snapper等\n* 支持iOS/iPadOS\n"
+          "markdown": "* 直观的界面\n* 可以保存文本/富文本/链接/图片等\n* 支持JavaScript脚本处理\n* 可以给收藏区记录添加备注\n* 收藏区自定义分组\n* 通过文本内容搜索\n* 通过类型搜索(关键词是txt，url，img等)\n* 通过来源应用名搜索\n* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)\n* 通过备注搜索(比如给图片或长文字添加的备注)\n* 搜索支持智能大小写\n支持输入法中上滑唤出\n支持外接键盘快捷键唤出\n* 可自定义界面\n* 长按/左滑/右滑单条记录进行更多操作\n* 联动其他插件，如SquidGesture、DockX、Hammer It、Snapper等\n* 支持iOS/iPadOS\n"
         },
         {
           "spacing": 15,
