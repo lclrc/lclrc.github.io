@@ -1893,6 +1893,22 @@ Name: CopyVault Shortcut For Shortmoji
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.shortmoji2
 Author: SquidForce
 
+Package: com.squidforce.disablebreadcrumb
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Filename: ./debians/com.squidforce.disablebreadcrumb_1.0_iphoneos-arm64.deb
+Size: 2876
+MD5sum: 833dc354061549a653368fe3281c8783
+SHA1: c2c18e4c587bbab613508471301dc2171f50b3fb
+SHA256: bd8028b8b32c2b51f071ad889de162fcb12b8e8fd49f36855d46e1f2353dff86
+SHA512: 73882a4084a99bf39e049ccf8c8ed5a56e1e1196292d7eafb57ed5c6161dadd5f9fab7ee41e060f3d96649892ce0f050b2255065b672b57ae6d3ede3d4ef61cc
+Description: Same as the name
+Name: 禁用面包屑(左上角快速返回上一个应用) - DisableBreadcrumb
+Author: SquidForce
+
 Package: com.squidforce.disablepastealert16
 Architecture: iphoneos-arm64
 Version: 0.0.1
