@@ -48,6 +48,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.5.2+5",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 增加自定义面板界面设置\n\t\u2023 增加备份还原设置\n\t\u2023 优化系统录屏\n\t\u2023 优化从app返回桌面后不能立即触发底部手势\n\t\u2023 调整一些细节",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.5.0",
           "useBoldText": true,
           "useSpacing": false,
