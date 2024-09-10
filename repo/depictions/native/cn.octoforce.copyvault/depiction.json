@@ -70,6 +70,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.5.6",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 - 修复部分iPad上键盘按钮问题\n\t\u2023 - iPad键盘按钮设置加入限制，使其在iPhone上不生效\n\t\u2023 - 补充部分语言包遗漏字段\n\t\u2023 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.5.5",
           "useBoldText": true,
           "useSpacing": false,
