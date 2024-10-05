@@ -1,0 +1,92 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://lclrc.github.io/repo/assets/repo/Banners/1.jpg",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装。\n\nActivation code users or users who need an activation code install this package, Otherwise do not install this. 沉浸式的，界面与功能都可高度自定义的键盘扩展调整(注意：使用系统键盘时，面板在键盘内部；使用第三方键盘时，面板在键盘上方)\n\n注意：仅在iOS14 - iOS16.5测试，16.6半越狱未测试\n\n"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 14,
+          "screenshots": [
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/squidextender/1.jpg",
+              "accessibilityText": "1.jpg"
+            },
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/squidextender/2.jpg",
+              "accessibilityText": "2.jpg"
+            },
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/squidextender/3.jpg",
+              "accessibilityText": "3.jpg"
+            },
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/squidextender/4.jpg",
+              "accessibilityText": "4.jpg"
+            },
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/squidextender/5.jpg",
+              "accessibilityText": "5.jpg"
+            },
+            {"url": "https://lclrc.github.io/repo/assets/repo/Screenshots/squidextender/6.jpg",
+              "accessibilityText": "6.jpg"
+            }
+          ],
+          "itemSize": "{370,456}"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 功能自定义\n- 智能复制\n- 粘贴\n- 全选并粘贴\n- 智能剪切\n- 清空输入框\n- 恢复输入框\n- 撤销\n- 重做\n- 智能光标移到起始位置\n- 智能光标移到末尾位置\n- 关闭键盘\n- 换行\n- 自定义便捷输入\n- 智能光标向左\n- 智能光标向右\n- 光标向上\n- 光标向下\n- 选择文本\n- 选择一行\n- 选择全部\n- 调整选区范围\n- JavaScript脚本\n- 唤出CopyVault\n\n## 界面自定义\n可自定义各个细节，是融入式，还是按键式，还是彩色，随意调节\n\n## 便捷输入\n不仅仅能够输入预设文本的便捷输入，更能通过内置的几个变量来操作选区文本、剪贴板文本和光标位置\n\n## JavaScript脚本\n通过强大的JavaScript语言，自由处理输入框中的文本，并自动填入输入框。没有做不到，只有想不到\n\n## 翻译与GPT功能正在开发中\n"
+        },
+        {
+          "spacing": 15,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "获取正版授权",
+          "action": "https://www.wcfaka.com/details/55CE9955",
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "1.0.1",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 initial",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
