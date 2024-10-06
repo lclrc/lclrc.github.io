@@ -68,14 +68,14 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "1.0.1",
+          "title": "1.0.3",
           "useBoldText": true,
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 initial",
+          "markdown": "\t\u2023 修复iOS14\n\t\u2023 修复QQ\n\t\u2023 优化“清空”动作，如果有未上屏的拼音，先清空拼音",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
