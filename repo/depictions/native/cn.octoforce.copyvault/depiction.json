@@ -70,6 +70,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.5.8",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 增加：清理历史记录中所有图片记录选项\n\t\u2023 优化：总条目数或图片数量达到一定数量时，弹出窗口延迟问题\n\t\u2023 优化：总条目数或图片数量达到一定数量时，复制新记录延迟问题\n\t\u2023 修复：iOS14上“忽略来自其他设备的复制”开关无效",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.5.6",
           "useBoldText": true,
           "useSpacing": false,
