@@ -68,6 +68,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.1.3",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 增加：支持iPad\n\t\u2023 编辑脚本中添加“替换原文”设置：当未选中文本时执行，会使用脚本结果替换输入框中全部文字\n\t\u2023 增加：回车动作(跟随键盘中回车键状态，可能为发送/搜索/换行其一)\n\t\u2023 增加：计算器动作(可多行计算)\n\t\u2023 修复：Github便捷输入闪退\n\t\u2023 修复：部分应用中显示错误\n\t\u2023 增加：按钮动画开关\n\t\u2023 增加：图标线条设置选项\n\t\u2023 增加：地球相关的5个动作和听写动作\n\t\u2023 增强：面板背景颜色可自动跟随键盘，即在背景颜色设置为非系统键盘时，切换到系统键盘下仍使用系统键盘背景配色\n\t\u2023 增加：CopyLog动作",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.0.3",
           "useBoldText": true,
           "useSpacing": false,
