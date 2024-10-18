@@ -68,6 +68,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.1.5",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 修复：在某些操作后，按键出现延迟问题\n\t\u2023 优化：阴影效果(如果用的系统键盘，可以试试深色时按钮背景颜色8B8A8C 透明度35%)\n\t\u2023 增加：子动作菜单弹出时反馈\n\t\u2023 增加：一个空动作\n\t\u2023 修复：在恢复不同版本备份的配置时可能导致闪退的bug\n\t\u2023 调整：暂时改为修改配置时只在“设置”中即时生效",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.1.3",
           "useBoldText": true,
           "useSpacing": false,
