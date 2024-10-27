@@ -6,8 +6,19 @@
       "tabname": "Details",
       "views": [
         {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "获取正版授权",
+          "action": "https://www.wcfaka.com/details/55CE9955",
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "class": "DepictionMarkdownView",
-          "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装。\n\nActivation code users or users who need an activation code install this package, Otherwise do not install this. 沉浸式的，界面与功能都可高度自定义的键盘扩展调整(注意：使用系统键盘时，面板在键盘内部；使用第三方键盘时，面板在键盘上方)\n\n注意：仅在iOS14 - iOS16.5测试，16.6半越狱未测试\n\n"
+          "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装。\n\nActivation code users or users who need an activation code install this package, Otherwise do not install this. 沉浸式的，界面与功能都可高度自定义的键盘扩展调整(注意：使用系统键盘时，面板在键盘内部；使用第三方键盘时，面板在键盘上方)\n\n注意：仅在iOS/iPadOS 14-16.5测试，16.6半越狱未测试(据反馈，血清素和NathanLR上可以用))\n\n"
         },
         {
           "class": "DepictionScreenshotsView",
@@ -36,7 +47,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## 功能自定义\n- 智能复制\n- 粘贴\n- 全选并粘贴\n- 智能剪切\n- 清空输入框\n- 恢复输入框\n- 撤销\n- 重做\n- 智能光标移到起始位置\n- 智能光标移到末尾位置\n- 关闭键盘\n- 换行\n- 自定义便捷输入\n- 智能光标向左\n- 智能光标向右\n- 光标向上\n- 光标向下\n- 选择文本\n- 选择一行\n- 选择全部\n- 调整选区范围\n- JavaScript脚本\n- 唤出CopyVault\n\n## 界面自定义\n可自定义各个细节，是融入式，还是按键式，还是彩色，随意调节\n\n## 便捷输入\n不仅仅能够输入预设文本的便捷输入，更能通过内置的几个变量来操作选区文本、剪贴板文本和光标位置\n\n## JavaScript脚本\n通过强大的JavaScript语言，自由处理输入框中的文本，并自动填入输入框。没有做不到，只有想不到\n\n## 翻译与GPT功能正在开发中\n"
+          "markdown": "## 功能自定义\n- GPT功能\n- 智能复制\n- 粘贴\n- 全选并粘贴\n- 智能剪切\n- 清空输入框\n- 恢复输入框\n- 撤销\n- 重做\n- 智能光标移到起始位置\n- 智能光标移到末尾位置\n- 关闭键盘\n- 换行\n- 自定义便捷输入\n- 智能光标向左\n- 智能光标向右\n- 光标向上\n- 光标向下\n- 选择文本\n- 选择一行\n- 选择全部\n- 调整选区范围\n- JavaScript脚本\n- 唤出CopyVault\n\n## 界面自定义\n可自定义各个细节，是融入式，还是按键式，还是彩色，随意调节\n\n## 便捷输入\n不仅仅能够输入预设文本的便捷输入，更能通过内置的几个变量来操作选区文本、剪贴板文本和光标位置\n\n## JavaScript脚本\n通过强大的JavaScript语言，自由处理输入框中的文本，并自动填入输入框。没有做不到，只有想不到\n\n## 翻译正在开发中\n"
         },
         {
           "spacing": 15,
@@ -67,6 +78,19 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "2.0.4",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 1. 增加5个ChatGPT相关动作。这5个动作作为主动作，且没有添加子动作时，有一个默认的长按菜单，可切换提示词或切换模型\n\t\u2023 2. 在这几个动作没有在动作编辑中选定某一个提示词时，会使用长按菜单中选中的提示词或第一个提示词\n\t\u2023 3. 在等待网络响应时，全屏可长按强制取消\n\t\u2023 4. 在弹出对话窗口时，点击右边的气泡，是插入输入框但不关闭对话窗口；点击左边气泡，是插入并关闭对话窗口\n\t\u2023 5. 长按对话界面是关闭对话窗口，也可以用动作关闭，或在插入一个结果后自动关闭\n\t\u2023 6. 输入框没文字时，使用剪贴板中文字作为输入\n\t\u2023 7. 轻扫动作在选择“脚本/便捷输入/GPT”时，可以设置标题，方便区分\n\t\u2023 8. 可自定义AI参数：是否流式输出结果，对话记忆，创意温度，选择API服务器等\n\t\u2023 9. 还有些说明，请看设置中各个脚注",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
         {
           "title": "1.1.5",
           "useBoldText": true,

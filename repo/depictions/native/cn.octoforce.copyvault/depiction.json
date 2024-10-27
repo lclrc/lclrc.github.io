@@ -6,6 +6,17 @@
       "tabname": "Details",
       "views": [
         {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "获取正版授权",
+          "action": "https://www.wcfaka.com/details/43CBBA8F",
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
           "class": "DepictionMarkdownView",
           "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装。\n\nActivation code users or users who need an activation code install this package, Otherwise do not install this.\n\n简洁轻量化、功能丰富且易用的剪贴板。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索和自定义分组归档。\n"
         },
@@ -69,6 +80,19 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "1.5.9",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 优化保存来自其他设备的复制记录(handoff)时的效率",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
         {
           "title": "1.5.8",
           "useBoldText": true,
