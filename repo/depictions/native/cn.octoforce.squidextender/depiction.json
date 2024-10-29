@@ -82,6 +82,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.0.5",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 1. 增加键盘设置：键盘下沉，内部显示地球，修复SwipeExtenderX闪退等开关\n\t\u2023 2. 优化“清空”动作，清空后同步键盘发送键状态等",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.0.4",
           "useBoldText": true,
           "useSpacing": false,
