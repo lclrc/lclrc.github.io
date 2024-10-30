@@ -82,6 +82,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.1.0",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 1. GPT增加一些错误提示，比如key余额不足等\n\t\u2023 1. 去掉弹出子动作菜单时的音效，测试看还会不会出现音效爆音\n\t\u2023 2. 修复2.0.7引入的gpt结果不能插入到输入框",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.0.8",
           "useBoldText": true,
           "useSpacing": false,
