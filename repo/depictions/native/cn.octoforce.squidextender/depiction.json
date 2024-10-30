@@ -82,6 +82,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.0.8",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\u2023 1. 增加清空(光标到文初)和清空(光标到文末)动作\n\t\u2023 2. 增加简繁转换动作\n\t\u2023 3. 增加Kayoko动作\n\t\u2023 4. 设置中增加一些提示",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.0.5",
           "useBoldText": true,
           "useSpacing": false,
