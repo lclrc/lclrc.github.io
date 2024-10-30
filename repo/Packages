@@ -1102,25 +1102,6 @@ Author: SquidForce, Backup
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: Tweaks
-Maintainer: SquidForce, Backup
-Installed-Size: 5000
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.squidforce.squidextender
-Filename: ./debians/cn.octoforce.squidextender_1.0.1_iphoneos-arm64e.deb
-Size: 1192292
-MD5sum: 794013e61582760e6d4d5423133efbe9
-SHA1: 70e9d742be98d1b7cc52e171b53c89fadd9b4b29
-SHA256: b3a09bd345f9156fe2e10af18eb2e903567e4203d4b7948845c9c34e4e3aa622
-SHA512: 8922f3549a0ee74a260709d332a0d9595ebc2f18ea4f7b83aecc6184298ed4a7d11a7aad18bc28c7a177325f3d97f2aa27e6e8edd85951f169cceb1a21984360
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
-Name: SquidExtender(激活码版)
-Author: SquidForce, Backup
-SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
-
-Package: cn.octoforce.squidextender
 Architecture: iphoneos-arm
 Version: 1.0.3
 Section: Tweaks
@@ -1153,25 +1134,6 @@ MD5sum: f011888469da48399c690fd4ef7539f4
 SHA1: 6d60b2103fe289cf66cbcb8b401a9794f04545d7
 SHA256: f0611c008dffbf53fe1f29837dcc7391fed6cf44030a2c8db27b170570e52629
 SHA512: b30387ee57a7d0fe0111147f55858846f68c32541c898627022e5ed711bf0debdbcc32e7d5ef545548b25a81b410ad85a300adeeaf81c865fec897da1a772ae7
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
-Name: SquidExtender(激活码版)
-Author: SquidForce, Backup
-SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
-
-Package: cn.octoforce.squidextender
-Architecture: iphoneos-arm64e
-Version: 1.0.3
-Section: Tweaks
-Maintainer: SquidForce, Backup
-Installed-Size: 5048
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.squidforce.squidextender
-Filename: ./debians/cn.octoforce.squidextender_1.0.3_iphoneos-arm64e.deb
-Size: 1210322
-MD5sum: e3ddd21c70b2860bea166b4adb96b28d
-SHA1: 4581082c6176bf673e2cbd12dc1b9e561b281d75
-SHA256: a226f7313f6dcf1b1bd06e4a4696a75b7cfbff3ef503215f285266871e2ea411
-SHA512: 46cd15452e0a7646584611cd7e0e0ff9efb27597b4a15fd6aff6c97b61aca9eadfa85fdcb4505c217929832587be77ffa33a1929b89fd81445b226fb84d88f33
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Name: SquidExtender(激活码版)
 Author: SquidForce, Backup
@@ -1216,25 +1178,6 @@ Author: SquidForce, Backup
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Architecture: iphoneos-arm64e
-Version: 1.1.0
-Section: Tweaks
-Maintainer: SquidForce, Backup
-Installed-Size: 5228
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.squidforce.squidextender
-Filename: ./debians/cn.octoforce.squidextender_1.1.0_iphoneos-arm64e.deb
-Size: 1259794
-MD5sum: c0e29b694c8aef4e22923551bec0fbb1
-SHA1: 66fca5ba3ef5f57b34786a4b647d6bffd6d7211e
-SHA256: 1087c697d3398f66aeec1fd5f868a9c88222e49e8e052371fb0ac6869d78d9fe
-SHA512: 38b825d0189c799abc4900e6fbd46f2dca2850faa25e571ca1413ccc072416f9c5977bda842fecc13c6392f2c22871ffb81d2a872c14248da2904593826a35ce
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
-Name: SquidExtender(激活码版)
-Author: SquidForce, Backup
-SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
-
-Package: cn.octoforce.squidextender
 Architecture: iphoneos-arm
 Version: 1.1.3
 Section: Tweaks
@@ -1273,25 +1216,6 @@ Author: SquidForce, Backup
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
 Package: cn.octoforce.squidextender
-Architecture: iphoneos-arm64e
-Version: 1.1.3
-Section: Tweaks
-Maintainer: SquidForce, Backup
-Installed-Size: 4844
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.squidforce.squidextender
-Filename: ./debians/cn.octoforce.squidextender_1.1.3_iphoneos-arm64e.deb
-Size: 1155374
-MD5sum: a87454850d6963905fc723df12983f6d
-SHA1: 2ddd09c935daf8b9a56c354fe13eb2fc75570bfb
-SHA256: 3e2465b415cd40cc1158dabda1fc41be952697c8cd99bf6d98a43782438b30d7
-SHA512: 794cc88e3aaf8e06c6d5a849e38a202145e55096bbb2cb6feddd13ea16fa7ada703d0f1d29fa1f7f913cd393421d90c7687b7f1e17b46a50bcd2dc3804d9cd1a
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
-Name: SquidExtender(激活码版)
-Author: SquidForce, Backup
-SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
-
-Package: cn.octoforce.squidextender
 Architecture: iphoneos-arm
 Version: 1.1.5
 Section: Tweaks
@@ -1324,25 +1248,6 @@ MD5sum: 3c235f911f3bb3a65b480e99012d1550
 SHA1: f0bb93d63331ffb12df89745cf238f85371a4e95
 SHA256: fd4d16709c7903f38e98309e2fe6bec0dd6872c65c90ffbad640fbc1d42ac1ed
 SHA512: e700b566b3bba1cc9584ca583d51f3cc9a95809f949cdfe8af0a5fbb9c27f04ed1a3f60639c4264bc0e95fef5291d15eac80d00c90d726530c15f81343294524
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
-Name: SquidExtender(激活码版)
-Author: SquidForce, Backup
-SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
-
-Package: cn.octoforce.squidextender
-Architecture: iphoneos-arm64e
-Version: 1.1.5
-Section: Tweaks
-Maintainer: SquidForce, Backup
-Installed-Size: 4908
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.squidforce.squidextender
-Filename: ./debians/cn.octoforce.squidextender_1.1.5_iphoneos-arm64e.deb
-Size: 1174530
-MD5sum: a93fa92831af870f3139de1f2580c489
-SHA1: c2e46dd09418a2164a7db16caf73b31ced84bacf
-SHA256: 38b8725e834f639791903934f8bb9bab326cf65d5de29b05fbe82519c8dcca0b
-SHA512: 7a7f569e1c767670dfa3831652a330e2f41a4c1d30b0a81de846e934ec12d68263dcd32a4dc9a94fbeebd095ea5665174754fc4a1666aa6cca8f4e82ef85b3a1
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
 Name: SquidExtender(激活码版)
 Author: SquidForce, Backup
