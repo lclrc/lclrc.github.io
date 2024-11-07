@@ -89,7 +89,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 1. 重写ChatGPT对话窗口：\n\t\u2023     * 去掉原来的长按窗口手势\n\t\u2023     * 长按对话可弹出交互菜单，包括“重新生成”，“复制”，“分享”，并可以预览大段文字\n\t\u2023     * 窗口底部添加小横条，拖动横条附近可关闭窗口(除了向下拖动)，点按返回底部\n\t\u2023 2. 增加选择(光标到文初)和选择(光标到文末)动作\n\t\u2023 3. 加回子动作菜单弹出音效\n\t\u2023 4. 优化听写动作：当正在听写时，再次执行可停止听写\n\t\u2023 5. 调整流式输出速度\n\t\u2023 6. 修复部分输入框中换行动作闪退",
+          "markdown": "1. 重写ChatGPT对话窗口：\n    * 去掉原来的长按窗口手势\n    * 长按对话可弹出交互菜单，包括“重新生成”，“复制”，“分享”，并可以预览大段文字\n    * 窗口底部添加小横条，拖动横条附近可关闭窗口(除了向下拖动)，点按返回底部\n2. 增加选择(光标到文初)和选择(光标到文末)动作\n3. 加回子动作菜单弹出音效\n4. 优化听写动作：当正在听写时，再次执行可停止听写\n5. 调整流式输出速度\n6. 修复部分输入框中换行动作闪退",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
@@ -102,7 +102,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 1. 面板背景：可设置自定义图片\n\t\u2023 2. 键盘设置：增加兼容Laetus开关\n\t\u2023 3. 修复边框颜色不跟随深色模式",
+          "markdown": "1. 面板背景：可设置自定义图片\n2. 键盘设置：增加兼容Laetus开关\n3. 修复边框颜色不跟随深色模式",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
@@ -115,7 +115,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 1. GPT增加一些错误提示，比如key余额不足等\n\t\u2023 2. 去掉弹出子动作菜单时的音效，测试看还会不会出现音效爆音\n\t\u2023 3. 修复2.0.7引入的gpt结果不能插入到输入框",
+          "markdown": "1. GPT增加一些错误提示，比如key余额不足等\n2. 去掉弹出子动作菜单时的音效，测试看还会不会出现音效爆音\n3. 修复2.0.7引入的gpt结果不能插入到输入框",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
@@ -128,7 +128,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 1. 增加清空(光标到文初)和清空(光标到文末)动作\n\t\u2023 2. 增加简繁转换动作\n\t\u2023 3. 增加Kayoko动作\n\t\u2023 4. 设置中增加一些提示",
+          "markdown": "1. 增加清空(光标到文初)和清空(光标到文末)动作\n2. 增加简繁转换动作\n3. 增加Kayoko动作\n4. 设置中增加一些提示",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
@@ -141,7 +141,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 1. 增加键盘设置：键盘下沉，内部显示地球，修复SwipeExtenderX闪退等开关\n\t\u2023 2. 优化“清空”动作，清空后同步键盘发送键状态等",
+          "markdown": "1. 增加键盘设置：键盘下沉，内部显示地球，修复SwipeExtenderX闪退等开关\n2. 优化“清空”动作，清空后同步键盘发送键状态等",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
@@ -154,7 +154,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 1. 增加5个ChatGPT相关动作。这5个动作作为主动作，且没有添加子动作时，有一个默认的长按菜单，可切换提示词或切换模型\n\t\u2023 2. 在这几个动作没有在动作编辑中选定某一个提示词时，会使用长按菜单中选中的提示词或第一个提示词\n\t\u2023 3. 在等待网络响应时，全屏可长按强制取消\n\t\u2023 4. 在弹出对话窗口时，点击右边的气泡，是插入输入框但不关闭对话窗口；点击左边气泡，是插入并关闭对话窗口\n\t\u2023 5. 长按对话界面是关闭对话窗口，也可以用动作关闭，或在插入一个结果后自动关闭\n\t\u2023 6. 输入框没文字时，使用剪贴板中文字作为输入\n\t\u2023 7. 轻扫动作在选择“脚本/便捷输入/GPT”时，可以设置标题，方便区分\n\t\u2023 8. 可自定义AI参数：是否流式输出结果，对话记忆，创意温度，选择API服务器等\n\t\u2023 9. 还有些说明，请看设置中各个脚注",
+          "markdown": "1. 增加5个ChatGPT相关动作。这5个动作作为主动作，且没有添加子动作时，有一个默认的长按菜单，可切换提示词或切换模型\n2. 在这几个动作没有在动作编辑中选定某一个提示词时，会使用长按菜单中选中的提示词或第一个提示词\n3. 在等待网络响应时，全屏可长按强制取消\n4. 在弹出对话窗口时，点击右边的气泡，是插入输入框但不关闭对话窗口；点击左边气泡，是插入并关闭对话窗口\n5. 长按对话界面是关闭对话窗口，也可以用动作关闭，或在插入一个结果后自动关闭\n6. 输入框没文字时，使用剪贴板中文字作为输入\n7. 轻扫动作在选择“脚本/便捷输入/GPT”时，可以设置标题，方便区分\n8. 可自定义AI参数：是否流式输出结果，对话记忆，创意温度，选择API服务器等\n\t 还有些说明，请看设置中各个脚注",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"
