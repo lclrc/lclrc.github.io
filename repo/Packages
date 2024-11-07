@@ -1443,6 +1443,44 @@ Name: SquidExtender(激活码版)
 Author: SquidForce, Backup
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
 
+Package: cn.octoforce.squidextender
+Architecture: iphoneos-arm
+Version: 2.2.2
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 10088
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debians/cn.octoforce.squidextender_2.2.2_iphoneos-arm.deb
+Size: 2242678
+MD5sum: 5580eea0ca5826b059bc4521c8b9a580
+SHA1: 678baa322dd6d18d5f4e65ab5719ce75de593e65
+SHA256: d037cd19eb3fc36f03df75420be4de41a72c1c24a756995124cb02c84abcaee1
+SHA512: 6f39cdcfa2be566bd20824919bc005f895413ae00d165cbde05552d74c1de28e8f6fbe7a67f34c83181f61cf489219c232c36f2bb302c208d1aff6e0b0513015
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Name: SquidExtender(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: cn.octoforce.squidextender
+Architecture: iphoneos-arm64
+Version: 2.2.2
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 10072
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: ./debians/cn.octoforce.squidextender_2.2.2_iphoneos-arm64.deb
+Size: 2244502
+MD5sum: 3478b81a4dc4359e5b75ee115a867e2f
+SHA1: 49742c978e7d8c19f5842793431357a18cf174c1
+SHA256: 3dd44fda77244e5b71cebbd350acabccd275879b8f31e5c2b121e50e831d36b9
+SHA512: d42190d01dff540f2272ac230cf2b575fb915ab9ed5a0459404fca6f214efd1f6619012b394a7a299fde78a1b878d6a7c0482644d135b5bc6d5cc45eeea73ca8
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Name: SquidExtender(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
 Package: cn.octoforce.squidgesturepro
 Architecture: iphoneos-arm
 Version: 2.1.6
