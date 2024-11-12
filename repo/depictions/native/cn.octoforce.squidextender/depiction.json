@@ -82,6 +82,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.3.0",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. 修复：2.2.2中计算器计算多行失效\n2. 优化OpenAi服务设置：现在即使key过期也能获取到所有模型\n3. 优化自定义服务设置：兼容几个第三方服务器的获取模型接口\n4. 优化动作：删除到文首/文末、选择到文首/文末，可在更多输入框生效\n2. 5. 增加动作：单一功能的“光标到文首/文末”，无视是否在选中文本状态\n6. 调整：ChatGPT等待动画颜色改为使用应用的主题色",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.2.2",
           "useBoldText": true,
           "useSpacing": false,
