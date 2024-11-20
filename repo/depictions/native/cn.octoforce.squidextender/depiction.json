@@ -82,6 +82,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "3.0.0",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. 增加翻译功能与动作\n2. **重要:** 当主动作为ChatGPT动作时，没有必要添加子动作，有一个自带的子动作菜单可以切换提示词和模型",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.3.0",
           "useBoldText": true,
           "useSpacing": false,
