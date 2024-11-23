@@ -48,6 +48,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.6.2",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. “设置”的url scheme开头不区分大小写，可以用prefs或Prefs\n2. 增加PullOver相关动作\n3. 增加CopyVault相关动作\n4. 增加fv相关动作(需安装对应插件，不安装没有此功能)\n5. 修复横屏时截屏仅复制问题",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.5.3",
           "useBoldText": true,
           "useSpacing": false,

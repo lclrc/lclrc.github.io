@@ -2181,6 +2181,63 @@ Name: SquidGesturePro(激活码)
 Author: SquidForce, Backup
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
 
+Package: cn.octoforce.squidgesturepro
+Architecture: iphoneos-arm
+Version: 2.6.2
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 7388
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: ./debians/cn.octoforce.squidgesturepro_2.6.2_iphoneos-arm.deb
+Size: 2075308
+MD5sum: 2a76eae7eb07089a609ea8096ef46a8a
+SHA1: 122ad2b3d50a813d1d4ffb892f02b36c958e2b6b
+SHA256: cb8a94fed2d0257fd5ac6a494cc628eba036aaf09dd43c76ba985ee2a84c21af
+SHA512: 857052cbc233a449c1ef50c8abccefcb8e57e573d300966d79ed89343c2035ef2adae007fab40bc36891ca139df2ab9f92c08da79221d4b23c46879aba2ee5ad
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Name: SquidGesturePro(激活码)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
+Package: cn.octoforce.squidgesturepro
+Architecture: iphoneos-arm64
+Version: 2.6.2
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 7308
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: ./debians/cn.octoforce.squidgesturepro_2.6.2_iphoneos-arm64.deb
+Size: 2066740
+MD5sum: 42d6ce6ba18ac01b828dccb67e2ca7fc
+SHA1: 76882d30a2b7047fd2bc5abc3d6066070c78b5c2
+SHA256: 435e00a771ffb6a1be54f8c8439c3bd16b5a809676ba62461e19b9811facfe6d
+SHA512: 72a6a6481d84ffdf724405bcdae2587582b0ab797b379757a91ce04945e956d90555903be957b665af94d43b1e0dcb1534a22bbf0c015dcf9c18dc96f9090dbe
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Name: SquidGesturePro(激活码)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
+Package: cn.octoforce.squidgesturepro
+Architecture: iphoneos-arm64e
+Version: 2.6.2
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 7256
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: ./debians/cn.octoforce.squidgesturepro_2.6.2_iphoneos-arm64e.deb
+Size: 2048762
+MD5sum: 123c8d003a42e0127a7adcd0958de5de
+SHA1: 4352444fea1b754ae19f0a73a929d38c0f66c8c2
+SHA256: 4785fda5fea1c01a1702afb475cd5d4cec37bae77502bc801a3344ab5b9f4ed5
+SHA512: cdbaf323793be389de708236e800dcda0260f88b2bac3d3a4ecaaca2c9c57f6f9ed7c8838eb1f5ffac1970fb6146e1b7788aeceb9e3dc78c1344195c847112ac
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Name: SquidGesturePro(激活码)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
 Package: com.brend0n.nolowpowermode30secautolock
 Architecture: iphoneos-arm64
 Version: 0.0.1
