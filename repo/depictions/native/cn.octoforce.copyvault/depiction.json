@@ -44,7 +44,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "* 直观的界面\n* 可以保存文本/富文本/链接/图片等\n* 支持JavaScript脚本处理\n* 可以给收藏区记录添加备注\n* 收藏区自定义分组\n* 通过文本内容搜索\n* 通过类型搜索(关键词是txt，url，img等)\n* 通过来源应用名搜索\n* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)\n* 通过备注搜索(比如给图片或长文字添加的备注)\n* 搜索支持智能大小写\n支持输入法中上滑唤出\n支持外接键盘快捷键唤出\n* 可自定义界面\n* 长按/左滑/右滑单条记录进行更多操作\n* 联动其他插件，如SquidGesture、DockX、Hammer It、Snapper等\n* 支持iOS/iPadOS\n"
+          "markdown": "* 直观的界面\n* 可以保存文本/富文本/链接/图片等\n* 可使用正则表达式对剪贴板进行选择性保存\n* 支持JavaScript脚本处理\n* 可以给收藏区记录添加备注\n* 收藏区自定义分组\n* 通过文本内容搜索\n* 通过类型搜索(关键词是txt，url，img等)\n* 通过来源应用名搜索\n* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)\n* 通过备注搜索(比如给图片或长文字添加的备注)\n* 搜索支持智能大小写\n支持输入法中上滑唤出\n支持外接键盘快捷键唤出\n* 可自定义界面\n* 长按/左滑/右滑单条记录进行更多操作\n* 联动其他插件，如SquidGesture、DockX、Hammer It、Snapper等\n* 支持iOS/iPadOS\n"
         },
         {
           "spacing": 15,
@@ -81,6 +81,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.7.0",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. 增加：正则表达式过滤设置\n2. 增加：窗口左上角增加一个简单菜单按钮，包括清空剪贴板，清理图片，跳转收藏排序(iOS15及以上显示总数)\n3. 增加：调整窗口圆角，并增加设置开关\n4. 优化：调整“自动粘贴”方案以适应更多输入框\n5. 优化：设置中收藏记录排序，增加保存按钮，以即时生效\n6. 修复：短时间移动收藏夹多条记录到自定义分组时，出现遗漏问题\n7. 修复：第三方键盘上滑调出窗口时，不能“总是显示历史”和“总是显示收藏”\n8. 调整：调高一点窗口层级\n9. 其他：一些优化和修复",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.5.9",
           "useBoldText": true,
           "useSpacing": false,
@@ -88,7 +101,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\u2023 优化保存来自其他设备的复制记录(handoff)时的效率",
+          "markdown": "1. 优化保存来自其他设备的复制记录(handoff)时的效率",
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView"

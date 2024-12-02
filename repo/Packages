@@ -1063,6 +1063,63 @@ Name: CopyVault(激活码版)
 Author: SquidForce, Backup
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm
+Version: 1.7.0
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 5348
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debians/cn.octoforce.copyvault_1.7.0_iphoneos-arm.deb
+Size: 1676952
+MD5sum: 7287ac448fda0dfd828cff3468deea51
+SHA1: b2c5a1842313a153a8fcc1eba8a04fc4770faf91
+SHA256: 4646500f5804999619b873dfb25b6b1ec9d4740b251b9c9ff5f3b67bbb7088a4
+SHA512: 2d7395953d17821a731b5280960873c0eefac75a4619024abf410c9d91b0bf2e0c6003f91caf5c49de7301043c7ae06b09d1654426429c9e043ef25581db85b7
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm64
+Version: 1.7.0
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 5344
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debians/cn.octoforce.copyvault_1.7.0_iphoneos-arm64.deb
+Size: 1678442
+MD5sum: d9914532c573beba7f1991774d0aebc3
+SHA1: 930fa89eb200fb8164d2242eb285d6f753888d4a
+SHA256: 90cda45ff3c3f39d4a9dcc9470c558b359c1c415eacd9a5ea51c21246f78b2b1
+SHA512: 8de78034d11060f4515e39809f779a1e92e58039f2ef3f5c6385e475868336e860fb415a250e602a8f77780e61fb2c45ef437595d041344628495159040149b1
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.7.0
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 5260
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debians/cn.octoforce.copyvault_1.7.0_iphoneos-arm64e.deb
+Size: 1652480
+MD5sum: 268e5c50b7e27545ec7795fcb76889a5
+SHA1: 08697be55450638a18fda9a0a1fadf6c79a6b937
+SHA256: d078771fe872fe26ad9daf3c75f4d132dce1c826092900d24a7a76870626a820
+SHA512: 30fc9ea37e7059c682b54e17abb28948fc6694042528c4ef4803952f3d869cd299935812430a8d205914118a2feaa2c0e67ad3b6809d46d9f3afcb77b9327339
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
 Package: cn.octoforce.squidextender
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -2295,6 +2352,63 @@ Name: SquidGesturePro(激活码)
 Author: SquidForce, Backup
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
 
+Package: cn.octoforce.squidgesturepro
+Architecture: iphoneos-arm
+Version: 2.6.5
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 6612
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: ./debians/cn.octoforce.squidgesturepro_2.6.5_iphoneos-arm.deb
+Size: 1889970
+MD5sum: 2f806abef7cd8b591a854a47c4436967
+SHA1: d9a8ee4d3e36036520fac534120d8fdf23ea4d8c
+SHA256: dbd4cea48f12ba62f27074f7586dee3ec1b98e6c0cf54d71418391ba6997447d
+SHA512: 4dc9debb7a7796f2f30f835381f78a17c2a2be418ecc654f7547edc6fc1fee38832e6f2acebb736d7ade5dd4161bc097dbc4adc8998da2e020cb5e574919e39a
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Name: SquidGesturePro(激活码)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
+Package: cn.octoforce.squidgesturepro
+Architecture: iphoneos-arm64
+Version: 2.6.5
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 6660
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: ./debians/cn.octoforce.squidgesturepro_2.6.5_iphoneos-arm64.deb
+Size: 1903194
+MD5sum: f2a659c8431e47576418a8f64c6f68b7
+SHA1: 45106d5e2e877536f0607854f549fd7edd8965b6
+SHA256: 5657d03a7716a929c2b76caba8193e4b779c38a6dad11711b6642c76e5819dcd
+SHA512: 689cacfc9459180e001b2c413b7527a2d527dc1a8fcdb8f0377f56792dbb34a2720f004d2f7572d686abef9f2d5d7d56024ad3e74206480ca1766e3934cc4cc4
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Name: SquidGesturePro(激活码)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
+Package: cn.octoforce.squidgesturepro
+Architecture: iphoneos-arm64e
+Version: 2.6.5
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 6548
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: ./debians/cn.octoforce.squidgesturepro_2.6.5_iphoneos-arm64e.deb
+Size: 1880654
+MD5sum: 6a067e80cbdab62cc3a4da8af1fbd399
+SHA1: 8a3396413b5aa7c7a38f188f7324cfe969a16cd1
+SHA256: 5ebecc6b219011c6435ec10c751022640091e4e49b9ef6615df8194bfd8cb56c
+SHA512: e91d3663d1fb6610460cccf12285e0377de3836f2e9c340f55c0e6719e36b53f51c31e7f82d87ef1471d39838dbb0a3c0ff95a912768469040f6d8b3caa2d260
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Name: SquidGesturePro(激活码)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
 Package: com.brend0n.nolowpowermode30secautolock
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -3108,6 +3222,40 @@ Name: ExactTime(English Version)
 Author: gilshahar7, SquidForce
 Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.exacttimeen/depiction.json
+
+Package: com.squidforce.moreactionsforappicon
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/com.squidforce.moreactionsforappicon_1.1.0_iphoneos-arm.deb
+Size: 8302
+MD5sum: 7eb6cca6c6cd09e66165f033049443c5
+SHA1: 9f93bd2c4331cd8513ce11a17255b986aa6a28b0
+SHA256: 9064335aeb11d6dfee3d282e8568b8628de1483e9e205e111bd6e020fbd0e298
+SHA512: 55c3a18e3dadda08b63b620ee2e320f564ffe2e65a390b7586afff84368ecbf9886843b5a980b4cf572d8fdc0d5fae38af9beac8012feb98b2fe5e9f323bf9bb
+Description: 添加“应用标识符”，“应用设置”和“在AppStore中查看”动作，并去掉多余动作。More actions for AppIcon's 3D Touch menu, and less duplicated actions.
+Name: 应用3DTouch菜单
+Author: SquidForce
+
+Package: com.squidforce.moreactionsforappicon
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/com.squidforce.moreactionsforappicon_1.1.0_iphoneos-arm64.deb
+Size: 8286
+MD5sum: b62ea82a38f5399bd394d7c27d96786d
+SHA1: 66bf4e0fe523dd8d99afb918fd934c35a2e5c652
+SHA256: 615a9981c38abc2c741c750f07e6a506bae66e7883fde2c4070508f963066051
+SHA512: be8963489e2f6ad417212c12a2be592b513466fa90f68595fd65a4630543666b9c8ff083d259522d033db37b2bcbddb882d8e9921f84657c035a99bbef4cd83a
+Description: 添加“应用标识符”，“应用设置”和“在AppStore中查看”动作，并去掉多余动作。More actions for AppIcon's 3D Touch menu, and less duplicated actions.
+Name: 应用3DTouch菜单
+Author: SquidForce
 
 Package: com.squidforce.simplehomelite
 Architecture: iphoneos-arm

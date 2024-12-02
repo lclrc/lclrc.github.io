@@ -48,6 +48,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.6.5",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. 修复：Zetsu相关动作等\n2. 优化：面板可在屏幕锁定时显示\n3. 优化：屏幕锁定时打开app或链接的情况\n4. 一些优化",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.6.2",
           "useBoldText": true,
           "useSpacing": false,
