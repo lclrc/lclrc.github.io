@@ -2853,23 +2853,6 @@ Description: including iMark and Piiico for now
 Name: Plugins For Snapper3
 Author: SquidForce(乌贼力量)
 
-Package: com.lclrc.snapper3.plugins
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: Tweaks
-Maintainer: SquidForce(乌贼力量)
-Installed-Size: 208
-Depends: mobilesubstrate (>= 1.0.5000)
-Filename: ./debians/com.lclrc.snapper3.plugins_1.0_iphoneos-arm64e.deb
-Size: 33406
-MD5sum: c4197b639bc66fbd1e01b1a554d1c13b
-SHA1: 07f2b52240549d649994abf99e5ffc70b75c58be
-SHA256: acf455ade7d826dcdd3038cd72a6fe1fd587a91df877425405e5b3c5f6822afc
-SHA512: 6fced89b536ade8f573a16471e87b6e90a7abd61b96fea5c2c9d37b6f3fbe5620df2e6063e9eae0b57e2b63df4f3739408ec504f4c3dc206770bd346bbffbf5c
-Description: including iMark and Piiico for now
-Name: Plugins For Snapper3
-Author: SquidForce(乌贼力量)
-
 Package: com.lclrc.squidgesture
 Architecture: iphoneos-arm64e
 Version: 1.2.7
