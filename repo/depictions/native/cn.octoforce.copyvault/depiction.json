@@ -10,7 +10,7 @@
         },
         {
           "text": "获取正版授权",
-          "action": "https://www.wcfaka.com/details/43CBBA8F",
+          "action": "https://www.wcfaka.com/links/8ED56D12",
           "class": "DepictionButtonView"
         },
         {
@@ -55,7 +55,7 @@
         },
         {
           "text": "获取正版授权",
-          "action": "https://www.wcfaka.com/details/43CBBA8F",
+          "action": "https://www.wcfaka.com/links/8ED56D12",
           "class": "DepictionButtonView"
         },
         {
@@ -80,6 +80,19 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "1.7.5",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. 优化：部分情况下，搜索时窗口没有避开键盘\n2. 优化：腾讯系列app中粘贴\n3. 调整：去掉保存剪贴板前的延迟，以降低其他插件导致pasted出问题的影响\n4. 修复一些问题和其他一些优化\n5. 建议：建议根据自己机子承受能力调整剪贴板保存个数上限，定期清理图片记录等，不要盲目自信。承受能力的影响因素包括且不限于插件数，机型，越狱版本，jetsam倍数等等",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
         {
           "title": "1.7.0",
           "useBoldText": true,

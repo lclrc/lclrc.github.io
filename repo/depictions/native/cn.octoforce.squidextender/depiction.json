@@ -10,7 +10,7 @@
         },
         {
           "text": "获取正版授权",
-          "action": "https://www.wcfaka.com/details/55CE9955",
+          "action": "https://www.wcfaka.com/links/8ED56D12",
           "class": "DepictionButtonView"
         },
         {
@@ -50,7 +50,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## 功能自定义\n- GPT功能\n- 智能复制\n- 粘贴\n- 全选并粘贴\n- 智能剪切\n- 清空输入框\n- 恢复输入框\n- 撤销\n- 重做\n- 智能光标移到起始位置\n- 智能光标移到末尾位置\n- 关闭键盘\n- 换行\n- 自定义便捷输入\n- 智能光标向左\n- 智能光标向右\n- 光标向上\n- 光标向下\n- 选择文本\n- 选择一行\n- 选择全部\n- 调整选区范围\n- JavaScript脚本\n- 唤出CopyVault\n\n## 界面自定义\n可自定义各个细节，是融入式，还是按键式，还是彩色，随意调节\n\n## 便捷输入\n不仅仅能够输入预设文本的便捷输入，更能通过内置的几个变量来操作选区文本、剪贴板文本和光标位置\n\n## JavaScript脚本\n通过强大的JavaScript语言，自由处理输入框中的文本，并自动填入输入框。没有做不到，只有想不到\n\n## 翻译正在开发中\n"
+          "markdown": "## 功能自定义\n- GPT功能\n- 普通翻译与即时翻译\n- 智能复制\n- 粘贴\n- 全选并粘贴\n- 智能剪切\n- 清空输入框\n- 恢复输入框\n- 撤销\n- 重做\n- 智能光标移到起始位置\n- 智能光标移到末尾位置\n- 关闭键盘\n- 换行\n- 自定义便捷输入\n- 智能光标向左\n- 智能光标向右\n- 光标向上\n- 光标向下\n- 选择文本\n- 选择一行\n- 选择全部\n- 调整选区范围\n- JavaScript脚本\n- 唤出CopyVault\n\n## 界面自定义\n可自定义各个细节，是融入式，还是按键式，还是彩色，随意调节\n\n## 便捷输入\n不仅仅能够输入预设文本的便捷输入，更能通过内置的几个变量来操作选区文本、剪贴板文本和光标位置\n\n## JavaScript脚本\n通过强大的JavaScript语言，自由处理输入框中的文本，并自动填入输入框。没有做不到，只有想不到\n\n"
         },
         {
           "spacing": 15,
@@ -61,7 +61,7 @@
         },
         {
           "text": "获取正版授权",
-          "action": "https://www.wcfaka.com/details/55CE9955",
+          "action": "https://www.wcfaka.com/links/8ED56D12",
           "class": "DepictionButtonView"
         },
         {
@@ -81,6 +81,19 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "3.5.0",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. 增强：扩展脚本能力，包括打开链接(包括url scheme)，联网请求，读写剪贴板，base64编解码，md5编码，查看脚本运行日志等。详见编辑脚本处说明。\n2. 增加：切换表情键盘动作\n3. 修复：在浏览器中部分特殊情况下，不显示按钮\n4. 优化：编辑脚本处的测试文本可保存\n5. 优化：腾讯系列app中粘贴图片\n6. 优化：修改GPT/翻译/脚本等即时生效，增删按钮等与界面显示相关设置仍需要划掉应用后台(除了在“设置”中，所有修改都是即时生效)\n7. 调整：编辑脚本处的测试文本改为默认为空\n8. 其他一些优化",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
         {
           "title": "3.0.0",
           "useBoldText": true,

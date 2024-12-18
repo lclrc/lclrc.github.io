@@ -22,7 +22,7 @@
         },
         {
           "text": "获取正版授权",
-          "action": "https://www.wcfaka.com/details/AE89DFA1",
+          "action": "https://www.wcfaka.com/links/8ED56D12",
           "class": "DepictionButtonView"
         },
         {
@@ -47,6 +47,19 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "2.6.6",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. 优化：锁屏执行单动作逻辑\n2. 修复：“打开链接”动作中不能保存图标设置",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
         {
           "title": "2.6.5",
           "useBoldText": true,
