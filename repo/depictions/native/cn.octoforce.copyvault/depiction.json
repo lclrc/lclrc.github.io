@@ -81,6 +81,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.7.8",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. 修复：搜索时，在一些操作后，界面没有立即刷新\n2. 优化：避免一些界面闪烁\n3. 调整：窗口右上角的“滚动到最底”改为“临时固定窗口”\n4. 设置：“高级设置”增加“历史条目固定顺序”\n5. 微调：窗口左右角落两个按钮",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.7.5",
           "useBoldText": true,
           "useSpacing": false,
