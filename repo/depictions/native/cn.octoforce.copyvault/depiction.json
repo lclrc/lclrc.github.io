@@ -81,6 +81,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.7.9",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. 修复：搜索时，使用系统九宫格拼音且有未上屏拼音的情况下，点击记录可能会安全模式\n2. 修复：搜索时，临时固定窗口状态无效",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.7.8",
           "useBoldText": true,
           "useSpacing": false,
