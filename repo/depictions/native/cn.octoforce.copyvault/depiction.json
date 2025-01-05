@@ -81,6 +81,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.8.1",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. 调整：调高面板层级，以防止有些情况下被其他视图遮挡",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.8.0",
           "useBoldText": true,
           "useSpacing": false,

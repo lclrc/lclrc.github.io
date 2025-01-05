@@ -48,6 +48,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "2.6.9",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. 调整：调高面板层级，以防止有些情况下被其他视图遮挡\n2. 调整：调低浏览器页面(即不跳转Safari打开链接)层级，以便系统截图、Snapper3截图、唤出CopyVault窗口等操作",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "2.6.6",
           "useBoldText": true,
           "useSpacing": false,
