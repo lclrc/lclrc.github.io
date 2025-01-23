@@ -82,6 +82,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "3.5.5",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. 增加：键盘设置 - 隐藏键盘外地球和听写\n2. 增加：新动作 - 九宫格数字键盘（可配合系统输入法）\n3. 增加：脚本支持$app方法打开应用\n4. 调整：去掉单独的$kb.return()方法，增加$kb.insertAndReturn(str)将插入文本并回车\n5. 调整：按钮标题设置改为可换行输入框\n6. 修复：iPad QQ上执行部分脚本闪退\n7. 修复：打开应用后初次启用即时翻译无效果",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "3.5.0",
           "useBoldText": true,
           "useSpacing": false,
