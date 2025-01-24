@@ -81,6 +81,19 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.8.2",
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "1. 重构部分代码",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
           "title": "1.8.1",
           "useBoldText": true,
           "useSpacing": false,
