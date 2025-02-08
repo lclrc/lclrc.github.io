@@ -89,6 +89,19 @@
             "tabname": "Changelog",
             "views": [
                 {
+                    "title": "3.6.5",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "1. 增加：GPT预设“Gemini”服务器设置中可设置反向代理URL\n2. 优化：GPT支持显示推理类模型的推理过程\n3. 优化：GPT切换服务器后，重置上次选择的模型为切换后服务器的第一个模型\n4. 修复：GPT自定义服务器获取模型的问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "title": "3.6.2",
                     "useBoldText": true,
                     "useSpacing": false,
