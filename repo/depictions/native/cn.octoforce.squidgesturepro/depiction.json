@@ -1,228 +1,241 @@
 {
-  "minVersion": "0.1",
-  "headerImage": "https://lclrc.github.io/repo/assets/repo/Banners/1.jpg",
-  "tabs": [
-    {
-      "tabname": "Details",
-      "views": [
+    "minVersion": "0.1",
+    "headerImage": "https://lclrc.github.io/repo/assets/repo/Banners/1.jpg",
+    "tabs": [
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装!\nPro版将突破每个手势只能选择一个动作的限制，在选择多个动作后，自动以面板的形式显示。(在选择一个动作时仍为直接执行，不会显示面板)\n"
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装!\nPro版将突破每个手势只能选择一个动作的限制，在选择多个动作后，自动以面板的形式显示。(在选择一个动作时仍为直接执行，不会显示面板)\n"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "\n"
+                },
+                {
+                    "spacing": 15,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "获取正版授权",
+                    "action": "https://www.wcfaka.com/links/8ED56D12",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "依赖",
+                    "text": "preferenceloader",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
         },
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "\n"
-        },
-        {
-          "spacing": 15,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "text": "获取正版授权",
-          "action": "https://www.wcfaka.com/links/8ED56D12",
-          "class": "DepictionButtonView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "title": "依赖",
-          "text": "preferenceloader",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "spacing": 20,
-          "class": "DepictionSpacerView"
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "title": "2.7.2",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "1. 增加动作：重新打开当前应用\n2. 增加动作：显示应用切换器界面\n3. 增加动作：媒体静音",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.6.9",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "1. 调整：调高面板层级，以防止有些情况下被其他视图遮挡\n2. 调整：调低浏览器页面(即不跳转Safari打开链接)层级，以便系统截图、Snapper3截图、唤出CopyVault窗口等操作",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.6.6",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "1. 优化：锁屏执行单动作逻辑\n2. 修复：“打开链接”动作中不能保存图标设置",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.6.5",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "1. 修复：Zetsu相关动作等\n2. 优化：面板可在屏幕锁定时显示\n3. 优化：屏幕锁定时打开app或链接的情况\n4. 一些优化",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.6.2",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "1. “设置”的url scheme开头不区分大小写，可以用prefs或Prefs\n2. 增加PullOver相关动作\n3. 增加CopyVault相关动作\n4. 增加fv相关动作(需安装对应插件，不安装没有此功能)\n5. 修复横屏时截屏仅复制问题",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.5.3",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\u2023 部分动作在通知界面执行时，增加先自动返回主屏幕",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.5.2+8",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\u2023 增加自定义面板界面设置\n\t\u2023 增加备份还原设置\n\t\u2023 优化系统录屏\n\t\u2023 调整一些细节",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.5.0",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\u2023 增加动作：Siri(需启用侧边按钮使用Siri)\n\t\u2023 增加动作：辅助功能快捷键(需设置辅助功能快捷键)\n\t\u2023 增加动作：Apple Pay(需启用侧边按钮使用钱包卡片)\n\t\u2023 增加动作类：快捷方式(即应用的3D touch选项)\n\t\u2023 面板上动作增加上(下)划手势\n\t\u2023 应用打开方式中增加：在svp分屏中打开\n\t\u2023 增加高级设置：链接类动作设置、快捷方式类动作设置，如果选择非全屏打开，将直接在相应的插件内打开应用并跳转链接或快捷方式，比如Zetsu、PullOverPro、SplitViewPro\n\t\u2023 选择打开应用和快捷指令页面添加搜索\n\t\u2023 全部动作可自定义标题和图标\n\t\u2023 所有原预设动作移动到基础动作\n\t\u2023 选择动作界面右上角增加编辑按钮，并改为：处于编辑状态时，可以排序和点击已选择项删除；处于非编辑状态时，点击已选择项修改图标等设置，防止误触误删除\n\t\u2023 编辑预设链接页面：在编辑状态下，可选择多个导出到文件\n\t\u2023 部分页面添加脚注说明",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.2.9",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\u2023 增加设置：编辑预设链接。并可导入链接或分享链接等\n\t\u2023 选择动作页面增加：预设链接",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.2.7",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\u2023 高级设置增加“应用类动作打开方式”设置",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.2.6",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\u2023 打开链接图标支持设置为自定义图片的文件路径\n\t\u2023 增加面板中上滑/下滑收起面板\n\t\u2023 新增TrollRecord的几个动作\n\t\u2023 微调面板中应用类动作的长按时间\n\t\u2023 微调音量键触发时间\n\t\u2023 微调设置部分界面\n\t\u2023 切换暗黑模式动作不再关闭系统的自动深色开关\n\t\u2023 优化截屏并编辑动作\n\t\u2023 优化打开链接关键字输入框\n\t\u2023 修复iOS14上低电量动作只能开不能关\n\t\u2023 修复打开链接输入关键字中不能包含空格",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.2.2",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\u2023 增加主屏幕下划手势\n\t\u2023 “打开链接”新增支持“设置”的Url Scheme，比如，Prefs:root=Bluetooth 或 Prefs:root=SquidGesture Pro&path=statusBarOptions/statusBarMiddleGroup\n\t\u2023 修复部分系统上，旋转屏幕前，面板不会自动关闭\n\t\u2023 修复部分情况下面板内个别动作显示在面板外",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.2.0",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\u2023 新增打开链接动作，具体看设置内说明\n\t\u2023 新增动作流\n\t\u2023 微调窗口优先级",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "title": "2.1.7",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "\t\u2023 新增动作：截图并标记\n\t\u2023 新增动作：开麦录屏\n\t\u2023 原动作“系统录屏”改为默认闭麦录屏",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 20,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
         }
-      ],
-      "class": "DepictionStackView"
-    },
-    {
-      "tabname": "Changelog",
-      "views": [
-        {
-          "title": "2.6.9",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "1. 调整：调高面板层级，以防止有些情况下被其他视图遮挡\n2. 调整：调低浏览器页面(即不跳转Safari打开链接)层级，以便系统截图、Snapper3截图、唤出CopyVault窗口等操作",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "title": "2.6.6",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "1. 优化：锁屏执行单动作逻辑\n2. 修复：“打开链接”动作中不能保存图标设置",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "title": "2.6.5",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "1. 修复：Zetsu相关动作等\n2. 优化：面板可在屏幕锁定时显示\n3. 优化：屏幕锁定时打开app或链接的情况\n4. 一些优化",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "title": "2.6.2",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "1. “设置”的url scheme开头不区分大小写，可以用prefs或Prefs\n2. 增加PullOver相关动作\n3. 增加CopyVault相关动作\n4. 增加fv相关动作(需安装对应插件，不安装没有此功能)\n5. 修复横屏时截屏仅复制问题",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "title": "2.5.3",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\u2023 部分动作在通知界面执行时，增加先自动返回主屏幕",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "title": "2.5.2+8",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\u2023 增加自定义面板界面设置\n\t\u2023 增加备份还原设置\n\t\u2023 优化系统录屏\n\t\u2023 调整一些细节",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "title": "2.5.0",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\u2023 增加动作：Siri(需启用侧边按钮使用Siri)\n\t\u2023 增加动作：辅助功能快捷键(需设置辅助功能快捷键)\n\t\u2023 增加动作：Apple Pay(需启用侧边按钮使用钱包卡片)\n\t\u2023 增加动作类：快捷方式(即应用的3D touch选项)\n\t\u2023 面板上动作增加上(下)划手势\n\t\u2023 应用打开方式中增加：在svp分屏中打开\n\t\u2023 增加高级设置：链接类动作设置、快捷方式类动作设置，如果选择非全屏打开，将直接在相应的插件内打开应用并跳转链接或快捷方式，比如Zetsu、PullOverPro、SplitViewPro\n\t\u2023 选择打开应用和快捷指令页面添加搜索\n\t\u2023 全部动作可自定义标题和图标\n\t\u2023 所有原预设动作移动到基础动作\n\t\u2023 选择动作界面右上角增加编辑按钮，并改为：处于编辑状态时，可以排序和点击已选择项删除；处于非编辑状态时，点击已选择项修改图标等设置，防止误触误删除\n\t\u2023 编辑预设链接页面：在编辑状态下，可选择多个导出到文件\n\t\u2023 部分页面添加脚注说明",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "title": "2.2.9",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\u2023 增加设置：编辑预设链接。并可导入链接或分享链接等\n\t\u2023 选择动作页面增加：预设链接",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "title": "2.2.7",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\u2023 高级设置增加“应用类动作打开方式”设置",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "title": "2.2.6",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\u2023 打开链接图标支持设置为自定义图片的文件路径\n\t\u2023 增加面板中上滑/下滑收起面板\n\t\u2023 新增TrollRecord的几个动作\n\t\u2023 微调面板中应用类动作的长按时间\n\t\u2023 微调音量键触发时间\n\t\u2023 微调设置部分界面\n\t\u2023 切换暗黑模式动作不再关闭系统的自动深色开关\n\t\u2023 优化截屏并编辑动作\n\t\u2023 优化打开链接关键字输入框\n\t\u2023 修复iOS14上低电量动作只能开不能关\n\t\u2023 修复打开链接输入关键字中不能包含空格",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "title": "2.2.2",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\u2023 增加主屏幕下划手势\n\t\u2023 “打开链接”新增支持“设置”的Url Scheme，比如，Prefs:root=Bluetooth 或 Prefs:root=SquidGesture Pro&path=statusBarOptions/statusBarMiddleGroup\n\t\u2023 修复部分系统上，旋转屏幕前，面板不会自动关闭\n\t\u2023 修复部分情况下面板内个别动作显示在面板外",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "title": "2.2.0",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\u2023 新增打开链接动作，具体看设置内说明\n\t\u2023 新增动作流\n\t\u2023 微调窗口优先级",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "title": "2.1.7",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\u2023 新增动作：截图并标记\n\t\u2023 新增动作：开麦录屏\n\t\u2023 原动作“系统录屏”改为默认闭麦录屏",
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "spacing": 20,
-          "class": "DepictionSpacerView"
-        }
-      ],
-      "class": "DepictionStackView"
-    }
-  ],
-  "class": "DepictionTabView"
+    ],
+    "class": "DepictionTabView"
 }
