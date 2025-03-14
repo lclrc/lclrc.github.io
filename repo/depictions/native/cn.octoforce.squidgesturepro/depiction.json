@@ -48,6 +48,19 @@
             "tabname": "Changelog",
             "views": [
                 {
+                    "title": "2.7.5",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "1. 增加触发方式：主屏幕双击/三击，锁屏界面双击/三击\n2. 增加动作：返回主屏幕",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "title": "2.7.2",
                     "useBoldText": true,
                     "useSpacing": false,

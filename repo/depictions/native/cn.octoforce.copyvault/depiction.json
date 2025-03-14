@@ -86,6 +86,19 @@
             "tabname": "Changelog",
             "views": [
                 {
+                    "title": "1.8.6",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "1. 优化：在系统内置终端app中不能粘贴",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "title": "1.8.5",
                     "useBoldText": true,
                     "useSpacing": false,
