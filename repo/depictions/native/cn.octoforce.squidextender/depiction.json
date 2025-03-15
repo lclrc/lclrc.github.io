@@ -89,6 +89,19 @@
             "tabname": "Changelog",
             "views": [
                 {
+                    "title": "3.7.0",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "1. 增加：GPT窗口中消息长按支持Hammer It分词\n2. 增加：动作：单手键盘（左/右）\n3. 增加：设置：隐藏选择输入法菜单中的键盘设置和单手模式切换\n4. 优化：在系统内置终端app中不能粘贴",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "title": "3.6.5",
                     "useBoldText": true,
                     "useSpacing": false,

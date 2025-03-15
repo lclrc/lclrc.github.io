@@ -48,6 +48,19 @@
             "tabname": "Changelog",
             "views": [
                 {
+                    "title": "2.7.6",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "1. 修复：只添加一个“返回主屏幕”动作时，无效果",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "title": "2.7.5",
                     "useBoldText": true,
                     "useSpacing": false,
