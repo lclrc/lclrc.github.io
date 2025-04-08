@@ -86,14 +86,14 @@
             "tabname": "Changelog",
             "views": [
                 {
-                    "title": "1.8.6",
+                    "title": "1.8.6-1",
                     "useBoldText": true,
                     "useSpacing": false,
                     "useBottomMargin": false,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "1. 优化：在系统内置终端app中不能粘贴",
+                    "markdown": "1. 更新发卡网域名\n2. 优化：在系统内置终端app中不能粘贴",
                     "useSpacing": false,
                     "useBottomMargin": false,
                     "class": "DepictionMarkdownView"

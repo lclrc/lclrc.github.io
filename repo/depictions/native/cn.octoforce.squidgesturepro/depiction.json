@@ -48,14 +48,14 @@
             "tabname": "Changelog",
             "views": [
                 {
-                    "title": "2.7.6",
+                    "title": "2.7.6-1",
                     "useBoldText": true,
                     "useSpacing": false,
                     "useBottomMargin": false,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "1. 修复：只添加一个“返回主屏幕”动作时，无效果",
+                    "markdown": "1. 更新发卡网域名\n2. 修复：只添加一个“返回主屏幕”动作时，无效果",
                     "useSpacing": false,
                     "useBottomMargin": false,
                     "class": "DepictionMarkdownView"

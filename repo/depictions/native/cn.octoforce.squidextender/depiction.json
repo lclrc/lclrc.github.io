@@ -89,14 +89,14 @@
             "tabname": "Changelog",
             "views": [
                 {
-                    "title": "3.7.3",
+                    "title": "3.7.3-1",
                     "useBoldText": true,
                     "useSpacing": false,
                     "useBottomMargin": false,
                     "class": "DepictionSubheaderView"
                 },
                 {
-                    "markdown": "1. 增加：动作：选择整句，选择整段\n2. 增加：动作：加粗，斜体，下划线",
+                    "markdown": "1. 更新发卡网域名\n2. 增加：动作：选择整句，选择整段\n3. 增加：动作：加粗，斜体，下划线",
                     "useSpacing": false,
                     "useBottomMargin": false,
                     "class": "DepictionMarkdownView"
