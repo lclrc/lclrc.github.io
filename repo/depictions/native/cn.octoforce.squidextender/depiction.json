@@ -10,7 +10,12 @@
                 },
                 {
                     "text": "获取正版授权",
-                    "action": "https://www.wcfaka.com/links/8ED56D12",
+                    "action": "https://shop.wangchengq.com/links/8ED56D12",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "text": "获取正版授权(备用站)",
+                    "action": "https://faka.squidforce.eu.org",
                     "class": "DepictionButtonView"
                 },
                 {
@@ -68,7 +73,12 @@
                 },
                 {
                     "text": "获取正版授权",
-                    "action": "https://www.wcfaka.com/links/8ED56D12",
+                    "action": "https://shop.wangchengq.com/links/8ED56D12",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "text": "获取正版授权(备用站)",
+                    "action": "https://faka.squidforce.eu.org",
                     "class": "DepictionButtonView"
                 },
                 {
