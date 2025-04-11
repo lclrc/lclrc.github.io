@@ -1462,6 +1462,63 @@ Name: CopyVault(激活码版)
 Author: SquidForce, Backup
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm
+Version: 1.8.7
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 6220
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debians/cn.octoforce.copyvault_1.8.7_iphoneos-arm.deb
+Size: 1669734
+MD5sum: c4ebe11905752e1bb57a24351559c32c
+SHA1: bdb430427f684e9e2d12719489ace17fd4223fea
+SHA256: c496362ff8f42c592859579071a8a97530343a7e2e503c97b74613543678b485
+SHA512: ac86d5f5f038e29b3215f4b0a678078b6283e455df361cb57e14ec3bdeadef844e9c91c479efa2a967e33695e7e5e64658fe00adfa895daefa7e58f1a464f07a
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm64
+Version: 1.8.7
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 6188
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debians/cn.octoforce.copyvault_1.8.7_iphoneos-arm64.deb
+Size: 1665166
+MD5sum: eb615f4d184486139ade81537e764219
+SHA1: 32a197300c6e2758a68583ea71751f3a1813c199
+SHA256: 31b6ecd86c0b5c535ac6c3a32f8f010e289b750fd905ae3a24a60c66a182afda
+SHA512: 66fca7f694321fbbfef7b5b0a82c5ac208810315d041d82e096d2ad1be4a8d98a4ee898649126b98373de39740af1fae9119addc0a479648854060d2902a4865
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.8.7
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 6284
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: ./debians/cn.octoforce.copyvault_1.8.7_iphoneos-arm64e.deb
+Size: 1697290
+MD5sum: 7382a2e3554374f444198a12454cd3d4
+SHA1: fa6c7a3c7cff8992602b4f0cc3b1cef437741ae5
+SHA256: ea3d6331e2bd38e4d2a6b0f542953af0c06c1e787cda3eeb9913dd4f2d8f9466
+SHA512: 30ee0519a19aabae095c80ca7757616a23e7126230ca47bb375eaa4dac65314aac359bbd458a2630db8f189196d29eb8faef934e770588b4f1a43627933f8e49
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
 Package: cn.octoforce.squidextender
 Architecture: iphoneos-arm
 Version: 1.0.1

@@ -86,6 +86,19 @@
             "tabname": "Changelog",
             "views": [
                 {
+                    "title": "1.8.7",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "1. 修复：iOS16某些情况下第一次搜索时窗口没有避开键盘",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "title": "1.8.6-1",
                     "useBoldText": true,
                     "useSpacing": false,
