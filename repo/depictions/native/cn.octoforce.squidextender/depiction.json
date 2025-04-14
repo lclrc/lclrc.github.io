@@ -99,6 +99,19 @@
             "tabname": "Changelog",
             "views": [
                 {
+                    "title": "3.7.4",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "1. 增加：脚本函数：`$util.jbpath(path)`转换传入的path为当前越狱环境下的真实路径",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "title": "3.7.3-1",
                     "useBoldText": true,
                     "useSpacing": false,
