@@ -96,6 +96,19 @@
             "tabname": "Changelog",
             "views": [
                 {
+                    "title": "1.9.0",
+                    "useBoldText": true,
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "1. 增加高级设置：返回顶部时是否自动显示搜索栏\n2. 增加高级设置：简约模式默认显示时间还是应用图标\n3. 窗口左上角菜单：增加简约模式下临时切换显示时间或图标",
+                    "useSpacing": false,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "title": "1.8.7",
                     "useBoldText": true,
                     "useSpacing": false,
